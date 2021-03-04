@@ -32,6 +32,9 @@ cpe_23_dict = {}
 official_but_no_cve = []
 
 for item in official_cpe_list:
+    if item.get("@deprecated", False) == "true":
+        continue
+
     cpe23 = item.get('cpe-23:cpe23-item')
 
     if cpe23:
