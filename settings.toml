@@ -1,0 +1,5 @@
+cpe_vendor_filters = [
+    "2wire",
+    "intel",
+    "zyxel"
+]

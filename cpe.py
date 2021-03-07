@@ -3,6 +3,12 @@ import json
 import gzip
 import requests
 import xmltodict
+import toml
+
+with open('settings.toml', 'r') as f:
+    settings = toml.load(f)
+
+cpe_vendor_filters = {f : True for f in settings["cpe_vendor_filters"]} 
 
 CPE_MATCH_URL = "https://nvd.nist.gov/feeds/json/cpematch/1.0/nvdcpematch-1.0.json.gz"
 CPE_DICT_V23_URL = "https://nvd.nist.gov/feeds/xml/cpe/dictionary/official-cpe-dictionary_v2.3.xml.gz"
@@ -50,6 +56,7 @@ for item in official_cpe_list:
                 del all_cpes[name]
 
 cpe_prefixes = {}
+filtered_cpe_prefixes = {}
 
 for cpe in all_cpes.keys():
     components = cpe.split(':')
@@ -57,8 +64,12 @@ for cpe in all_cpes.keys():
 
     cpe_prefixes[prefix] = True
 
+    if components[3] not in cpe_vendor_filters:
+        filtered_cpe_prefixes[prefix] = True
+
 sorted_prefixes = sorted(cpe_prefixes.keys())
 sorted_all = sorted(all_cpes.keys())
+sorted_filtered_prefixes = sorted(filtered_cpe_prefixes.keys())
 
 os.makedirs('data/cpe/', exist_ok=True)
 
@@ -67,6 +78,7 @@ print(f'Official Entries Total: {len(cpe_23_dict)}')
 print(f'Missing official entry: {len(cpes_with_no_official_entry)}')
 print(f'All: {len(sorted_all)}')
 print(f'Unique CPE prefixes: {len(sorted_prefixes)}')
+print(f'Filtered CPE prefixes: {len(sorted_filtered_prefixes)}')
 
 with open('data/cpe/cpes_with_no_official_entry.json', 'w+') as f:
     json.dump(cpes_with_no_official_entry, f, indent=2)
@@ -76,4 +88,7 @@ with open('data/cpe/all_cpes.json', 'w+') as f:
 
 with open('data/cpe/unique_prefixes.json', 'w+') as f:
     json.dump(sorted_prefixes, f, indent=2)
+
+with open('data/cpe/filtered_prefixes.json', 'w+') as f:
+    json.dump(sorted_filtered_prefixes, f, indent=2)
 
