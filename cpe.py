@@ -43,7 +43,29 @@ for item in official_cpe_list:
         name = cpe23.get('@name')
         
         if not deprecated:
-            cpe_23_dict[name] = item
+            title = item.get('title', {})
+            
+            if isinstance(title, list):
+                for t in title:
+                    if t.get('@xml:lang') == 'en-US':
+                        title = t.get('#text')
+            
+            if isinstance(title, list):
+                title = None
+
+            references = item.get('references', {}).get('reference', [])
+            dict_entry = {
+                'title': title,
+                'references': {},
+            }
+
+            if isinstance(references, dict):
+                references = [references]
+
+            for ref in references:
+                dict_entry['references'][ref.get('#text')] = ref.get('@href')
+
+            cpe_23_dict[name] = dict_entry
             all_cpes[name] = True
         else:
             if name in all_cpes:
@@ -76,4 +98,7 @@ with open('data/cpe/all_cpes.json', 'w+') as f:
 
 with open('data/cpe/unique_prefixes.json', 'w+') as f:
     json.dump(sorted_prefixes, f, indent=2)
+
+with open('data/cpe/official_dictionary.json', 'w+') as f:
+    json.dump(cpe_23_dict, f, indent=2)
 
