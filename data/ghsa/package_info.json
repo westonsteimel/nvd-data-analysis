@@ -1,0 +1,7524 @@
+{
+  "rubygems": {
+    "blockchain_wallet": {
+      "part": "a",
+      "vendor": "rest-client_project",
+      "product": "rest-client"
+    },
+    "jquery-rails": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "jquery-rails"
+    },
+    "moped": {
+      "part": "a",
+      "vendor": "moped_project",
+      "product": "moped"
+    },
+    "activemodel": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "rails"
+    },
+    "carrierwave": {
+      "part": "a",
+      "vendor": "carrierwave_project",
+      "product": "carrierwave"
+    },
+    "sprockets": {
+      "part": "a",
+      "vendor": "sprockets_project",
+      "product": "sprockets"
+    },
+    "omniauth": {
+      "part": "a",
+      "vendor": "omniauth",
+      "product": "omniauth"
+    },
+    "restforce": {
+      "part": "a",
+      "vendor": "restforce",
+      "product": "restforce"
+    },
+    "pghero": {
+      "part": "a",
+      "vendor": "pghero_project",
+      "product": "pghero"
+    },
+    "facter": {
+      "part": "a",
+      "vendor": "puppet",
+      "product": "facter"
+    },
+    "bootstrap-sass": {
+      "part": "a",
+      "vendor": "getbootstrap",
+      "product": "bootstrap-sass"
+    },
+    "sentry-raven": {
+      "part": "a",
+      "vendor": "getsentry",
+      "product": "raven-ruby"
+    },
+    "rbovirt": {
+      "part": "a",
+      "vendor": "amos_benari",
+      "product": "rbovirt"
+    },
+    "extlib": {
+      "part": "a",
+      "vendor": "dan_kubb",
+      "product": "extlib"
+    },
+    "actionpack-page_caching": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "actionpack_page-caching"
+    },
+    "ruby_parser-legacy": {
+      "part": "a",
+      "vendor": "zenspider",
+      "product": "ruby_parser-legacy"
+    },
+    "rack-cors": {
+      "part": "a",
+      "vendor": "rack-cors_project",
+      "product": "rack-cors"
+    },
+    "puma": {
+      "part": "a",
+      "vendor": "puma",
+      "product": "puma"
+    },
+    "command_wrap": {
+      "part": "a",
+      "vendor": "rubygems",
+      "product": "command_wrap"
+    },
+    "radiant": {
+      "part": "a",
+      "vendor": "radiantcms",
+      "product": "radiant_cms"
+    },
+    "coin_base": {
+      "part": "a",
+      "vendor": "rest-client_project",
+      "product": "rest-client"
+    },
+    "redcloth": {
+      "part": "a",
+      "vendor": "redcloth",
+      "product": "redcloth_library"
+    },
+    "safemode": {
+      "part": "a",
+      "vendor": "safemode_project",
+      "product": "safemode"
+    },
+    "doorkeeper-openid_connect": {
+      "part": "a",
+      "vendor": "openid",
+      "product": "openid_connect"
+    },
+    "private_address_check": {
+      "part": "a",
+      "vendor": "private_address_check_project",
+      "product": "private_address_check"
+    },
+    "lita_coin": {
+      "part": "a",
+      "vendor": "rest-client_project",
+      "product": "rest-client"
+    },
+    "ruby-saml": {
+      "part": "a",
+      "vendor": "onelogin",
+      "product": "ruby-saml"
+    },
+    "simple_form": {
+      "part": "a",
+      "vendor": "plataformatec",
+      "product": "simple_form"
+    },
+    "omniauth-auth0": {
+      "part": "a",
+      "vendor": "auth0",
+      "product": "omniauth-auth0"
+    },
+    "omniauth-oauth2": {
+      "part": "a",
+      "vendor": "omniauth-oauth2_project",
+      "product": "omniauth-oauth2"
+    },
+    "railties": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "rails"
+    },
+    "puppet": {
+      "part": "a",
+      "vendor": "puppet",
+      "product": "puppet"
+    },
+    "gemirro": {
+      "part": "a",
+      "vendor": "gemirro_project",
+      "product": "gemirro"
+    },
+    "airbrake-ruby": {
+      "part": "a",
+      "vendor": "airbrake",
+      "product": "airbrake_ruby"
+    },
+    "slanger": {
+      "part": "a",
+      "vendor": "teller",
+      "product": "slanger"
+    },
+    "grape": {
+      "part": "a",
+      "vendor": "ruby-grape",
+      "product": "grape"
+    },
+    "gollum": {
+      "part": "a",
+      "vendor": "gollum_project",
+      "product": "gollum"
+    },
+    "gollum-lib": {
+      "part": "a",
+      "vendor": "gollum_project",
+      "product": "gollum"
+    },
+    "cocaine": {
+      "part": "a",
+      "vendor": "thoughtbot",
+      "product": "cocaine"
+    },
+    "dragonfly": {
+      "part": "a",
+      "vendor": "mark_evans",
+      "product": "fog-dragonfly"
+    },
+    "field_test": {
+      "part": "a",
+      "vendor": "field_test_project",
+      "product": "field_test"
+    },
+    "kcapifony": {
+      "part": "a",
+      "vendor": "kcapifony_project",
+      "product": "kcapifony"
+    },
+    "excon": {
+      "part": "a",
+      "vendor": "excon_project",
+      "product": "excon"
+    },
+    "devise-two-factor": {
+      "part": "a",
+      "vendor": "tinfoilsecurity",
+      "product": "devise-two-factor"
+    },
+    "awesome-bot": {
+      "part": "a",
+      "vendor": "rest-client_project",
+      "product": "rest-client"
+    },
+    "bibtex-ruby": {
+      "part": "a",
+      "vendor": "bibtex-ruby_project",
+      "product": "bibtex-ruby"
+    },
+    "rdoc": {
+      "part": "a",
+      "vendor": "dave_thomas",
+      "product": "rdoc"
+    },
+    "passenger": {
+      "part": "a",
+      "vendor": "phusionpassenger",
+      "product": "phusion_passenger"
+    },
+    "omniauth-saml": {
+      "part": "a",
+      "vendor": "omnitauth-saml_project",
+      "product": "omnitauth-saml"
+    },
+    "ruby-openid": {
+      "part": "a",
+      "vendor": "janrain",
+      "product": "ruby-openid"
+    },
+    "geocoder": {
+      "part": "a",
+      "vendor": "rubygeocoder",
+      "product": "geocoder"
+    },
+    "rake": {
+      "part": "a",
+      "vendor": "ruby-lang",
+      "product": "rake"
+    },
+    "bootstrap": {
+      "part": "a",
+      "vendor": "getbootstrap",
+      "product": "bootstrap"
+    },
+    "haml": {
+      "part": "a",
+      "vendor": "haml",
+      "product": "haml"
+    },
+    "agoo": {
+      "part": "a",
+      "vendor": "ohler",
+      "product": "agoo"
+    },
+    "nori": {
+      "part": "a",
+      "vendor": "nori_gem_project",
+      "product": "nori_gem"
+    },
+    "bitcoin_vanity": {
+      "part": "a",
+      "vendor": "rest-client_project",
+      "product": "rest-client"
+    },
+    "paratrooper-newrelic": {
+      "part": "a",
+      "vendor": "paratrooper-newrelic_project",
+      "product": "paratrooper-newrelic"
+    },
+    "spree_api": {
+      "part": "a",
+      "vendor": "spreecommerce",
+      "product": "spree"
+    },
+    "mini_magick": {
+      "part": "a",
+      "vendor": "rubygems",
+      "product": "mini_magick"
+    },
+    "rest-client": {
+      "part": "a",
+      "vendor": "rest-client_project",
+      "product": "rest-client"
+    },
+    "fastreader": {
+      "part": "a",
+      "vendor": "rubygems",
+      "product": "fastreader"
+    },
+    "rack-protection": {
+      "part": "a",
+      "vendor": "sinatrarb",
+      "product": "rack-protection"
+    },
+    "actionview": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "rails"
+    },
+    "lawn-login": {
+      "part": "a",
+      "vendor": "lawn-login_project",
+      "product": "lawn-login"
+    },
+    "sensu": {
+      "part": "a",
+      "vendor": "sensu",
+      "product": "sensu_core"
+    },
+    "paratrooper-pingdom": {
+      "part": "a",
+      "vendor": "tobias_maier",
+      "product": "paratrooper-pingdom"
+    },
+    "rubygems-update": {
+      "part": "a",
+      "vendor": "rubygems",
+      "product": "rubygems"
+    },
+    "mysql-binuuid-rails": {
+      "part": "a",
+      "vendor": "nedap",
+      "product": "mysql-binuuid-rails"
+    },
+    "geminabox": {
+      "part": "a",
+      "vendor": "geminabox_project",
+      "product": "geminabox"
+    },
+    "fat_free_crm": {
+      "part": "a",
+      "vendor": "fatfreecrm",
+      "product": "fatfreecrm"
+    },
+    "rexical": {
+      "part": "o",
+      "vendor": "canonical",
+      "product": "ubuntu_linux"
+    },
+    "rails_admin": {
+      "part": "a",
+      "vendor": "rails_admin_project",
+      "product": "rails_admin"
+    },
+    "rack": {
+      "part": "a",
+      "vendor": "rack_project",
+      "product": "rack"
+    },
+    "rwiki": {
+      "part": "a",
+      "vendor": "rwiki",
+      "product": "rwiki"
+    },
+    "omniauth-apple": {
+      "part": "a",
+      "vendor": "omniauth-apple_project",
+      "product": "omniauth-apple"
+    },
+    "thumbshooter": {
+      "part": "a",
+      "vendor": "digineo",
+      "product": "thumbshooter"
+    },
+    "json-jwt": {
+      "part": "a",
+      "vendor": "json-jwt_project",
+      "product": "json-jwt"
+    },
+    "secure_headers": {
+      "part": "a",
+      "vendor": "twitter",
+      "product": "secure_headers"
+    },
+    "aescrypt": {
+      "part": "a",
+      "vendor": "aescrypt_project",
+      "product": "aescrypt"
+    },
+    "chartkick": {
+      "part": "a",
+      "vendor": "chartkick_project",
+      "product": "chartkick"
+    },
+    "webbynode": {
+      "part": "a",
+      "vendor": "webbynode",
+      "product": "webbynode"
+    },
+    "rails-html-sanitizer": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "html_sanitizer"
+    },
+    "chloride": {
+      "part": "a",
+      "vendor": "puppet",
+      "product": "chloride"
+    },
+    "recurly": {
+      "part": "a",
+      "vendor": "recurly",
+      "product": "recurly_client_ruby"
+    },
+    "sorcery": {
+      "part": "a",
+      "vendor": "sorcery_project",
+      "product": "sorcery"
+    },
+    "shrine": {
+      "part": "a",
+      "vendor": "shrinerb",
+      "product": "shrine"
+    },
+    "show_in_browser": {
+      "part": "a",
+      "vendor": "jonathan_leung",
+      "product": "show_in_browser"
+    },
+    "coming-soon": {
+      "part": "a",
+      "vendor": "rest-client_project",
+      "product": "rest-client"
+    },
+    "rails": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "rails"
+    },
+    "faye": {
+      "part": "a",
+      "vendor": "faye_project",
+      "product": "faye"
+    },
+    "strong_password": {
+      "part": "a",
+      "vendor": "strong_password_project",
+      "product": "strong_password"
+    },
+    "thin": {
+      "part": "a",
+      "vendor": "macournoyer",
+      "product": "thin"
+    },
+    "jquery-ujs": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "jquery-rails"
+    },
+    "lynx": {
+      "part": "a",
+      "vendor": "lynx_project",
+      "product": "lynx"
+    },
+    "paperclip": {
+      "part": "a",
+      "vendor": "thoughtbot",
+      "product": "paperclip"
+    },
+    "net-ldap": {
+      "part": "a",
+      "vendor": "net-ldap_project",
+      "product": "net-ldap"
+    },
+    "omniauth_amazon": {
+      "part": "a",
+      "vendor": "rest-client_project",
+      "product": "rest-client"
+    },
+    "openssl": {
+      "part": "a",
+      "vendor": "ruby-lang",
+      "product": "openssl"
+    },
+    "omniauth-facebook": {
+      "part": "a",
+      "vendor": "madeofcode",
+      "product": "omniauth-facebook"
+    },
+    "paranoid2": {
+      "part": "a",
+      "vendor": "anjlab",
+      "product": "paranoid2"
+    },
+    "newrelic_rpm": {
+      "part": "a",
+      "vendor": "newrelic",
+      "product": "ruby_agent"
+    },
+    "activesupport": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "rails"
+    },
+    "faye-websocket": {
+      "part": "a",
+      "vendor": "faye-websocket_project",
+      "product": "faye-websocket"
+    },
+    "sprout": {
+      "part": "a",
+      "vendor": "projectsprouts",
+      "product": "sprout"
+    },
+    "spina": {
+      "part": "a",
+      "vendor": "denkgroot",
+      "product": "spina"
+    },
+    "actionpack": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "rails"
+    },
+    "capistrano-colors": {
+      "part": "a",
+      "vendor": "rest-client_project",
+      "product": "rest-client"
+    },
+    "gyazo": {
+      "part": "a",
+      "vendor": "gyazo_project",
+      "product": "gyazo"
+    },
+    "ciborg": {
+      "part": "a",
+      "vendor": "ciborg_project",
+      "product": "ciborg"
+    },
+    "matestack-ui-core": {
+      "part": "a",
+      "vendor": "matestack",
+      "product": "ui-core"
+    },
+    "loofah": {
+      "part": "a",
+      "vendor": "loofah_project",
+      "product": "loofah"
+    },
+    "doge-coin": {
+      "part": "a",
+      "vendor": "rest-client_project",
+      "product": "rest-client"
+    },
+    "active-support": {
+      "part": "a",
+      "vendor": "activesupport_project",
+      "product": "activesupport"
+    },
+    "hiera": {
+      "part": "a",
+      "vendor": "puppet",
+      "product": "hiera"
+    },
+    "brbackup": {
+      "part": "a",
+      "vendor": "brbackup_project",
+      "product": "brbackup"
+    },
+    "kramdown": {
+      "part": "a",
+      "vendor": "kramdown_project",
+      "product": "kramdown"
+    },
+    "netaddr": {
+      "part": "a",
+      "vendor": "netaddr_project",
+      "product": "netaddr"
+    },
+    "solidus_api": {
+      "part": "a",
+      "vendor": "nebulab",
+      "product": "solidus"
+    },
+    "activerecord": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "rails"
+    },
+    "solidus_frontend": {
+      "part": "a",
+      "vendor": "nebulab",
+      "product": "solidus"
+    },
+    "delayed_job_web": {
+      "part": "a",
+      "vendor": "delayed_job_web_project",
+      "product": "delayed_job_web"
+    },
+    "ember-source": {
+      "part": "a",
+      "vendor": "emberjs",
+      "product": "ember.js"
+    },
+    "curl": {
+      "part": "a",
+      "vendor": "curl_project",
+      "product": "curl"
+    },
+    "json": {
+      "part": "a",
+      "vendor": "rubygems",
+      "product": "json_gem"
+    },
+    "dependabot-omnibus": {
+      "part": "a",
+      "vendor": "dependabot_project",
+      "product": "dependabot"
+    },
+    "yard": {
+      "part": "a",
+      "vendor": "yardoc",
+      "product": "yard"
+    },
+    "mail": {
+      "part": "a",
+      "vendor": "rubygems",
+      "product": "mail_gem"
+    },
+    "git-fastclone": {
+      "part": "a",
+      "vendor": "squareup",
+      "product": "git-fastclone"
+    },
+    "padrino-contrib": {
+      "part": "a",
+      "vendor": "padrinorb",
+      "product": "padrino-contrib"
+    },
+    "rubyzip": {
+      "part": "a",
+      "vendor": "rubyzip_project",
+      "product": "rubyzip"
+    },
+    "activestorage": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "rails"
+    },
+    "festivaltts4r": {
+      "part": "a",
+      "vendor": "festivaltts4r_project",
+      "product": "festivaltts4r"
+    },
+    "mechanize": {
+      "part": "a",
+      "vendor": "mechanize_project",
+      "product": "mechanize"
+    },
+    "minitar": {
+      "part": "a",
+      "vendor": "minitar",
+      "product": "archive-tar-minitar"
+    },
+    "smart_proxy_dynflow": {
+      "part": "a",
+      "vendor": "theforeman",
+      "product": "foreman"
+    },
+    "spree": {
+      "part": "a",
+      "vendor": "spreecommerce",
+      "product": "spree"
+    },
+    "rack-ssl": {
+      "part": "a",
+      "vendor": "joshua_peek",
+      "product": "rack-ssl"
+    },
+    "activejob": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "rails"
+    },
+    "consul": {
+      "part": "a",
+      "vendor": "makandra",
+      "product": "consul"
+    },
+    "gtk2": {
+      "part": "a",
+      "vendor": "ruby_gnome2",
+      "product": "ruby_gnome2"
+    },
+    "simple_captcha2": {
+      "part": "a",
+      "vendor": "simple_captcha2_project",
+      "product": "simple_captcha2"
+    },
+    "websocket-extensions": {
+      "part": "a",
+      "vendor": "websocket-extensions_project",
+      "product": "websocket-extensions"
+    },
+    "devise": {
+      "part": "a",
+      "vendor": "plataformatec",
+      "product": "devise"
+    },
+    "cremefraiche": {
+      "part": "a",
+      "vendor": "uplawski",
+      "product": "creme_fraiche"
+    },
+    "rubocop": {
+      "part": "a",
+      "vendor": "rubocop_project",
+      "product": "rubocop"
+    },
+    "samlr": {
+      "part": "a",
+      "vendor": "zendesk",
+      "product": "samlr"
+    },
+    "web-console": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "web_console"
+    },
+    "redis-store": {
+      "part": "a",
+      "vendor": "redis-store",
+      "product": "redis-store"
+    },
+    "i18n": {
+      "part": "a",
+      "vendor": "ruby-i18n",
+      "product": "i18n"
+    },
+    "redcarpet": {
+      "part": "a",
+      "vendor": "redcarpet_project",
+      "product": "redcarpet"
+    },
+    "nokogiri": {
+      "part": "o",
+      "vendor": "canonical",
+      "product": "ubuntu_linux"
+    },
+    "archive-tar-minitar": {
+      "part": "a",
+      "vendor": "minitar",
+      "product": "archive-tar-minitar"
+    },
+    "activeresource": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "active_resource"
+    },
+    "bson": {
+      "part": "a",
+      "vendor": "mongodb",
+      "product": "bson"
+    },
+    "jekyll": {
+      "part": "a",
+      "vendor": "jekyllrb",
+      "product": "jekyll"
+    },
+    "sfpagent": {
+      "part": "a",
+      "vendor": "herry",
+      "product": "sfpagent"
+    },
+    "kaminari": {
+      "part": "a",
+      "vendor": "kaminari_project",
+      "product": "kaminari"
+    },
+    "httparty": {
+      "part": "a",
+      "vendor": "john_nunemaker",
+      "product": "httparty"
+    },
+    "colorscore": {
+      "part": "a",
+      "vendor": "colorscore_project",
+      "product": "colorscore"
+    },
+    "ox": {
+      "part": "a",
+      "vendor": "ox_project",
+      "product": "ox"
+    },
+    "sinatra": {
+      "part": "a",
+      "vendor": "sinatrarb",
+      "product": "sinatra"
+    },
+    "sanitize": {
+      "part": "a",
+      "vendor": "sanitize_project",
+      "product": "sanitize"
+    },
+    "yajl-ruby": {
+      "part": "a",
+      "vendor": "yajl-ruby_project",
+      "product": "yajl-ruby"
+    },
+    "arabic-prawn": {
+      "part": "a",
+      "vendor": "dynamixsolutions",
+      "product": "arabic_prawn"
+    },
+    "marginalia": {
+      "part": "a",
+      "vendor": "marginalia_project",
+      "product": "marginalia"
+    },
+    "multi_xml": {
+      "part": "a",
+      "vendor": "erik_michaels-ober",
+      "product": "multi_xml"
+    },
+    "cairo": {
+      "part": "a",
+      "vendor": "cairographics",
+      "product": "cairo"
+    },
+    "rack-mini-profiler": {
+      "part": "a",
+      "vendor": "miniprofiler",
+      "product": "rack-mini-profiler"
+    },
+    "bio-basespace-sdk": {
+      "part": "a",
+      "vendor": "basespace_ruby_sdk_project",
+      "product": "basespace_ruby_sdk"
+    },
+    "crack": {
+      "part": "a",
+      "vendor": "john_nunemaker",
+      "product": "crack"
+    },
+    "cron_parser": {
+      "part": "a",
+      "vendor": "rest-client_project",
+      "product": "rest-client"
+    },
+    "doorkeeper": {
+      "part": "a",
+      "vendor": "doorkeeper_project",
+      "product": "doorkeeper"
+    },
+    "datagrid": {
+      "part": "a",
+      "vendor": "datagrid_project",
+      "product": "datagrid"
+    },
+    "actionmailer": {
+      "part": "a",
+      "vendor": "rubyonrails",
+      "product": "rails"
+    },
+    "administrate": {
+      "part": "a",
+      "vendor": "thoughtbot",
+      "product": "administrate"
+    },
+    "espeak-ruby": {
+      "part": "a",
+      "vendor": "espeak-ruby_project",
+      "product": "espeak-ruby"
+    },
+    "rgpg": {
+      "part": "a",
+      "vendor": "richard_cook",
+      "product": "rgpg"
+    },
+    "mcollective-client": {
+      "part": "a",
+      "vendor": "puppet",
+      "product": "puppet"
+    },
+    "http": {
+      "part": "a",
+      "vendor": "http.rb_project",
+      "product": "http.rb"
+    },
+    "dependabot-common": {
+      "part": "a",
+      "vendor": "dependabot_project",
+      "product": "dependabot"
+    },
+    "will_paginate": {
+      "part": "a",
+      "vendor": "mislav_marohnic",
+      "product": "will_paginate"
+    },
+    "easymon": {
+      "part": "a",
+      "vendor": "basecamp",
+      "product": "easymon"
+    },
+    "cap-strap": {
+      "part": "a",
+      "vendor": "cap-strap_project",
+      "product": "cap-strap"
+    }
+  },
+  "maven": {
+    "org.grails.plugins/fields": {
+      "part": "a",
+      "vendor": "grails",
+      "product": "grails_fields"
+    },
+    "org.neo4j/neo4j-enterprise": {
+      "part": "a",
+      "vendor": "neo4j",
+      "product": "neo4j"
+    },
+    "com.shopizer/sm-core-model": {
+      "part": "a",
+      "vendor": "shopizer",
+      "product": "shopizer"
+    },
+    "org.eclipse.rdf4j/rdf4j-runtime": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "rdf4j"
+    },
+    "com.cronutils/cron-utils": {
+      "part": "a",
+      "vendor": "cron-utils_project",
+      "product": "cron-utils"
+    },
+    "com.ctrip.framework.apollo/apollo": {
+      "part": "a",
+      "vendor": "ctrip",
+      "product": "apollo"
+    },
+    "com.ctrip.framework.apollo/apollo-core": {
+      "part": "a",
+      "vendor": "ctrip",
+      "product": "apollo"
+    },
+    "com.fasterxml.jackson.datatype/jackson-datatype-jsr310": {
+      "part": "a",
+      "vendor": "netapp",
+      "product": "active_iq_unified_manager"
+    },
+    "org.keycloak/keycloak-core": {
+      "part": "a",
+      "vendor": "keycloak",
+      "product": "keycloak"
+    },
+    "org.neo4j.procedure/apoc": {
+      "part": "a",
+      "vendor": "neo4j-contrib",
+      "product": "neo4j-apoc-procedures"
+    },
+    "org.apache.zeppelin/zeppelin": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "zeppelin"
+    },
+    "org.apache.struts/struts2-rest-plugin": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "agile_plm_framework"
+    },
+    "org.apache.struts/struts2-core": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "struts"
+    },
+    "org.apache.mesos/mesos": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "mesos"
+    },
+    "org.apache.juddi/juddi-client": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "juddi"
+    },
+    "org.apache.kafka/kafka": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "kafka"
+    },
+    "com.google.crypto.tink/tink": {
+      "part": "a",
+      "vendor": "google",
+      "product": "tink"
+    },
+    "org.opencms/opencms-core": {
+      "part": "a",
+      "vendor": "alkacon",
+      "product": "opencms_apollo_template"
+    },
+    "org.rundeck/rundeck": {
+      "part": "a",
+      "vendor": "rundeck",
+      "product": "rundeck"
+    },
+    "org.springframework.credhub/spring-credhub-core": {
+      "part": "a",
+      "vendor": "pivotal_software",
+      "product": "credhub_service_broker"
+    },
+    "org.springframework/spring-webflux": {
+      "part": "a",
+      "vendor": "pivotal_software",
+      "product": "spring_framework"
+    },
+    "org.springframework/spring-webmvc": {
+      "part": "a",
+      "vendor": "pivotal_software",
+      "product": "spring_framework"
+    },
+    "org.springframework/spring-core": {
+      "part": "a",
+      "vendor": "netapp",
+      "product": "oncommand_insight"
+    },
+    "org.hibernate.validator/hibernate-validator": {
+      "part": "a",
+      "vendor": "hibernate",
+      "product": "hibernate-validator"
+    },
+    "org.apache.cxf/apache-cxf": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "cxf"
+    },
+    "org.apache.cxf/cxf": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "cxf"
+    },
+    "axis/axis": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "activemq"
+    },
+    "com.kitfox.svg/svg-salamander": {
+      "part": "a",
+      "vendor": "kitfox",
+      "product": "svg_salamander"
+    },
+    "xerces/xercesImpl": {
+      "part": "a",
+      "vendor": "sun",
+      "product": "jdk"
+    },
+    "com.fasterxml.jackson.core/jackson-databind": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "banking_platform"
+    },
+    "org.apache.camel/camel-mail": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "camel"
+    },
+    "org.apache.camel/camel-servlet": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "camel"
+    },
+    "org.apache.camel/camel-robotframework": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "camel"
+    },
+    "org.apache.camel/camel-xstream": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "camel"
+    },
+    "org.apache.camel/camel-jackson": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "camel"
+    },
+    "org.apache.camel/camel-jetty": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "camel"
+    },
+    "org.apache.camel/camel-snakeyaml": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "camel"
+    },
+    "org.apache.camel/camel-castor": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "camel"
+    },
+    "org.apache.camel/camel-netty": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "camel"
+    },
+    "org.apache.camel/camel-core": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "camel"
+    },
+    "org.b3log/symphony": {
+      "part": "a",
+      "vendor": "b3log",
+      "product": "symphony"
+    },
+    "org.apache.commons/commons-collections4": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "commons_collections"
+    },
+    "org.apache.commons/commons-configuration2": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "database_server"
+    },
+    "org.apache.commons/commons-compress": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "commons_compress"
+    },
+    "com.rabbitmq/amqp-client": {
+      "part": "a",
+      "vendor": "pivotal_software",
+      "product": "rabbitmq"
+    },
+    "org.apache.cxf.fediz/fediz-spring3": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "cxf_fediz"
+    },
+    "org.apache.cxf.fediz/fediz-spring": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "cxf_fediz"
+    },
+    "org.apache.cxf.fediz/fediz-spring2": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "cxf_fediz"
+    },
+    "org.apache.cxf.fediz/fediz-jetty8": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "cxf_fediz"
+    },
+    "org.apache.cxf.fediz/fediz-jetty9": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "cxf_fediz"
+    },
+    "org.springframework.security.oauth/spring-security-oauth2": {
+      "part": "a",
+      "vendor": "pivotal_software",
+      "product": "spring_security_oauth"
+    },
+    "org.springframework.security.oauth/spring-security-oauth": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "banking_corporate_lending"
+    },
+    "com.browserup/browserup-proxy": {
+      "part": "a",
+      "vendor": "browserup",
+      "product": "browserup_proxy"
+    },
+    "net.sf.robocode/robocode.api": {
+      "part": "a",
+      "vendor": "robocode_project",
+      "product": "robocode"
+    },
+    "org.bedework/bw-webdav": {
+      "part": "a",
+      "vendor": "apereo",
+      "product": "bw-webdav"
+    },
+    "org.apache.solr/solr-core": {
+      "part": "a",
+      "vendor": "netapp",
+      "product": "snapcenter"
+    },
+    "org.jooby/jooby": {
+      "part": "a",
+      "vendor": "jooby",
+      "product": "jooby"
+    },
+    "org.apache.httpcomponents/httpclient": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "httpasyncclient"
+    },
+    "org.apache.taglibs/taglibs-standard-impl": {
+      "part": "o",
+      "vendor": "canonical",
+      "product": "ubuntu_linux"
+    },
+    "org.apache.taglibs/taglibs-standard": {
+      "part": "o",
+      "vendor": "canonical",
+      "product": "ubuntu_linux"
+    },
+    "org.apache.qpid/proton-j": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "qpid_proton"
+    },
+    "org.apache.qpid/qpid-broker-plugins-amqp-1-0-protocol": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "qpid_java"
+    },
+    "org.apache.qpid/apache-qpid-broker-j": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "qpid_broker-j"
+    },
+    "org.apache.qpid/qpid-broker": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "qpid_java"
+    },
+    "org.apache.qpid/qpid-broker-plugins-amqp-0-8-protocol": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "qpid_java"
+    },
+    "org.infinispan/infinispan-core": {
+      "part": "a",
+      "vendor": "infinispan",
+      "product": "infinispan"
+    },
+    "org.springframework.boot/spring-boot": {
+      "part": "a",
+      "vendor": "pivotal_software",
+      "product": "spring_boot"
+    },
+    "org.http4s/blaze-core_2.13": {
+      "part": "a",
+      "vendor": "typelevel",
+      "product": "blaze"
+    },
+    "org.http4s/blaze-core_2.12": {
+      "part": "a",
+      "vendor": "typelevel",
+      "product": "blaze"
+    },
+    "org.http4s/http4s-blaze-server_2.12": {
+      "part": "a",
+      "vendor": "typelevel",
+      "product": "http4s"
+    },
+    "org.http4s/http4s-server_2.12": {
+      "part": "a",
+      "vendor": "typelevel",
+      "product": "http4s"
+    },
+    "org.http4s/blaze-core_2.11": {
+      "part": "a",
+      "vendor": "typelevel",
+      "product": "blaze"
+    },
+    "org.http4s/http4s-blaze-server_2.13": {
+      "part": "a",
+      "vendor": "typelevel",
+      "product": "http4s"
+    },
+    "com.github.junrar/junrar": {
+      "part": "a",
+      "vendor": "junrar_project",
+      "product": "junrar"
+    },
+    "org.apache.flink/flink-runtime_2.11": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "flink"
+    },
+    "org.apache.flink/flink-runtime_2.12": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "flink"
+    },
+    "org.ethereum/ethereumj-core": {
+      "part": "a",
+      "vendor": "ethereum",
+      "product": "ethereumj"
+    },
+    "com.mchange/c3p0": {
+      "part": "a",
+      "vendor": "mchange",
+      "product": "c3p0"
+    },
+    "mysql/mysql-connector-java": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "mysql_connector\\/j"
+    },
+    "io.swagger/swagger-codegen": {
+      "part": "a",
+      "vendor": "swagger",
+      "product": "swagger-codegen"
+    },
+    "io.swagger/swagger-parser": {
+      "part": "a",
+      "vendor": "swagger",
+      "product": "swagger-codegen"
+    },
+    "org.eclipse.jetty/jetty-webapp": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "communications_application_session_controller"
+    },
+    "org.eclipse.jetty/jetty-server": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "retail_xstore_point_of_service"
+    },
+    "com.linecorp.armeria/armeria": {
+      "part": "a",
+      "vendor": "linecorp",
+      "product": "armeria"
+    },
+    "org.bedework.caleng/bw-calendar-engine": {
+      "part": "a",
+      "vendor": "apereo",
+      "product": "bw-calendar-engine"
+    },
+    "org.craftercms/crafter-studio": {
+      "part": "a",
+      "vendor": "craftercms",
+      "product": "crafter_cms"
+    },
+    "io.arrow-kt/arrow-ank-gradle": {
+      "part": "a",
+      "vendor": "arrow-kt",
+      "product": "arrow"
+    },
+    "commons-beanutils/commons-beanutils": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "struts"
+    },
+    "org.apache.oozie/oozie-core": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "oozie"
+    },
+    "com.github.blynkkk/blynk-server": {
+      "part": "a",
+      "vendor": "blynk",
+      "product": "blynk-server"
+    },
+    "com.google.guava/guava": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "retail_integration_bus"
+    },
+    "org.apache.tomcat/tomcat": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "agile_engineering_data_management"
+    },
+    "org.eclipse.paho/org.eclipse.paho.client.mqttv3": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "paho_java_client"
+    },
+    "org.mapfish.print/print-standalone": {
+      "part": "a",
+      "vendor": "mapfish",
+      "product": "print"
+    },
+    "org.mapfish.print/print-servlet": {
+      "part": "a",
+      "vendor": "mapfish",
+      "product": "print"
+    },
+    "org.mapfish.print/print-lib": {
+      "part": "a",
+      "vendor": "mapfish",
+      "product": "print"
+    },
+    "org.esigate/esigate-core": {
+      "part": "a",
+      "vendor": "esigate",
+      "product": "esigate"
+    },
+    "org.apache.uima/uima-ducc-web": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "unstructured_information_management_architecture_distributed_uima_cluster_computing"
+    },
+    "org.apache.geode/geode-core": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "geode"
+    },
+    "com.nimbusds/nimbus-jose-jwt": {
+      "part": "a",
+      "vendor": "connect2id",
+      "product": "nimbus_jose\\+jwt"
+    },
+    "log4j/log4j": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "application_testing_suite"
+    },
+    "io.micronaut/micronaut-http-client": {
+      "part": "a",
+      "vendor": "objectcomputing",
+      "product": "micronaut"
+    },
+    "org.apache.tomcat.embed/tomcat-embed-core": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "communications_application_session_controller"
+    },
+    "com.typesafe.play/play_2.12": {
+      "part": "a",
+      "vendor": "lightbend",
+      "product": "play_framework"
+    },
+    "com.xuxueli/xxl-conf": {
+      "part": "a",
+      "vendor": "xuxueli",
+      "product": "xxl-conf"
+    },
+    "org.apache.rocketmq/rocketmq-broker": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "rocketmq"
+    },
+    "com.thoughtworks.xstream/xstream": {
+      "part": "a",
+      "vendor": "xstream_project",
+      "product": "xstream"
+    },
+    "org.springframework.cloud/spring-cloud-config-server": {
+      "part": "a",
+      "vendor": "vmware",
+      "product": "spring_cloud_config"
+    },
+    "org.apache.archiva/archiva": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "archiva"
+    },
+    "com.squareup.retrofit2/retrofit": {
+      "part": "a",
+      "vendor": "squareup",
+      "product": "retrofit"
+    },
+    "org.apache.ignite/ignite-core": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "ignite"
+    },
+    "org.codehaus.groovy/groovy": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "retail_bulk_data_integration"
+    },
+    "org.apache.sanselan/sanselan": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "commons_imaging"
+    },
+    "org.igniterealtime.openfire/xmppserver": {
+      "part": "a",
+      "vendor": "igniterealtime",
+      "product": "openfire"
+    },
+    "net.mingsoft/ms-mcms": {
+      "part": "a",
+      "vendor": "mingsoft",
+      "product": "mcms"
+    },
+    "org.apache.nifi/nifi": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "nifi"
+    },
+    "org.apache.nifi/org.apache.nifi/nifi-security": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "nifi"
+    },
+    "org.apache.nifi/org.apache.nifi/nifi": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "nifi"
+    },
+    "org.apache.nifi/nifi-web-api": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "nifi"
+    },
+    "org.apache.nifi/nifi-framework-cluster-protocol": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "nifi"
+    },
+    "org.apache.ant/ant": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "banking_platform"
+    },
+    "org.scala-lang/scala-compiler": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "activemq"
+    },
+    "org.apache.atlas/apache-atlas": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "atlas"
+    },
+    "org.dom4j/dom4j": {
+      "part": "a",
+      "vendor": "netapp",
+      "product": "oncommand_api_services"
+    },
+    "net.sf.mpxj/mpxj": {
+      "part": "a",
+      "vendor": "mpxj",
+      "product": "mpxj"
+    },
+    "io.spray/spray-json_2.11": {
+      "part": "a",
+      "vendor": "lightbend",
+      "product": "spray-json"
+    },
+    "io.spray/spray-json_2.10": {
+      "part": "a",
+      "vendor": "lightbend",
+      "product": "spray-json"
+    },
+    "io.spray/spray-json_2.12": {
+      "part": "a",
+      "vendor": "lightbend",
+      "product": "spray-json"
+    },
+    "org.apache.hadoop/hadoop-main": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "hadoop"
+    },
+    "org.mitre/openid-connect-server": {
+      "part": "a",
+      "vendor": "mitreid",
+      "product": "connect"
+    },
+    "org.apache.lucene/lucene-core": {
+      "part": "o",
+      "vendor": "canonical",
+      "product": "ubuntu_linux"
+    },
+    "org.apache.santuario/xmlsec": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "santuario_xml_security_for_java"
+    },
+    "io.netty/netty-codec-http": {
+      "part": "a",
+      "vendor": "netty",
+      "product": "netty"
+    },
+    "io.netty/netty-handler": {
+      "part": "a",
+      "vendor": "netapp",
+      "product": "oncommand_api_services"
+    },
+    "io.netty/netty-all": {
+      "part": "a",
+      "vendor": "netty",
+      "product": "netty"
+    },
+    "org.apache.synapse/synapse-core": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "commons_collections"
+    },
+    "org.eclipse.hawkbit/hawkbit-boot-starter-mgmt-api": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "hawkbit"
+    },
+    "org.eclipse.hawkbit/hawkbit-autoconfigure": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "hawkbit"
+    },
+    "org.eclipse.hawkbit/hawkbit-parent": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "hawkbit"
+    },
+    "org.eclipse.hawkbit/hawkbit-boot-starter-mgmt-ui": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "hawkbit"
+    },
+    "org.eclipse.hawkbit/hawkbit-update-server": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "hawkbit"
+    },
+    "org.eclipse.hawkbit/hawkbit-boot-starter-ddi-api": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "hawkbit"
+    },
+    "org.eclipse.hawkbit/hawkbit-starters": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "hawkbit"
+    },
+    "org.eclipse.hawkbit/hawkbit-boot-starter": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "hawkbit"
+    },
+    "org.eclipse.hawkbit/hawkbit-ui": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "hawkbit"
+    },
+    "org.eclipse.hawkbit/hawkbit-boot-starter-dmf-api": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "hawkbit"
+    },
+    "org.apache.thrift/libthrift": {
+      "part": "a",
+      "vendor": "f5",
+      "product": "traffix_sdc"
+    },
+    "org.sonatype.nexus/nexus-core": {
+      "part": "a",
+      "vendor": "sonatype",
+      "product": "nexus"
+    },
+    "org.sonatype.nexus/nexus-extdirect": {
+      "part": "a",
+      "vendor": "sonatype",
+      "product": "nexus"
+    },
+    "org.codelibs.fess/fess": {
+      "part": "a",
+      "vendor": "codelibs",
+      "product": "fess"
+    },
+    "com.fasterxml.jackson.dataformat/jackson-dataformat-xml": {
+      "part": "a",
+      "vendor": "fasterxml",
+      "product": "jackson-dataformat-xml"
+    },
+    "io.ratpack/ratpack-java": {
+      "part": "a",
+      "vendor": "ratpack_project",
+      "product": "ratpack"
+    },
+    "io.ratpack/ratpack-groovy": {
+      "part": "a",
+      "vendor": "ratpack_project",
+      "product": "ratpack"
+    },
+    "io.ratpack/ratpack-session": {
+      "part": "a",
+      "vendor": "ratpack_project",
+      "product": "ratpack"
+    },
+    "io.ratpack/ratpack-core": {
+      "part": "a",
+      "vendor": "ratpack_project",
+      "product": "ratpack"
+    },
+    "org.sakaiproject/chat-base": {
+      "part": "a",
+      "vendor": "sakailms",
+      "product": "sakai"
+    },
+    "org.apache.axis/axis": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "activemq"
+    },
+    "org.nanohttpd/nanohttpd": {
+      "part": "a",
+      "vendor": "nanohttpd",
+      "product": "nanohttpd"
+    },
+    "commons-fileupload/commons-fileupload": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "tomcat"
+    },
+    "org.apache.xmlrpc": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "xml-rpc"
+    },
+    "org.apache.shiro/shiro-core": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "shiro"
+    },
+    "org.quartz-scheduler/quartz": {
+      "part": "a",
+      "vendor": "softwareag",
+      "product": "quartz"
+    },
+    "io.vertx/vertx-core": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "vert.x"
+    },
+    "io.vertx/vertx-web": {
+      "part": "a",
+      "vendor": "eclipse",
+      "product": "vert.x"
+    },
+    "org.apache.karaf/apache-karaf": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "karaf"
+    },
+    "org.apache.karaf/karaf": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "karaf"
+    },
+    "org.apache.beam/beam-sdks-java-io-mongodb": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "beam"
+    },
+    "org.apache.syncope/syncope-core": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "syncope"
+    },
+    "org.apache.pdfbox/pdfbox": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "pdfbox"
+    },
+    "io.projectreactor.netty/reactor-netty": {
+      "part": "a",
+      "vendor": "pivotal",
+      "product": "reactor_netty"
+    },
+    "org.apache.olingo/odata-client-proxy": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "olingo"
+    },
+    "org.apache.olingo/odata-client-core": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "olingo"
+    },
+    "org.apache.olingo/odata-server-core": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "olingo"
+    },
+    "junit/junit": {
+      "part": "a",
+      "vendor": "junit",
+      "product": "junit4"
+    },
+    "ca.uhn.hapi.fhir/hapi-fhir-base": {
+      "part": "a",
+      "vendor": "fhir",
+      "product": "hapi_fhir"
+    },
+    "ro.pippo/pippo-jaxb": {
+      "part": "a",
+      "vendor": "pippo",
+      "product": "pippo"
+    },
+    "ro.pippo/pippo-core": {
+      "part": "a",
+      "vendor": "pippo",
+      "product": "pippo"
+    },
+    "com.github.penggle/kaptcha": {
+      "part": "a",
+      "vendor": "kaptcha_project",
+      "product": "kaptcha"
+    },
+    "com.sparkjava/spark-core": {
+      "part": "a",
+      "vendor": "sparkjava",
+      "product": "spark"
+    },
+    "net.bull.javamelody/javamelody-core": {
+      "part": "a",
+      "vendor": "javamelody_project",
+      "product": "javamelody"
+    },
+    "org.apache.storm/storm-kafka-client": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "storm"
+    },
+    "org.apache.storm/storm-core": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "storm"
+    },
+    "org.apache.storm/storm-kafka": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "storm"
+    },
+    "com.hubspot.jinjava/jinjava": {
+      "part": "a",
+      "vendor": "hubspot",
+      "product": "jinjava"
+    },
+    "org.springframework.amqp/spring-amqp": {
+      "part": "a",
+      "vendor": "pivotal_software",
+      "product": "rabbitmq"
+    },
+    "org.apache.zookeeper/zookeeper": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "zookeeper"
+    },
+    "org.apache.spark/spark-core_2.11": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "spark"
+    },
+    "org.apache.spark/spark-core_2.10": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "spark"
+    },
+    "com.alipay.sofa/hessian": {
+      "part": "a",
+      "vendor": "antfin",
+      "product": "sofa-hessian"
+    },
+    "org.springframework.batch/spring-batch-core": {
+      "part": "a",
+      "vendor": "pivotal_software",
+      "product": "spring_batch"
+    },
+    "org.exist-db/exist-core": {
+      "part": "a",
+      "vendor": "exist-db",
+      "product": "exist"
+    },
+    "org.apache.poi/poi": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "poi"
+    },
+    "org.springframework.integration/spring-integration-xml": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "retail_customer_management_and_segmentation_foundation"
+    },
+    "org.springframework.integration/spring-integration-zip": {
+      "part": "a",
+      "vendor": "pivotal_software",
+      "product": "spring_integration_zip"
+    },
+    "org.springframework.integration/spring-integration-ws": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "retail_customer_management_and_segmentation_foundation"
+    },
+    "org.springframework.integration/spring-integration-core": {
+      "part": "a",
+      "vendor": "vmware",
+      "product": "spring_integration"
+    },
+    "com.caverock/androidsvg": {
+      "part": "a",
+      "vendor": "androidsvg_project",
+      "product": "androidsvg"
+    },
+    "org.hswebframework.web/hsweb-commons": {
+      "part": "a",
+      "vendor": "hsweb",
+      "product": "hsweb"
+    },
+    "io.kubernetes/client-java": {
+      "part": "a",
+      "vendor": "kubernetes",
+      "product": "java"
+    },
+    "io.dropwizard/dropwizard-validation": {
+      "part": "a",
+      "vendor": "dropwizard",
+      "product": "dropwizard_validation"
+    },
+    "org.apache.jspwiki/jspwiki-war": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "jspwiki"
+    },
+    "org.apache.jspwiki/jspwiki-builder": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "jspwiki"
+    },
+    "org.apache.jspwiki/jspwiki-main": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "jspwiki"
+    },
+    "com.hotels.styx/styx-api": {
+      "part": "a",
+      "vendor": "hotels",
+      "product": "styx"
+    },
+    "org.mortbay.jetty/jetty-webapp": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "communications_application_session_controller"
+    },
+    "org.pac4j/pac4j-saml": {
+      "part": "a",
+      "vendor": "pac4j",
+      "product": "pac4j"
+    },
+    "dom4j/dom4j": {
+      "part": "a",
+      "vendor": "netapp",
+      "product": "oncommand_api_services"
+    },
+    "io.hawt/hawtio-core": {
+      "part": "a",
+      "vendor": "hawt",
+      "product": "hawtio"
+    },
+    "org.dspace/dspace-xmlui": {
+      "part": "a",
+      "vendor": "duraspace",
+      "product": "dspace"
+    },
+    "org.apache.ranger/ranger": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "ranger"
+    },
+    "org.java-websocket/Java-WebSocket": {
+      "part": "a",
+      "vendor": "java-websocket_project",
+      "product": "java-websocket"
+    },
+    "org.postgresql/pgjdbc-aggregate": {
+      "part": "a",
+      "vendor": "postgresql",
+      "product": "postgresql_jdbc_driver"
+    },
+    "org.asynchttpclient/async-http-client": {
+      "part": "a",
+      "vendor": "asynchttpclient_project",
+      "product": "async-http-client"
+    },
+    "org.bouncycastle/bcprov-jdk14": {
+      "part": "a",
+      "vendor": "netapp",
+      "product": "oncommand_workflow_automation"
+    },
+    "org.bouncycastle/bcprov-jdk15": {
+      "part": "a",
+      "vendor": "netapp",
+      "product": "oncommand_workflow_automation"
+    },
+    "org.cryptacular/cryptacular": {
+      "part": "a",
+      "vendor": "vt",
+      "product": "cryptacular"
+    },
+    "org.xwiki.commons/xwiki-commons": {
+      "part": "a",
+      "vendor": "xwiki",
+      "product": "xwiki"
+    },
+    "org.codehaus.jackson/jackson-mapper-asl": {
+      "part": "a",
+      "vendor": "fasterxml",
+      "product": "jackson-mapper-asl"
+    },
+    "org.restlet.jse/org.restlet": {
+      "part": "a",
+      "vendor": "restlet",
+      "product": "restlet_framework"
+    },
+    "org.owasp.antisamy/antisamy": {
+      "part": "a",
+      "vendor": "antisamy_project",
+      "product": "antisamy"
+    },
+    "net.sourceforge.htmlunit/htmlunit": {
+      "part": "a",
+      "vendor": "htmlunit_project",
+      "product": "htmlunit"
+    },
+    "com.orientechnologies/orientdb-studio": {
+      "part": "a",
+      "vendor": "orientdb",
+      "product": "orientdb"
+    },
+    "com.orientechnologies/orientdb-core": {
+      "part": "a",
+      "vendor": "orientdb",
+      "product": "orientdb"
+    },
+    "com.diffplug.spotless/spotless-eclipse-cdt": {
+      "part": "a",
+      "vendor": "diffplug",
+      "product": "eclipse-cdt"
+    },
+    "com.diffplug.spotless/spotless-plugin-maven": {
+      "part": "a",
+      "vendor": "diffplug",
+      "product": "gradle"
+    },
+    "com.diffplug.spotless/spotless-plugin-gradle": {
+      "part": "a",
+      "vendor": "diffplug",
+      "product": "gradle"
+    },
+    "com.diffplug.spotless/spotless-eclipse-wtp": {
+      "part": "a",
+      "vendor": "diffplug",
+      "product": "eclipse-cdt"
+    },
+    "com.diffplug.spotless/spotless-eclipse-groovy": {
+      "part": "a",
+      "vendor": "diffplug",
+      "product": "eclipse-cdt"
+    },
+    "io.ktor/ktor-client-core": {
+      "part": "a",
+      "vendor": "jetbrains",
+      "product": "ktor"
+    },
+    "io.ktor/ktor-server-cio": {
+      "part": "a",
+      "vendor": "jetbrains",
+      "product": "ktor"
+    },
+    "io.ktor/ktor-client-cio": {
+      "part": "a",
+      "vendor": "jetbrains",
+      "product": "ktor"
+    },
+    "org.apache.jmeter/ApacheJMeter": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "jmeter"
+    },
+    "org.sonatype.nexus.plugins/nexus-yum-repository-plugin": {
+      "part": "a",
+      "vendor": "sonatype",
+      "product": "nexus_repository_manager"
+    },
+    "org.apache.hbase/hbase-thrift": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "hbase"
+    },
+    "org.apache.hbase/hbase": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "hbase"
+    },
+    "com.adobe.xmp/xmpcore": {
+      "part": "a",
+      "vendor": "adobe",
+      "product": "xmp_toolkit"
+    },
+    "org.xwiki.platform/xwiki-platform-oldcore": {
+      "part": "a",
+      "vendor": "xwiki",
+      "product": "xwiki"
+    },
+    "com.alibaba/fastjson": {
+      "part": "a",
+      "vendor": "alibaba",
+      "product": "fastjson"
+    },
+    "org.opencastproject/base": {
+      "part": "a",
+      "vendor": "apereo",
+      "product": "opencast"
+    },
+    "org.opencastproject/opencast-kernel": {
+      "part": "a",
+      "vendor": "apereo",
+      "product": "opencast"
+    },
+    "org.opencastproject/opencast-oaipmh-api": {
+      "part": "a",
+      "vendor": "apereo",
+      "product": "opencast"
+    },
+    "org.opencastproject/opencast-common-jpa-impl": {
+      "part": "a",
+      "vendor": "apereo",
+      "product": "opencast"
+    },
+    "org.apache.tika/tika-parsers": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "tika"
+    },
+    "org.apache.tika/tika-core": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "tika"
+    },
+    "org.springframework.data/spring-data-jpa": {
+      "part": "a",
+      "vendor": "pivotal_software",
+      "product": "spring_data_java_persistance_api"
+    },
+    "org.springframework.data/spring-data-commons": {
+      "part": "a",
+      "vendor": "xmlbeam",
+      "product": "xmlbeam"
+    },
+    "com.puppycrawl.tools/checkstyle": {
+      "part": "a",
+      "vendor": "checkstyle",
+      "product": "checkstyle"
+    },
+    "com.github.shyiko.ktlint/ktlint-core": {
+      "part": "a",
+      "vendor": "ktlint_project",
+      "product": "ktlint"
+    },
+    "org.eclipse.milo/sdk-client": {
+      "part": "a",
+      "vendor": "opcfoundation",
+      "product": "netstandard.opc.ua"
+    },
+    "org.apache.activemq/activemq-web-console": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "activemq"
+    },
+    "org.apache.activemq/activemq-client": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "enterprise_repository"
+    },
+    "de.tudarmstadt.ukp.dkpro.core/de.tudarmstadt.ukp.dkpro.core.api.datasets-asl": {
+      "part": "a",
+      "vendor": "dkpro-core_project",
+      "product": "dkpro-core"
+    },
+    "io.prestosql/presto-server": {
+      "part": "a",
+      "vendor": "prestosql",
+      "product": "presto"
+    },
+    "org.apache.logging.log4j/log4j": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "communications_application_session_controller"
+    },
+    "org.apache.logging.log4j/log4j-core": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "communications_application_session_controller"
+    },
+    "com.yahoo.elide/elide-core": {
+      "part": "a",
+      "vendor": "elide",
+      "product": "elide"
+    },
+    "commons-collections/commons-collections": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "commons_collections"
+    },
+    "cn.hutool/hutool-all": {
+      "part": "a",
+      "vendor": "hutool",
+      "product": "hutool"
+    },
+    "cn.hutool/hutool-core": {
+      "part": "a",
+      "vendor": "hutool",
+      "product": "hutool"
+    },
+    "cn.hutool/hutool-parent": {
+      "part": "a",
+      "vendor": "hutool",
+      "product": "hutool"
+    },
+    "org.springframework.ws/spring-ws": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "financial_services_analytical_applications_infrastructure"
+    },
+    "org.springframework.ws/spring-xml": {
+      "part": "a",
+      "vendor": "oracle",
+      "product": "financial_services_analytical_applications_infrastructure"
+    },
+    "org.springframework.security/spring-security-core": {
+      "part": "a",
+      "vendor": "pivotal_software",
+      "product": "spring_security"
+    },
+    "eu.hinsch/spring-boot-actuator-logview": {
+      "part": "a",
+      "vendor": "spring-boot-actuator-logview_project",
+      "product": "spring-boot-actuator-logview"
+    },
+    "org.apache.hive/hive-service": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "hive"
+    },
+    "org.apache.hive/hive": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "hive"
+    },
+    "org.apache.hive/hive-jdbc": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "hive"
+    },
+    "org.apache.hive/hive-exec": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "hive"
+    },
+    "org.apache.tapestry/tapestry-core": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "tapestry"
+    },
+    "org.apache.directory.api/apache-ldap-api": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "directory_ldap_api"
+    },
+    "com.typesafe.akka/akka-actor_2.11": {
+      "part": "a",
+      "vendor": "lightbend",
+      "product": "akka"
+    },
+    "com.typesafe.akka/akka-actor_2.12": {
+      "part": "a",
+      "vendor": "lightbend",
+      "product": "akka"
+    },
+    "com.typesafe.akka/akka-http-core_2.12": {
+      "part": "a",
+      "vendor": "akka",
+      "product": "http_server"
+    },
+    "com.typesafe.akka/akka-http-core_2.11": {
+      "part": "a",
+      "vendor": "akka",
+      "product": "http_server"
+    },
+    "com.sap.scimono/scimono-server": {
+      "part": "a",
+      "vendor": "sap",
+      "product": "scimono"
+    },
+    "com.jason-goodwin/authentikat-jwt_2.12": {
+      "part": "a",
+      "vendor": "authentikat-jwt_project",
+      "product": "authentikat-jwt"
+    },
+    "io.jooby/jooby": {
+      "part": "a",
+      "vendor": "jooby",
+      "product": "jooby"
+    },
+    "io.jooby/jooby-netty": {
+      "part": "a",
+      "vendor": "jooby",
+      "product": "jooby"
+    },
+    "org.grails/grails-core": {
+      "part": "a",
+      "vendor": "grails",
+      "product": "grails_fields"
+    },
+    "org.apache.kylin/kylin-core-common": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "kylin"
+    },
+    "org.apache.kylin/kylin-server-base": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "kylin"
+    }
+  },
+  "pip": {
+    "invenio-app": {
+      "part": "a",
+      "vendor": "inveniosoftware",
+      "product": "invenio-app"
+    },
+    "flask": {
+      "part": "a",
+      "vendor": "palletsprojects",
+      "product": "flask"
+    },
+    "Twisted": {
+      "part": "a",
+      "vendor": "twistedmatrix",
+      "product": "twisted"
+    },
+    "django-epiceditor": {
+      "part": "a",
+      "vendor": "django-epiceditor_project",
+      "product": "django-epiceditor"
+    },
+    "wagtail": {
+      "part": "a",
+      "vendor": "torchbox",
+      "product": "wagtail"
+    },
+    "jupyterhub": {
+      "part": "a",
+      "vendor": "jupyter",
+      "product": "jupyterhub"
+    },
+    "jupyterhub-systemdspawner": {
+      "part": "a",
+      "vendor": "jupyterhub",
+      "product": "systemdspawner"
+    },
+    "django-user-sessions": {
+      "part": "a",
+      "vendor": "django-user-sessions_project",
+      "product": "django-user-sessions"
+    },
+    "recommender-xblock": {
+      "part": "a",
+      "vendor": "edx",
+      "product": "recommender"
+    },
+    "confire": {
+      "part": "a",
+      "vendor": "confire_project",
+      "product": "confire"
+    },
+    "ansible": {
+      "part": "a",
+      "vendor": "ansible",
+      "product": "ansible"
+    },
+    "pypiserver": {
+      "part": "a",
+      "vendor": "python",
+      "product": "pypiserver"
+    },
+    "Kotti": {
+      "part": "a",
+      "vendor": "kotti_project",
+      "product": "kotti"
+    },
+    "CairoSVG": {
+      "part": "a",
+      "vendor": "courtbouillon",
+      "product": "cairosvg"
+    },
+    "openapi-python-client": {
+      "part": "a",
+      "vendor": "openapi-python-client_project",
+      "product": "openapi-python-client"
+    },
+    "django-piston": {
+      "part": "a",
+      "vendor": "djangoproject",
+      "product": "piston"
+    },
+    "oic": {
+      "part": "a",
+      "vendor": "python_openid_connect_project",
+      "product": "python_openid_connect"
+    },
+    "httpie": {
+      "part": "a",
+      "vendor": "httpie",
+      "product": "httpie"
+    },
+    "owlmixin": {
+      "part": "a",
+      "vendor": "owlmixin_project",
+      "product": "owlmixin"
+    },
+    "splunk-sdk": {
+      "part": "a",
+      "vendor": "splunk",
+      "product": "software_development_kit"
+    },
+    "tensorflow": {
+      "part": "a",
+      "vendor": "tensorflow",
+      "product": "tensorflow"
+    },
+    "luigi": {
+      "part": "a",
+      "vendor": "spotify",
+      "product": "luigi"
+    },
+    "python-fedora": {
+      "part": "a",
+      "vendor": "fedoraproject",
+      "product": "python-fedora"
+    },
+    "mayan-edms": {
+      "part": "a",
+      "vendor": "mayan-edms",
+      "product": "mayan_edms"
+    },
+    "nanopb": {
+      "part": "a",
+      "vendor": "nanopb_project",
+      "product": "nanopb"
+    },
+    "postfix-mta-sts-resolver": {
+      "part": "a",
+      "vendor": "postfix-mta-sts-resolver_project",
+      "product": "postfix-mta-sts-resolver"
+    },
+    "pysaml2": {
+      "part": "a",
+      "vendor": "pysaml2_project",
+      "product": "pysaml2"
+    },
+    "jupyter-server": {
+      "part": "a",
+      "vendor": "jupyter",
+      "product": "jupyter_server"
+    },
+    "tortoise-orm": {
+      "part": "a",
+      "vendor": "tortoise_orm_project",
+      "product": "tortoise_orm"
+    },
+    "django-crm": {
+      "part": "a",
+      "vendor": "micropyramid",
+      "product": "django_crm"
+    },
+    "pycsw": {
+      "part": "a",
+      "vendor": "pycsw",
+      "product": "pycsw"
+    },
+    "python-gnupg": {
+      "part": "a",
+      "vendor": "python",
+      "product": "python-gnupg"
+    },
+    "py-mini-racer": {
+      "part": "a",
+      "vendor": "sqreen",
+      "product": "python_mini_racer"
+    },
+    "django-tastypie": {
+      "part": "a",
+      "vendor": "djangoproject",
+      "product": "piston"
+    },
+    "ironic-discoverd": {
+      "part": "a",
+      "vendor": "openstack",
+      "product": "ironic_inspector"
+    },
+    "tensorflow-gpu": {
+      "part": "a",
+      "vendor": "tensorflow",
+      "product": "tensorflow"
+    },
+    "plone": {
+      "part": "a",
+      "vendor": "plone",
+      "product": "plone"
+    },
+    "easybuild-framework": {
+      "part": "a",
+      "vendor": "easybuild_project",
+      "product": "easybuild"
+    },
+    "waitress": {
+      "part": "a",
+      "vendor": "agendaless",
+      "product": "waitress"
+    },
+    "django-basic-auth-ip-whitelist": {
+      "part": "a",
+      "vendor": "django-basic-auth-ip-whitelist_project",
+      "product": "django-basic-auth-ip-whitelist"
+    },
+    "websockets": {
+      "part": "a",
+      "vendor": "myks",
+      "product": "websockets"
+    },
+    "Flask-Security-Too": {
+      "part": "a",
+      "vendor": "flask-security-too_project",
+      "product": "flask-security-too"
+    },
+    "tablib": {
+      "part": "a",
+      "vendor": "python",
+      "product": "tablib"
+    },
+    "qutebrowser": {
+      "part": "a",
+      "vendor": "qutebrowser",
+      "product": "qutebrowser"
+    },
+    "pyyaml": {
+      "part": "a",
+      "vendor": "pyyaml",
+      "product": "pyyaml"
+    },
+    "psd-tools": {
+      "part": "a",
+      "vendor": "psd-tools_project",
+      "product": "psd-tools"
+    },
+    "definitions": {
+      "part": "a",
+      "vendor": "definitions_project",
+      "product": "definitions"
+    },
+    "mistune": {
+      "part": "a",
+      "vendor": "mistune_project",
+      "product": "mistune"
+    },
+    "pyxdg": {
+      "part": "a",
+      "vendor": "python",
+      "product": "pyxdg"
+    },
+    "moin": {
+      "part": "a",
+      "vendor": "moinmo",
+      "product": "moinmoin"
+    },
+    "urllib3": {
+      "part": "a",
+      "vendor": "python",
+      "product": "urllib3"
+    },
+    "webargs": {
+      "part": "a",
+      "vendor": "webargs_project",
+      "product": "webargs"
+    },
+    "safety": {
+      "part": "a",
+      "vendor": "pyup",
+      "product": "safety"
+    },
+    "requests-kerberos": {
+      "part": "a",
+      "vendor": "requests-kerberos_project",
+      "product": "requests-kerberos"
+    },
+    "django-two-factor-auth": {
+      "part": "a",
+      "vendor": "django_two-factor_authentication_project",
+      "product": "django_two-factor_authentication"
+    },
+    "topydo": {
+      "part": "a",
+      "vendor": "topydo",
+      "product": "topydo"
+    },
+    "koji": {
+      "part": "a",
+      "vendor": "koji_project",
+      "product": "koji"
+    },
+    "unoconv": {
+      "part": "a",
+      "vendor": "universal_office_converter_project",
+      "product": "universal_office_converter"
+    },
+    "tensorflow-cpu": {
+      "part": "a",
+      "vendor": "tensorflow",
+      "product": "tensorflow"
+    },
+    "cryptography": {
+      "part": "a",
+      "vendor": "cryptography_project",
+      "product": "cryptography"
+    },
+    "django-js-reverse": {
+      "part": "a",
+      "vendor": "django_js_reverse_project",
+      "product": "django_js_reserve"
+    },
+    "SQLAlchemy": {
+      "part": "a",
+      "vendor": "sqlalchemy",
+      "product": "sqlalchemy"
+    },
+    "python-saml": {
+      "part": "a",
+      "vendor": "onelogin",
+      "product": "pythonsaml"
+    },
+    "graphite-web": {
+      "part": "a",
+      "vendor": "graphite_project",
+      "product": "graphite"
+    },
+    "python-engineio": {
+      "part": "a",
+      "vendor": "python-engineio_project",
+      "product": "python-engineio"
+    },
+    "keyring": {
+      "part": "a",
+      "vendor": "python",
+      "product": "keyring"
+    },
+    "wagtail-2fa": {
+      "part": "a",
+      "vendor": "labdigital",
+      "product": "wagtail-2fa"
+    },
+    "pycryptodome": {
+      "part": "a",
+      "vendor": "python",
+      "product": "pycryptodome"
+    },
+    "marshmallow": {
+      "part": "a",
+      "vendor": "marshmallow_project",
+      "product": "marshmallow"
+    },
+    "hpack": {
+      "part": "a",
+      "vendor": "python",
+      "product": "hpack"
+    },
+    "typed-ast": {
+      "part": "a",
+      "vendor": "python",
+      "product": "typed_ast"
+    },
+    "pykmip": {
+      "part": "a",
+      "vendor": "pykmip_project",
+      "product": "pykmip"
+    },
+    "apache-airflow": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "airflow"
+    },
+    "nltk": {
+      "part": "a",
+      "vendor": "nltk",
+      "product": "nltk"
+    },
+    "tlslite-ng": {
+      "part": "a",
+      "vendor": "tlslite-ng_project",
+      "product": "tlslite-ng"
+    },
+    "recurly": {
+      "part": "a",
+      "vendor": "recurly",
+      "product": "recurly_client_python"
+    },
+    "FedMsg": {
+      "part": "a",
+      "vendor": "fedoraproject",
+      "product": "fedmsg"
+    },
+    "tuf": {
+      "part": "a",
+      "vendor": "linuxfoundation",
+      "product": "the_update_framework"
+    },
+    "python-libnmap": {
+      "part": "a",
+      "vendor": "libnmap",
+      "product": "libnmap"
+    },
+    "roundup": {
+      "part": "a",
+      "vendor": "roundup-tracker",
+      "product": "roundup"
+    },
+    "pyro": {
+      "part": "a",
+      "vendor": "pyro_project",
+      "product": "pyro"
+    },
+    "ipycache": {
+      "part": "a",
+      "vendor": "ipycache_project",
+      "product": "ipycache"
+    },
+    "Jinja2": {
+      "part": "a",
+      "vendor": "palletsprojects",
+      "product": "jinja"
+    },
+    "aubio": {
+      "part": "a",
+      "vendor": "aubio",
+      "product": "aubio"
+    },
+    "feedgen": {
+      "part": "a",
+      "vendor": "feedgen_project",
+      "product": "feedgen"
+    },
+    "superset": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "superset"
+    },
+    "apache-superset": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "incubator_superset"
+    },
+    "matrix-synapse": {
+      "part": "a",
+      "vendor": "matrix",
+      "product": "synapse"
+    },
+    "pillow": {
+      "part": "a",
+      "vendor": "python",
+      "product": "pillow"
+    },
+    "py-evm": {
+      "part": "a",
+      "vendor": "ethereum",
+      "product": "py-evm"
+    },
+    "python-dbusmock": {
+      "part": "a",
+      "vendor": "python-dbusmock_project",
+      "product": "python-dbusmock"
+    },
+    "oslo.middleware": {
+      "part": "a",
+      "vendor": "openstack",
+      "product": "oslo.middleware"
+    },
+    "pyopenssl": {
+      "part": "a",
+      "vendor": "pyopenssl_project",
+      "product": "pyopenssl"
+    },
+    "oauthenticator": {
+      "part": "a",
+      "vendor": "jupyter",
+      "product": "oauthenticator"
+    },
+    "indy-node": {
+      "part": "a",
+      "vendor": "linuxfoundation",
+      "product": "indy-node"
+    },
+    "docutils": {
+      "part": "a",
+      "vendor": "python-docutils_project",
+      "product": "python-docutils"
+    },
+    "sopel_plugins.channelmgnt": {
+      "part": "a",
+      "vendor": "miraheze",
+      "product": "channelmgnt"
+    },
+    "buildbot": {
+      "part": "a",
+      "vendor": "buildbot",
+      "product": "buildbot"
+    },
+    "mitogen": {
+      "part": "a",
+      "vendor": "networkgenomics",
+      "product": "mitogen"
+    },
+    "scapy": {
+      "part": "a",
+      "vendor": "scapy",
+      "product": "scapy"
+    },
+    "tryton": {
+      "part": "a",
+      "vendor": "tryton",
+      "product": "trytond"
+    },
+    "eve": {
+      "part": "a",
+      "vendor": "python-eve",
+      "product": "eve"
+    },
+    "flask-admin": {
+      "part": "a",
+      "vendor": "flask-admin_project",
+      "product": "flask-admin"
+    },
+    "django-rest-registration": {
+      "part": "a",
+      "vendor": "django-rest-registration_project",
+      "product": "django-rest-registration"
+    },
+    "diffoscope": {
+      "part": "a",
+      "vendor": "reproducible_builds",
+      "product": "diffoscope"
+    },
+    "invenio-records": {
+      "part": "a",
+      "vendor": "inveniosoftware",
+      "product": "invenio-records"
+    },
+    "rediswrapper": {
+      "part": "a",
+      "vendor": "redis_wrapper_project",
+      "product": "redis_wrapper"
+    },
+    "requests": {
+      "part": "a",
+      "vendor": "python-requests",
+      "product": "requests"
+    },
+    "invenio-previewer": {
+      "part": "a",
+      "vendor": "inveniosoftware",
+      "product": "invenio-previewer"
+    },
+    "mitmproxy": {
+      "part": "a",
+      "vendor": "mitmproxy",
+      "product": "mitmproxy"
+    },
+    "twisted": {
+      "part": "a",
+      "vendor": "twistedmatrix",
+      "product": "twisted"
+    },
+    "alerta-server": {
+      "part": "a",
+      "vendor": "alerta_project",
+      "product": "alerta"
+    },
+    "httplib2": {
+      "part": "a",
+      "vendor": "httplib2_project",
+      "product": "httplib2"
+    },
+    "jupyterhub-kubespawner": {
+      "part": "a",
+      "vendor": "jupyterhub",
+      "product": "kubespawner"
+    },
+    "paramiko": {
+      "part": "a",
+      "vendor": "paramiko",
+      "product": "paramiko"
+    },
+    "kdcproxy": {
+      "part": "a",
+      "vendor": "kdcproxy_project",
+      "product": "kdcproxy"
+    },
+    "Products.CMFPlone": {
+      "part": "a",
+      "vendor": "plone",
+      "product": "plone"
+    },
+    "rpyc": {
+      "part": "a",
+      "vendor": "rpyc_project",
+      "product": "rpyc"
+    },
+    "ymlref": {
+      "part": "a",
+      "vendor": "ymlref_project",
+      "product": "ymlref"
+    },
+    "parso": {
+      "part": "a",
+      "vendor": "parso_project",
+      "product": "parso"
+    },
+    "aiohttp": {
+      "part": "a",
+      "vendor": "aiohttp_project",
+      "product": "aiohttp"
+    },
+    "pyspark": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "spark"
+    },
+    "psutil": {
+      "part": "a",
+      "vendor": "psutil_project",
+      "product": "psutil"
+    },
+    "django-anymail": {
+      "part": "a",
+      "vendor": "django-anymail_project",
+      "product": "django-anymail"
+    },
+    "ladon": {
+      "part": "a",
+      "vendor": "ladon_project",
+      "product": "ladon"
+    },
+    "Red-DiscordBot": {
+      "part": "a",
+      "vendor": "cogboard",
+      "product": "red_discord_bot"
+    },
+    "lookatme": {
+      "part": "a",
+      "vendor": "lookatme_project",
+      "product": "lookatme"
+    },
+    "rply": {
+      "part": "a",
+      "vendor": "rply_project",
+      "product": "rply"
+    },
+    "blazar-dashboard": {
+      "part": "a",
+      "vendor": "openstack",
+      "product": "blazar-dashboard"
+    },
+    "mailman": {
+      "part": "a",
+      "vendor": "gnu",
+      "product": "mailman"
+    },
+    "plone.app.users": {
+      "part": "a",
+      "vendor": "plone",
+      "product": "plone"
+    },
+    "aioxmpp": {
+      "part": "a",
+      "vendor": "aioxmpp_project",
+      "product": "aioxmpp"
+    },
+    "jsnapy": {
+      "part": "a",
+      "vendor": "juniper",
+      "product": "jsnapy"
+    },
+    "cfscrape": {
+      "part": "a",
+      "vendor": "cloudflare-scrape_project",
+      "product": "cloudflare-scrape"
+    },
+    "colander": {
+      "part": "a",
+      "vendor": "pylonsproject",
+      "product": "colander"
+    },
+    "django": {
+      "part": "a",
+      "vendor": "djangoproject",
+      "product": "django"
+    },
+    "xmpp-http-upload": {
+      "part": "a",
+      "vendor": "xmpp-http-upload_project",
+      "product": "xmpp-http-upload"
+    },
+    "markdown2": {
+      "part": "a",
+      "vendor": "python-markdown2_project",
+      "product": "python-markdown2"
+    },
+    "notebook": {
+      "part": "a",
+      "vendor": "jupyter",
+      "product": "notebook"
+    },
+    "CoAPthon3": {
+      "part": "a",
+      "vendor": "coapthon3_project",
+      "product": "coapthon3"
+    },
+    "feedparser": {
+      "part": "a",
+      "vendor": "mark_pilgrim",
+      "product": "feedparser"
+    },
+    "ihatemoney": {
+      "part": "a",
+      "vendor": "ihatemoney",
+      "product": "i_hate_money"
+    },
+    "sqla-yaml-fixtures": {
+      "part": "a",
+      "vendor": "sqla_yaml_fixtures_project",
+      "product": "sqla_yaml_fixtures"
+    },
+    "Products.PasswordResetTool": {
+      "part": "a",
+      "vendor": "plone",
+      "product": "plone"
+    },
+    "mercurial": {
+      "part": "a",
+      "vendor": "mercurial",
+      "product": "mercurial"
+    },
+    "aiohttp-session": {
+      "part": "a",
+      "vendor": "aio-libs_project",
+      "product": "aiohttp"
+    },
+    "invenio-communities": {
+      "part": "a",
+      "vendor": "inveniosoftware",
+      "product": "invenio-communities"
+    },
+    "django-nopassword": {
+      "part": "a",
+      "vendor": "django-nopassword_project",
+      "product": "django-nopassword"
+    },
+    "novajoin": {
+      "part": "a",
+      "vendor": "python",
+      "product": "novajoin"
+    },
+    "validators": {
+      "part": "a",
+      "vendor": "validators_project",
+      "product": "validators"
+    },
+    "uvicorn": {
+      "part": "a",
+      "vendor": "encode",
+      "product": "uvicorn"
+    },
+    "Plone": {
+      "part": "a",
+      "vendor": "plone",
+      "product": "plone"
+    },
+    "conference-scheduler-cli": {
+      "part": "a",
+      "vendor": "pyconuk",
+      "product": "conference-scheduler-cli"
+    },
+    "Zope2": {
+      "part": "a",
+      "vendor": "zope",
+      "product": "zope"
+    },
+    "modulemd": {
+      "part": "a",
+      "vendor": "redhat",
+      "product": "modulemd"
+    },
+    "MLAlchemy": {
+      "part": "a",
+      "vendor": "mlalchemy_project",
+      "product": "mlalchemy"
+    },
+    "werkzeug": {
+      "part": "a",
+      "vendor": "palletsprojects",
+      "product": "werkzeug"
+    },
+    "limnoria": {
+      "part": "a",
+      "vendor": "limnoria_project",
+      "product": "limnoria"
+    },
+    "Pillow": {
+      "part": "a",
+      "vendor": "python",
+      "product": "pillow"
+    },
+    "CoAPthon": {
+      "part": "a",
+      "vendor": "coapthon_project",
+      "product": "coapthon"
+    },
+    "pycrypto": {
+      "part": "a",
+      "vendor": "dlitz",
+      "product": "pycrypto"
+    },
+    "django_make_app": {
+      "part": "a",
+      "vendor": "django_make_app_project",
+      "product": "django_make_app"
+    },
+    "bleach": {
+      "part": "a",
+      "vendor": "mozilla",
+      "product": "bleach"
+    },
+    "rope": {
+      "part": "a",
+      "vendor": "rope_project",
+      "product": "rope"
+    },
+    "gunicorn": {
+      "part": "a",
+      "vendor": "gunicorn",
+      "product": "gunicorn"
+    },
+    "lxml": {
+      "part": "a",
+      "vendor": "lxml",
+      "product": "lxml"
+    },
+    "privacyIDEA": {
+      "part": "a",
+      "vendor": "privacyidea",
+      "product": "privacyidea"
+    },
+    "red-dashboard": {
+      "part": "a",
+      "vendor": "cogboard",
+      "product": "red-dashboard"
+    },
+    "python-keystoneclient": {
+      "part": "a",
+      "vendor": "openstack",
+      "product": "python-keystoneclient"
+    },
+    "drf-jwt": {
+      "part": "a",
+      "vendor": "styria",
+      "product": "django-rest-framework-json_web_tokens"
+    },
+    "ecdsa": {
+      "part": "a",
+      "vendor": "python-ecdsa_project",
+      "product": "python-ecdsa"
+    }
+  },
+  "composer": {
+    "usmanhalalit/pixie": {
+      "part": "a",
+      "vendor": "pixie_project",
+      "product": "pixie"
+    },
+    "phpmailer/phpmailer": {
+      "part": "a",
+      "vendor": "phpmailer_project",
+      "product": "phpmailer"
+    },
+    "magento/community-edition": {
+      "part": "a",
+      "vendor": "magento",
+      "product": "magento"
+    },
+    "flarum/sticky": {
+      "part": "a",
+      "vendor": "flarum",
+      "product": "sticky"
+    },
+    "librenms/librenms": {
+      "part": "a",
+      "vendor": "librenms",
+      "product": "librenms"
+    },
+    "yiisoft/yii2": {
+      "part": "a",
+      "vendor": "yiiframework",
+      "product": "yii"
+    },
+    "symfony/http-kernel": {
+      "part": "a",
+      "vendor": "sensiolabs",
+      "product": "httpclient"
+    },
+    "symfony/security-http": {
+      "part": "a",
+      "vendor": "sensiolabs",
+      "product": "symfony"
+    },
+    "symfony/http-foundation": {
+      "part": "a",
+      "vendor": "sensiolabs",
+      "product": "symfony"
+    },
+    "symfony/symfony": {
+      "part": "a",
+      "vendor": "sensiolabs",
+      "product": "symfony"
+    },
+    "symfony/security": {
+      "part": "a",
+      "vendor": "sensiolabs",
+      "product": "symfony"
+    },
+    "symfony/framework-bundle": {
+      "part": "a",
+      "vendor": "drupal",
+      "product": "drupal"
+    },
+    "symfony/mime": {
+      "part": "a",
+      "vendor": "sensiolabs",
+      "product": "symfony"
+    },
+    "symfony/var-exporter": {
+      "part": "a",
+      "vendor": "sensiolabs",
+      "product": "symfony"
+    },
+    "symfony/cache": {
+      "part": "a",
+      "vendor": "sensiolabs",
+      "product": "symfony"
+    },
+    "symfony/dependency-injection": {
+      "part": "a",
+      "vendor": "sensiolabs",
+      "product": "symfony"
+    },
+    "symfony/phpunit-bridge": {
+      "part": "a",
+      "vendor": "sensiolabs",
+      "product": "symfony"
+    },
+    "symfony/proxy-manager-bridge": {
+      "part": "a",
+      "vendor": "sensiolabs",
+      "product": "symfony"
+    },
+    "centreon/centreon": {
+      "part": "a",
+      "vendor": "centreon",
+      "product": "centreon"
+    },
+    "typo3fluid/fluid": {
+      "part": "a",
+      "vendor": "typo3",
+      "product": "fluid"
+    },
+    "phpmyadmin/phpmyadmin": {
+      "part": "a",
+      "vendor": "phpmyadmin",
+      "product": "phpmyadmin"
+    },
+    "privatebin/privatebin": {
+      "part": "a",
+      "vendor": "privatebin",
+      "product": "privatebin"
+    },
+    "simplito/elliptic-php": {
+      "part": "a",
+      "vendor": "simplito",
+      "product": "elliptic-php"
+    },
+    "simplesamlphp/simplesamlphp": {
+      "part": "a",
+      "vendor": "simplesamlphp",
+      "product": "simplesamlphp"
+    },
+    "mittwald/typo3_forum": {
+      "part": "a",
+      "vendor": "mittwald",
+      "product": "typo3_forum"
+    },
+    "silverstripe/cms": {
+      "part": "a",
+      "vendor": "silverstripe",
+      "product": "silverstripe"
+    },
+    "silverstripe/framework": {
+      "part": "a",
+      "vendor": "silverstripe",
+      "product": "silverstripe"
+    },
+    "friendsoftypo3/mediace": {
+      "part": "a",
+      "vendor": "typo3",
+      "product": "mediace"
+    },
+    "ssddanbrown/bookstack": {
+      "part": "a",
+      "vendor": "bookstackapp",
+      "product": "bookstack"
+    },
+    "openmage/magento-lts": {
+      "part": "a",
+      "vendor": "openmage",
+      "product": "magento"
+    },
+    "yourls/yourls": {
+      "part": "a",
+      "vendor": "yourls",
+      "product": "yourls"
+    },
+    "getgrav/grav": {
+      "part": "a",
+      "vendor": "getgrav",
+      "product": "grav_cms"
+    },
+    "bagisto/bagisto": {
+      "part": "a",
+      "vendor": "webkul",
+      "product": "bagisto"
+    },
+    "phpfastcache/phpfastcache": {
+      "part": "a",
+      "vendor": "phpfastcache",
+      "product": "phpfastcache"
+    },
+    "phpoffice/phpspreadsheet": {
+      "part": "a",
+      "vendor": "phpspreadsheet_project",
+      "product": "phpspreadsheet"
+    },
+    "oneup/uploader-bundle": {
+      "part": "a",
+      "vendor": "1up",
+      "product": "oneupuploaderbundle"
+    },
+    "sulu/sulu": {
+      "part": "a",
+      "vendor": "sulu",
+      "product": "sulu"
+    },
+    "typo3/cms-core": {
+      "part": "a",
+      "vendor": "typo3",
+      "product": "typo3"
+    },
+    "league/commonmark": {
+      "part": "a",
+      "vendor": "thephpleague",
+      "product": "commonmark"
+    },
+    "october/cms": {
+      "part": "a",
+      "vendor": "octobercms",
+      "product": "october"
+    },
+    "october/backend": {
+      "part": "a",
+      "vendor": "octobercms",
+      "product": "october"
+    },
+    "october/rain": {
+      "part": "a",
+      "vendor": "octobercms",
+      "product": "october"
+    },
+    "cakephp/cakephp": {
+      "part": "a",
+      "vendor": "cakefoundation",
+      "product": "cakephp"
+    },
+    "verot/class.upload.php": {
+      "part": "a",
+      "vendor": "getk2",
+      "product": "k2"
+    },
+    "marcwillmann/turn": {
+      "part": "a",
+      "vendor": "turn\\!_project",
+      "product": "turn\\!"
+    },
+    "orchid/platform": {
+      "part": "a",
+      "vendor": "orchid",
+      "product": "platform"
+    },
+    "bolt/bolt": {
+      "part": "a",
+      "vendor": "bolt",
+      "product": "bolt"
+    },
+    "bolt/core": {
+      "part": "a",
+      "vendor": "boltcms",
+      "product": "bolt"
+    },
+    "adminer": {
+      "part": "a",
+      "vendor": "adminer",
+      "product": "adminer"
+    },
+    "enshrined/svg-sanitize": {
+      "part": "a",
+      "vendor": "svg-sanitizer_project",
+      "product": "svg-sanitizer"
+    },
+    "barrelstrength/sprout-base-email": {
+      "part": "a",
+      "vendor": "barrelstrengthdesign",
+      "product": "sprout_forms"
+    },
+    "barrelstrength/sprout-forms": {
+      "part": "a",
+      "vendor": "barrelstrengthdesign",
+      "product": "sprout_forms"
+    },
+    "pimcore/pimcore": {
+      "part": "a",
+      "vendor": "pimcore",
+      "product": "pimcore"
+    },
+    "derhansen/sf_event_mgt": {
+      "part": "a",
+      "vendor": "derhansen",
+      "product": "event_management_and_registration"
+    },
+    "robrichards/xmlseclibs": {
+      "part": "a",
+      "vendor": "simplesamlphp",
+      "product": "simplesamlphp"
+    },
+    "mautic/core": {
+      "part": "a",
+      "vendor": "acquia",
+      "product": "mautic"
+    },
+    "buddypress/buddypress": {
+      "part": "a",
+      "vendor": "buddypress",
+      "product": "buddypress"
+    },
+    "api-platform/core": {
+      "part": "a",
+      "vendor": "api-platform",
+      "product": "core"
+    },
+    "rainlab/debugbar-plugin": {
+      "part": "a",
+      "vendor": "octobercms",
+      "product": "debugbar"
+    },
+    "prestashop/productcomments": {
+      "part": "a",
+      "vendor": "prestashop",
+      "product": "product_comments"
+    },
+    "prestashop/contactform": {
+      "part": "a",
+      "vendor": "prestashop",
+      "product": "contactform"
+    },
+    "vrana/adminer": {
+      "part": "a",
+      "vendor": "adminer",
+      "product": "adminer"
+    },
+    "illuminate/database": {
+      "part": "a",
+      "vendor": "laravel",
+      "product": "laravel"
+    },
+    "symbiote/silverstripe-versionedfiles": {
+      "part": "a",
+      "vendor": "silverstripe",
+      "product": "silverstripe"
+    },
+    "cesnet/simplesamlphp-module-proxystatistics": {
+      "part": "a",
+      "vendor": "cesnet",
+      "product": "proxystatistics"
+    },
+    "baserproject/basercms": {
+      "part": "a",
+      "vendor": "basercms",
+      "product": "basercms"
+    },
+    "phpmussel/phpmussel": {
+      "part": "a",
+      "vendor": "phpmussel_project",
+      "product": "phpmussel"
+    },
+    "t3g/svg-sanitizer": {
+      "part": "a",
+      "vendor": "typo3",
+      "product": "svg_sanitizer"
+    },
+    "drupal/core": {
+      "part": "a",
+      "vendor": "drupal",
+      "product": "drupal"
+    },
+    "drupal/drupal": {
+      "part": "a",
+      "vendor": "drupal",
+      "product": "drupal"
+    },
+    "smarty/smarty": {
+      "part": "a",
+      "vendor": "smarty",
+      "product": "smarty"
+    },
+    "nette/application": {
+      "part": "a",
+      "vendor": "nette",
+      "product": "application"
+    },
+    "kitodo/presentation": {
+      "part": "a",
+      "vendor": "kitodo",
+      "product": "kitodo.presentation"
+    },
+    "dolibarr/dolibarr": {
+      "part": "a",
+      "vendor": "dolibarr",
+      "product": "dolibarr"
+    },
+    "sylius/resource-bundle": {
+      "part": "a",
+      "vendor": "sylius",
+      "product": "syliusresourcebundle"
+    },
+    "sylius/grid": {
+      "part": "a",
+      "vendor": "sylius",
+      "product": "grid"
+    },
+    "sylius/sylius": {
+      "part": "a",
+      "vendor": "sylius",
+      "product": "sylius"
+    },
+    "getkirby/cms": {
+      "part": "a",
+      "vendor": "getkirby",
+      "product": "kirby"
+    },
+    "getkirby/panel": {
+      "part": "a",
+      "vendor": "getkirby",
+      "product": "kirby"
+    },
+    "laravel/framework": {
+      "part": "a",
+      "vendor": "laravel",
+      "product": "laravel"
+    },
+    "yii2mod/yii2-cms": {
+      "part": "a",
+      "vendor": "hgw168cc",
+      "product": "yii-cms"
+    },
+    "contao/core-bundle": {
+      "part": "a",
+      "vendor": "contao",
+      "product": "contao"
+    }
+  },
+  "npm": {
+    "apk-parser2": {
+      "part": "a",
+      "vendor": "apk-parser2_project",
+      "product": "apk-parser2"
+    },
+    "node-srv": {
+      "part": "a",
+      "vendor": "node-srv_project",
+      "product": "node-srv"
+    },
+    "reduce-css-calc": {
+      "part": "a",
+      "vendor": "reduce-css-calc_project",
+      "product": "reduce-css-calc"
+    },
+    "sgqserve": {
+      "part": "a",
+      "vendor": "sgqserve_project",
+      "product": "sgqserve"
+    },
+    "rtcmulticonnection-client": {
+      "part": "a",
+      "vendor": "rtcmulticonnection-client_project",
+      "product": "rtcmulticonnection-client"
+    },
+    "sspa": {
+      "part": "a",
+      "vendor": "sspa_project",
+      "product": "sspa"
+    },
+    "just-extend": {
+      "part": "a",
+      "vendor": "just-extend_project",
+      "product": "just-extend"
+    },
+    "serve-static": {
+      "part": "a",
+      "vendor": "serve-static_project",
+      "product": "serve-static"
+    },
+    "samba-client": {
+      "part": "a",
+      "vendor": "samba-client_project",
+      "product": "samba-client"
+    },
+    "qs": {
+      "part": "a",
+      "vendor": "qs_project",
+      "product": "qs"
+    },
+    "soci": {
+      "part": "a",
+      "vendor": "soci_project",
+      "product": "soci"
+    },
+    "serve-here": {
+      "part": "a",
+      "vendor": "serve-here.js_project",
+      "product": "serve-here.js"
+    },
+    "fastify-reply-from": {
+      "part": "a",
+      "vendor": "fastify-reply-from_project",
+      "product": "fastify-reply-from"
+    },
+    "date-and-time": {
+      "part": "a",
+      "vendor": "date-and-time_project",
+      "product": "date-and-time"
+    },
+    "egg-scripts": {
+      "part": "a",
+      "vendor": "eggjs",
+      "product": "egg-scripts"
+    },
+    "node-bsdiff-android": {
+      "part": "a",
+      "vendor": "node-bsdiff-android_project",
+      "product": "node-bsdiff-android"
+    },
+    "immer": {
+      "part": "a",
+      "vendor": "immer_project",
+      "product": "immer"
+    },
+    "moment": {
+      "part": "a",
+      "vendor": "moment_project",
+      "product": "moment"
+    },
+    "shout": {
+      "part": "a",
+      "vendor": "shout_project",
+      "product": "shout"
+    },
+    "js-given": {
+      "part": "a",
+      "vendor": "js-given_project",
+      "product": "js-given"
+    },
+    "merge-options": {
+      "part": "a",
+      "vendor": "merge-options_project",
+      "product": "merge-options"
+    },
+    "whereis": {
+      "part": "a",
+      "vendor": "whereis_project",
+      "product": "whereis"
+    },
+    "useragent": {
+      "part": "a",
+      "vendor": "useragent_project",
+      "product": "useragent"
+    },
+    "slp-validate": {
+      "part": "a",
+      "vendor": "simpleledger",
+      "product": "slp-validate"
+    },
+    "iobroker.web": {
+      "part": "a",
+      "vendor": "iobroker",
+      "product": "iobroker.web"
+    },
+    "ps": {
+      "part": "a",
+      "vendor": "umbraengineering",
+      "product": "ps"
+    },
+    "stattic": {
+      "part": "a",
+      "vendor": "stattic_project",
+      "product": "stattic"
+    },
+    "semantic-release": {
+      "part": "a",
+      "vendor": "semantic-release_project",
+      "product": "semantic-release"
+    },
+    "picard": {
+      "part": "a",
+      "vendor": "picard_project",
+      "product": "picard"
+    },
+    "nats.ws": {
+      "part": "a",
+      "vendor": "linuxfoundation",
+      "product": "nats.deno"
+    },
+    "openframe-image": {
+      "part": "a",
+      "vendor": "openframe-image_project",
+      "product": "openframe-image"
+    },
+    "dojo": {
+      "part": "a",
+      "vendor": "dojotoolkit",
+      "product": "dojo"
+    },
+    "fast-csv": {
+      "part": "a",
+      "vendor": "c2fo",
+      "product": "fast-csv"
+    },
+    "elding": {
+      "part": "a",
+      "vendor": "elding_project",
+      "product": "elding"
+    },
+    "jwt-simple": {
+      "part": "a",
+      "vendor": "jwt-simple_project",
+      "product": "jwt-simple"
+    },
+    "kindlegen": {
+      "part": "a",
+      "vendor": "hakatashi",
+      "product": "kindlegen"
+    },
+    "http_server": {
+      "part": "a",
+      "vendor": "http_server_project",
+      "product": "http_server"
+    },
+    "assign-deep": {
+      "part": "a",
+      "vendor": "assign-deep_project",
+      "product": "assign-deep"
+    },
+    "jdf-sass": {
+      "part": "a",
+      "vendor": "jdf-sass_project",
+      "product": "jdf-sass"
+    },
+    "steroids": {
+      "part": "a",
+      "vendor": "appgyver",
+      "product": "steroids"
+    },
+    "selectize-plugin-a11y": {
+      "part": "a",
+      "vendor": "selectize-plugin-a11y_project",
+      "product": "selectize-plugin-a11y"
+    },
+    "bootstrap-sass": {
+      "part": "a",
+      "vendor": "f5",
+      "product": "big-ip_access_policy_manager"
+    },
+    "node-fetch": {
+      "part": "a",
+      "vendor": "node-fetch_project",
+      "product": "node-fetch"
+    },
+    "limbus-buildgen": {
+      "part": "a",
+      "vendor": "limbus-buildgen_project",
+      "product": "limbus-buildgen"
+    },
+    "fis-sass-all": {
+      "part": "a",
+      "vendor": "fis-sass-all_project",
+      "product": "fis-sass-all"
+    },
+    "ini": {
+      "part": "a",
+      "vendor": "ini_project",
+      "product": "ini"
+    },
+    "windows-selenium-chromedriver": {
+      "part": "a",
+      "vendor": "windows-selenium-chromedriver_project",
+      "product": "windows-selenium-chromedriver"
+    },
+    "nodemailer-js": {
+      "part": "a",
+      "vendor": "nodemailer-js_project",
+      "product": "nodemailer-js"
+    },
+    "hftp": {
+      "part": "a",
+      "vendor": "hftp_project",
+      "product": "hftp"
+    },
+    "pngcrush-installer": {
+      "part": "a",
+      "vendor": "pngcrush-installer_project",
+      "product": "pngcrush-installer"
+    },
+    "express-restify-mongoose": {
+      "part": "a",
+      "vendor": "express-restify-mongoose_project",
+      "product": "express-restify-mongoose"
+    },
+    "sfml": {
+      "part": "a",
+      "vendor": "sfml_project",
+      "product": "sfml"
+    },
+    "hubot-scripts": {
+      "part": "a",
+      "vendor": "hubot_scripts_project",
+      "product": "hubot_scripts"
+    },
+    "lodash": {
+      "part": "a",
+      "vendor": "lodash",
+      "product": "lodash"
+    },
+    "simple-npm-registry": {
+      "part": "a",
+      "vendor": "simple-npm-registry_project",
+      "product": "simple-npm-registry"
+    },
+    "tiny-http": {
+      "part": "a",
+      "vendor": "tiny-http_project",
+      "product": "tiny-http"
+    },
+    "frames-compiler": {
+      "part": "a",
+      "vendor": "frames-compiler_project",
+      "product": "frames-compiler"
+    },
+    "closure-util": {
+      "part": "a",
+      "vendor": "openlayers",
+      "product": "closure-util"
+    },
+    "sauce-connect": {
+      "part": "a",
+      "vendor": "node-sauce-connect_project",
+      "product": "node-sauce-connect"
+    },
+    "jstestdriver": {
+      "part": "a",
+      "vendor": "jstestdriver_project",
+      "product": "jstestdriver"
+    },
+    "git-dummy-commit": {
+      "part": "a",
+      "vendor": "git-dummy-commit_project",
+      "product": "git-dummy-commit"
+    },
+    "@progfay/scrapbox-parser": {
+      "part": "a",
+      "vendor": "scrapbox-parser_project",
+      "product": "scrapbox-parser"
+    },
+    "ldapauth-fork": {
+      "part": "a",
+      "vendor": "ldapauth-fork_project",
+      "product": "ldapauth-fork"
+    },
+    "unicode-json": {
+      "part": "a",
+      "vendor": "unicode",
+      "product": "unicode-json"
+    },
+    "broccoli-closure": {
+      "part": "a",
+      "vendor": "broccoli-closure_project",
+      "product": "broccoli-closure"
+    },
+    "nodeffmpeg": {
+      "part": "a",
+      "vendor": "nodeffmpeg_project",
+      "product": "nodeffmpeg"
+    },
+    "mapbox.js": {
+      "part": "a",
+      "vendor": "mapbox_project",
+      "product": "mapbox"
+    },
+    "selenium-chromedriver": {
+      "part": "a",
+      "vendor": "selenium-chromedriver_project",
+      "product": "selenium-chromedriver"
+    },
+    "grunt-images": {
+      "part": "a",
+      "vendor": "grunt-images_project",
+      "product": "grunt-images"
+    },
+    "openframe-glslviewer": {
+      "part": "a",
+      "vendor": "openframe-glslviewer_project",
+      "product": "openframe-glslviewer"
+    },
+    "jquery-file-upload": {
+      "part": "a",
+      "vendor": "hayageek",
+      "product": "jquery_upload_file"
+    },
+    "zwserver": {
+      "part": "a",
+      "vendor": "zwserver_project",
+      "product": "zwserver"
+    },
+    "@nuxt/devalue": {
+      "part": "a",
+      "vendor": "nuxtjs",
+      "product": "\\@nuxt\\/devalue"
+    },
+    "mongodb-instance": {
+      "part": "a",
+      "vendor": "mongodb-instance_project",
+      "product": "mongodb-instance"
+    },
+    "http-file-server": {
+      "part": "a",
+      "vendor": "http-file-server_project",
+      "product": "http-file-server"
+    },
+    "webpack-dev-server": {
+      "part": "a",
+      "vendor": "webpack.js",
+      "product": "webpack-dev-server"
+    },
+    "strapi-plugin-content-manager": {
+      "part": "a",
+      "vendor": "strapi",
+      "product": "strapi"
+    },
+    "seneca": {
+      "part": "a",
+      "vendor": "senecajs",
+      "product": "seneca"
+    },
+    "npm-script-demo": {
+      "part": "a",
+      "vendor": "npm-script-demo_project",
+      "product": "npm-script-demo"
+    },
+    "openssl.js": {
+      "part": "a",
+      "vendor": "openssl.js_project",
+      "product": "openssl.js"
+    },
+    "connect-pg-simple": {
+      "part": "a",
+      "vendor": "connect-pg-simple_project",
+      "product": "connect-pg-simple"
+    },
+    "http-proxy.js": {
+      "part": "a",
+      "vendor": "http-proxy.js_project",
+      "product": "http-proxy.js"
+    },
+    "liyujing": {
+      "part": "a",
+      "vendor": "liyujing_project",
+      "product": "liyujing"
+    },
+    "general-file-server": {
+      "part": "a",
+      "vendor": "general-file-server_project",
+      "product": "general-file-server"
+    },
+    "npm-programmatic": {
+      "part": "a",
+      "vendor": "npm-programmatic_project",
+      "product": "npm-programmatic"
+    },
+    "co-cli-installer": {
+      "part": "a",
+      "vendor": "co-cli-installer_project",
+      "product": "co-cli-installer"
+    },
+    "fast-http": {
+      "part": "a",
+      "vendor": "fast-http_project",
+      "product": "fast-http"
+    },
+    "healthcenter": {
+      "part": "a",
+      "vendor": "healthcenter_project",
+      "product": "healthcenter"
+    },
+    "printer": {
+      "part": "a",
+      "vendor": "node-printer_project",
+      "product": "node-printer"
+    },
+    "morgan": {
+      "part": "a",
+      "vendor": "morgan_project",
+      "product": "morgan"
+    },
+    "selenium-standalone-painful": {
+      "part": "a",
+      "vendor": "selenium-standalone-painful_project",
+      "product": "selenium-standalone-painful"
+    },
+    "graphql-playground-html": {
+      "part": "a",
+      "vendor": "prisma",
+      "product": "graphql-playground-html"
+    },
+    "https-proxy-agent": {
+      "part": "a",
+      "vendor": "https-proxy-agent_project",
+      "product": "https-proxy-agent"
+    },
+    "nodesqlite": {
+      "part": "a",
+      "vendor": "nodesqlite_project",
+      "product": "nodesqlite"
+    },
+    "query-mysql": {
+      "part": "a",
+      "vendor": "query-mysql_project",
+      "product": "query-mysql"
+    },
+    "cue-sdk-node": {
+      "part": "a",
+      "vendor": "cue-sdk-node_project",
+      "product": "cue-sdk-node"
+    },
+    "mversion": {
+      "part": "a",
+      "vendor": "mversion_project",
+      "product": "mversion"
+    },
+    "save-server": {
+      "part": "a",
+      "vendor": "save-server_project",
+      "product": "save-server"
+    },
+    "angular-http-server": {
+      "part": "a",
+      "vendor": "angular-http-server_project",
+      "product": "angular-http-server"
+    },
+    "verdaccio": {
+      "part": "a",
+      "vendor": "verdaccio",
+      "product": "verdaccio"
+    },
+    "google-closure-tools-latest": {
+      "part": "a",
+      "vendor": "google-closure-tools-latest_project",
+      "product": "google-closure-tools-latest"
+    },
+    "jsrsasign": {
+      "part": "a",
+      "vendor": "jsrsasign_project",
+      "product": "jsrsasign"
+    },
+    "codecov": {
+      "part": "a",
+      "vendor": "codecov",
+      "product": "codecov"
+    },
+    "auth0": {
+      "part": "a",
+      "vendor": "auth0",
+      "product": "auth0"
+    },
+    "mathjs": {
+      "part": "a",
+      "vendor": "mathjs",
+      "product": "math.js"
+    },
+    "resolve-path": {
+      "part": "a",
+      "vendor": "resolve-path_project",
+      "product": "resolve-path"
+    },
+    "remarkable": {
+      "part": "a",
+      "vendor": "remarkable_project",
+      "product": "remarkable"
+    },
+    "simple-markdown": {
+      "part": "a",
+      "vendor": "khanacademy",
+      "product": "simple-markdown"
+    },
+    "libxl": {
+      "part": "a",
+      "vendor": "libxl_project",
+      "product": "libxl"
+    },
+    "strider-sauce": {
+      "part": "a",
+      "vendor": "strider-sauce_project",
+      "product": "strider-sauce"
+    },
+    "Haraka": {
+      "part": "a",
+      "vendor": "haraka_project",
+      "product": "haraka"
+    },
+    "serverlyr": {
+      "part": "a",
+      "vendor": "serverlyr_project",
+      "product": "serverlyr"
+    },
+    "content": {
+      "part": "a",
+      "vendor": "content_project",
+      "product": "content"
+    },
+    "ejs": {
+      "part": "a",
+      "vendor": "ejs",
+      "product": "ejs"
+    },
+    "node-simple-router": {
+      "part": "a",
+      "vendor": "node-simple-router",
+      "product": "node-simple-router"
+    },
+    "keycloak-js": {
+      "part": "a",
+      "vendor": "keycloak",
+      "product": "keycloak-nodejs-auth-utils"
+    },
+    "list-n-stream": {
+      "part": "a",
+      "vendor": "list-n-stream_project",
+      "product": "list-n-stream"
+    },
+    "dynamoose": {
+      "part": "a",
+      "vendor": "dynamoosejs",
+      "product": "dynamoose"
+    },
+    "welcomyzt": {
+      "part": "a",
+      "vendor": "welcomyzt_project",
+      "product": "welcomyzt"
+    },
+    "badjs-sourcemap-server": {
+      "part": "a",
+      "vendor": "badjs-sourcemap-server_project",
+      "product": "badjs-sourcemap-server"
+    },
+    "sync-exec": {
+      "part": "a",
+      "vendor": "sync-exec_project",
+      "product": "sync-exec"
+    },
+    "node-opencv": {
+      "part": "a",
+      "vendor": "node-opencv_project",
+      "product": "node-opencv"
+    },
+    "nodeschnaps": {
+      "part": "a",
+      "vendor": "nodeschnaps_project",
+      "product": "nodeschnaps"
+    },
+    "mssql.js": {
+      "part": "a",
+      "vendor": "mssql.js_project",
+      "product": "mssql.js"
+    },
+    "matrix-react-sdk": {
+      "part": "a",
+      "vendor": "matrix-react-sdk_project",
+      "product": "matrix-react-sdk"
+    },
+    "passport-wsfed-saml2": {
+      "part": "a",
+      "vendor": "auth0",
+      "product": "passport-wsfed-saml2"
+    },
+    "snyk-broker": {
+      "part": "a",
+      "vendor": "synk",
+      "product": "broker"
+    },
+    "serveryztyzt": {
+      "part": "a",
+      "vendor": "serveryztyzt_project",
+      "product": "serveryztyzt"
+    },
+    "codem-transcode": {
+      "part": "a",
+      "vendor": "codem-transcode_project",
+      "product": "codem-transcode"
+    },
+    "openpgp": {
+      "part": "a",
+      "vendor": "openpgpjs",
+      "product": "openpgpjs"
+    },
+    "express": {
+      "part": "a",
+      "vendor": "expressjs",
+      "product": "express"
+    },
+    "dcserver": {
+      "part": "a",
+      "vendor": "dcserver_project",
+      "product": "dcserver"
+    },
+    "dalek-browser-ie": {
+      "part": "a",
+      "vendor": "dalekjs",
+      "product": "dalekjs"
+    },
+    "ini-parser": {
+      "part": "a",
+      "vendor": "ini-parser_project",
+      "product": "ini-parser"
+    },
+    "lodash-amd": {
+      "part": "a",
+      "vendor": "lodash",
+      "product": "lodash"
+    },
+    "restafary": {
+      "part": "a",
+      "vendor": "restafary_project",
+      "product": "restafary"
+    },
+    "next-auth": {
+      "part": "a",
+      "vendor": "nextauth.js",
+      "product": "next-auth"
+    },
+    "install-nw": {
+      "part": "a",
+      "vendor": "install-nw_project",
+      "product": "install-nw"
+    },
+    "status-board": {
+      "part": "a",
+      "vendor": "status_board_project",
+      "product": "status_board"
+    },
+    "typed-function": {
+      "part": "a",
+      "vendor": "typed_function_project",
+      "product": "typed_function"
+    },
+    "materialize-css": {
+      "part": "a",
+      "vendor": "materializecss",
+      "product": "materialize"
+    },
+    "sshpk": {
+      "part": "a",
+      "vendor": "joyent",
+      "product": "sshpk"
+    },
+    "noderequest": {
+      "part": "a",
+      "vendor": "noderequest_project",
+      "product": "noderequest"
+    },
+    "dns-sync": {
+      "part": "a",
+      "vendor": "node-dns-sync_project",
+      "product": "node-dns-sync"
+    },
+    "joplin": {
+      "part": "a",
+      "vendor": "joplin_project",
+      "product": "joplin"
+    },
+    "utils-extend": {
+      "part": "a",
+      "vendor": "utils-extend_project",
+      "product": "utils-extend"
+    },
+    "bionode-sra": {
+      "part": "a",
+      "vendor": "bionode",
+      "product": "bionode-sra"
+    },
+    "memjs": {
+      "part": "a",
+      "vendor": "memcachier",
+      "product": "memjs"
+    },
+    "buttle": {
+      "part": "a",
+      "vendor": "buttle_project",
+      "product": "buttle"
+    },
+    "cofeescript": {
+      "part": "a",
+      "vendor": "cofeescript_project",
+      "product": "cofeescript"
+    },
+    "statichttpserver": {
+      "part": "a",
+      "vendor": "statichttpserver_project",
+      "product": "statichttpserver"
+    },
+    "cli": {
+      "part": "a",
+      "vendor": "cli_project",
+      "product": "cli"
+    },
+    "augustine": {
+      "part": "a",
+      "vendor": "augustine_project",
+      "product": "augustine"
+    },
+    "atob": {
+      "part": "a",
+      "vendor": "atob_project",
+      "product": "atob"
+    },
+    "droppy": {
+      "part": "a",
+      "vendor": "droppy_project",
+      "product": "droppy"
+    },
+    "charset": {
+      "part": "a",
+      "vendor": "charset_project",
+      "product": "charset"
+    },
+    "corenlp-js-interface": {
+      "part": "a",
+      "vendor": "corenlp-js-interface_project",
+      "product": "corenlp-js-interface"
+    },
+    "vega": {
+      "part": "a",
+      "vendor": "vega_project",
+      "product": "vega"
+    },
+    "hot-formula-parser": {
+      "part": "a",
+      "vendor": "hot-formula-parser_project",
+      "product": "hot-formula-parser"
+    },
+    "node-browser": {
+      "part": "a",
+      "vendor": "node-browser_project",
+      "product": "node-browser"
+    },
+    "forwarded": {
+      "part": "a",
+      "vendor": "forwarded_project",
+      "product": "forwarded"
+    },
+    "express-cart": {
+      "part": "a",
+      "vendor": "express-cart_project",
+      "product": "express-cart"
+    },
+    "confinit": {
+      "part": "a",
+      "vendor": "confinit_project",
+      "product": "confinit"
+    },
+    "connection-tester": {
+      "part": "a",
+      "vendor": "connection-tester_project",
+      "product": "connection-tester"
+    },
+    "merge-recursive": {
+      "part": "a",
+      "vendor": "umbraengineering",
+      "product": "merge-recursive"
+    },
+    "fastify-csrf": {
+      "part": "a",
+      "vendor": "fastify",
+      "product": "fastify-csrf"
+    },
+    "adamvr-geoip-lite": {
+      "part": "a",
+      "vendor": "adamvr-geoip-lite_project",
+      "product": "adamvr-geoip-lite"
+    },
+    "mathjax": {
+      "part": "a",
+      "vendor": "mathjax",
+      "product": "mathjax"
+    },
+    "marionette-socket-host": {
+      "part": "a",
+      "vendor": "marionette-socket-host_project",
+      "product": "marionette-socket-host"
+    },
+    "jison": {
+      "part": "a",
+      "vendor": "jison_project",
+      "product": "jison"
+    },
+    "node-df": {
+      "part": "a",
+      "vendor": "node-df_project",
+      "product": "node-df"
+    },
+    "discordi.js": {
+      "part": "a",
+      "vendor": "discordi.js_project",
+      "product": "discordi.js"
+    },
+    "browserify-hmr": {
+      "part": "a",
+      "vendor": "browserify-hot_module_replacement_project",
+      "product": "browserify-hot_module_replacement"
+    },
+    "zjjserver": {
+      "part": "a",
+      "vendor": "zjjserver_project",
+      "product": "zjjserver"
+    },
+    "pdfinfojs": {
+      "part": "a",
+      "vendor": "pdfinfojs_project",
+      "product": "pdfinfojs"
+    },
+    "dalek-browser-chrome-canary": {
+      "part": "a",
+      "vendor": "dalekjs",
+      "product": "dalekjs"
+    },
+    "parse-server": {
+      "part": "a",
+      "vendor": "parseplatform",
+      "product": "parse-server"
+    },
+    "bassmaster": {
+      "part": "a",
+      "vendor": "bassmaster_project",
+      "product": "bassmaster"
+    },
+    "csrf-lite": {
+      "part": "a",
+      "vendor": "csrf-lite_project",
+      "product": "csrf-lite"
+    },
+    "yttivy": {
+      "part": "a",
+      "vendor": "yttivy_project",
+      "product": "yttivy"
+    },
+    "macaca-chromedriver": {
+      "part": "a",
+      "vendor": "macacajs",
+      "product": "macaca-chromedriver"
+    },
+    "buns": {
+      "part": "a",
+      "vendor": "buns_project",
+      "product": "buns"
+    },
+    "f2e-server": {
+      "part": "a",
+      "vendor": "f2e-server_project",
+      "product": "f2e-server"
+    },
+    "fancy-server": {
+      "part": "a",
+      "vendor": "fancy-server_project",
+      "product": "fancy-server"
+    },
+    "sqlite.js": {
+      "part": "a",
+      "vendor": "sqlite.js_project",
+      "product": "sqlite.js"
+    },
+    "open-device": {
+      "part": "a",
+      "vendor": "open-device_project",
+      "product": "open-device"
+    },
+    "lix": {
+      "part": "a",
+      "vendor": "lix_project",
+      "product": "lix"
+    },
+    "pannellum": {
+      "part": "a",
+      "vendor": "pannellum",
+      "product": "pannellum"
+    },
+    "dwebp-bin": {
+      "part": "a",
+      "vendor": "dwebp-bin_project",
+      "product": "dwebp-bin"
+    },
+    "is-my-json-valid": {
+      "part": "a",
+      "vendor": "is_my_json_valid_project",
+      "product": "is_my_json_valid"
+    },
+    "box2d-native": {
+      "part": "a",
+      "vendor": "box2d-native_project",
+      "product": "box2d-native"
+    },
+    "valine": {
+      "part": "a",
+      "vendor": "valine.js",
+      "product": "valine"
+    },
+    "node-openssl": {
+      "part": "a",
+      "vendor": "node-openssl_project",
+      "product": "node-openssl"
+    },
+    "ws": {
+      "part": "a",
+      "vendor": "ws_project",
+      "product": "ws"
+    },
+    "jpeg-js": {
+      "part": "a",
+      "vendor": "jpeg-js_project",
+      "product": "jpeg-js"
+    },
+    "method-override": {
+      "part": "a",
+      "vendor": "expressjs",
+      "product": "method-override"
+    },
+    "uv-tj-demo": {
+      "part": "a",
+      "vendor": "uv-tj-demo_project",
+      "product": "uv-tj-demo"
+    },
+    "angular": {
+      "part": "a",
+      "vendor": "angularjs",
+      "product": "angular.js"
+    },
+    "cmake": {
+      "part": "a",
+      "vendor": "cmake_project",
+      "product": "cmake"
+    },
+    "minimatch": {
+      "part": "a",
+      "vendor": "minimatch_project",
+      "product": "minimatch"
+    },
+    "tomato": {
+      "part": "a",
+      "vendor": "ucdok",
+      "product": "tomato"
+    },
+    "gruntcli": {
+      "part": "a",
+      "vendor": "gruntcli_project",
+      "product": "gruntcli"
+    },
+    "lodash.merge": {
+      "part": "a",
+      "vendor": "lodash",
+      "product": "lodash"
+    },
+    "exxxxxxxxxxx": {
+      "part": "a",
+      "vendor": "exxxxxxxxxxx_project",
+      "product": "exxxxxxxxxxx"
+    },
+    "generator-jhipster-kotlin": {
+      "part": "a",
+      "vendor": "jhipster",
+      "product": "jhipster"
+    },
+    "datachannel-client": {
+      "part": "a",
+      "vendor": "datachannel-client_project",
+      "product": "datachannel-client"
+    },
+    "mysql": {
+      "part": "a",
+      "vendor": "mysqljs",
+      "product": "mysql_node_module"
+    },
+    "webpack-subresource-integrity": {
+      "part": "a",
+      "vendor": "webpack-subresource-integrity_project",
+      "product": "webpack-subresource-integrity"
+    },
+    "scott-blanch-weather-app": {
+      "part": "a",
+      "vendor": "scott-blanch-weather-app_project",
+      "product": "scott-blanch-weather-app"
+    },
+    "@ckeditor/ckeditor5-markdown-gfm": {
+      "part": "a",
+      "vendor": "ckeditor",
+      "product": "ckeditor_5"
+    },
+    "@ckeditor/ckeditor5-link": {
+      "part": "a",
+      "vendor": "ckeditor",
+      "product": "ckeditor_5-link"
+    },
+    "sanitize-html": {
+      "part": "a",
+      "vendor": "punkave",
+      "product": "sanitize-html"
+    },
+    "@fast-csv/parse": {
+      "part": "a",
+      "vendor": "c2fo",
+      "product": "fast-csv"
+    },
+    "git-diff-apply": {
+      "part": "a",
+      "vendor": "git-diff-apply_project",
+      "product": "git-diff-apply"
+    },
+    "ltt": {
+      "part": "a",
+      "vendor": "ltt_project",
+      "product": "ltt"
+    },
+    "dylmomo": {
+      "part": "a",
+      "vendor": "dylmomo_project",
+      "product": "dylmomo"
+    },
+    "selenium-binaries": {
+      "part": "a",
+      "vendor": "spunjs",
+      "product": "selenium-binaries"
+    },
+    "fast-http-cli": {
+      "part": "a",
+      "vendor": "fast-http-cli_project",
+      "product": "fast-http-cli"
+    },
+    "safer-eval": {
+      "part": "a",
+      "vendor": "safer-eval_project",
+      "product": "safer-eval"
+    },
+    "mystem-fix": {
+      "part": "a",
+      "vendor": "mystem-fix_project",
+      "product": "mystem-fix"
+    },
+    "apexcharts": {
+      "part": "a",
+      "vendor": "fusioncharts",
+      "product": "apexcharts"
+    },
+    "cobalt-cli": {
+      "part": "a",
+      "vendor": "cobalt-cli_project",
+      "product": "cobalt-cli"
+    },
+    "ibapi": {
+      "part": "a",
+      "vendor": "interactivebrokers",
+      "product": "ibapi"
+    },
+    "bootstrap": {
+      "part": "a",
+      "vendor": "getbootstrap",
+      "product": "bootstrap"
+    },
+    "serverliujiayi1": {
+      "part": "a",
+      "vendor": "serverliujiayi1_project",
+      "product": "serverliujiayi1"
+    },
+    "product-monitor": {
+      "part": "a",
+      "vendor": "product-monitor_project",
+      "product": "product-monitor"
+    },
+    "@nozbe/watermelondb": {
+      "part": "a",
+      "vendor": "nozbe",
+      "product": "watermelondb"
+    },
+    "lodash.template": {
+      "part": "a",
+      "vendor": "lodash",
+      "product": "lodash"
+    },
+    "class-transformer": {
+      "part": "a",
+      "vendor": "class-transformer_project",
+      "product": "class-transformer"
+    },
+    "parcel-bundler": {
+      "part": "a",
+      "vendor": "parceljs",
+      "product": "parcel"
+    },
+    "pomelo": {
+      "part": "a",
+      "vendor": "netease",
+      "product": "pomelo"
+    },
+    "jikes": {
+      "part": "a",
+      "vendor": "jikes_project",
+      "product": "jikes"
+    },
+    "jquey": {
+      "part": "a",
+      "vendor": "jquey_project",
+      "product": "jquey"
+    },
+    "slimerjs-edge": {
+      "part": "a",
+      "vendor": "slimerjs-edge_project",
+      "product": "slimerjs-edge"
+    },
+    "ua-parser": {
+      "part": "a",
+      "vendor": "ua-parser_project",
+      "product": "ua-parser"
+    },
+    "hcbserver": {
+      "part": "a",
+      "vendor": "hcbserver_project",
+      "product": "hcbserver"
+    },
+    "jquery.js": {
+      "part": "a",
+      "vendor": "jquery.js_project",
+      "product": "jquery.js"
+    },
+    "m-server": {
+      "part": "a",
+      "vendor": "m-server_project",
+      "product": "m-server"
+    },
+    "rendertron": {
+      "part": "a",
+      "vendor": "google",
+      "product": "rendertron"
+    },
+    "libyaml": {
+      "part": "a",
+      "vendor": "pyyaml",
+      "product": "libyaml"
+    },
+    "node-forge": {
+      "part": "a",
+      "vendor": "digitalbazzar",
+      "product": "forge"
+    },
+    "saml2-js": {
+      "part": "a",
+      "vendor": "clever",
+      "product": "saml2-js"
+    },
+    "public": {
+      "part": "a",
+      "vendor": "public.js_project",
+      "product": "public.js"
+    },
+    "schema-inspector": {
+      "part": "a",
+      "vendor": "schema-inspector_project",
+      "product": "schema-inspector"
+    },
+    "less-openui5": {
+      "part": "a",
+      "vendor": "less-openui5_project",
+      "product": "less-openui5"
+    },
+    "pouchdb": {
+      "part": "a",
+      "vendor": "pouchdb",
+      "product": "pouchdb"
+    },
+    "cuciuci": {
+      "part": "a",
+      "vendor": "cuciuci_project",
+      "product": "cuciuci"
+    },
+    "pg": {
+      "part": "a",
+      "vendor": "node-postgres",
+      "product": "pg"
+    },
+    "fuseki": {
+      "part": "a",
+      "vendor": "fuseki_project",
+      "product": "fuseki"
+    },
+    "forms": {
+      "part": "a",
+      "vendor": "forms_project",
+      "product": "forms"
+    },
+    "larvitbase-api": {
+      "part": "a",
+      "vendor": "larvit",
+      "product": "larvitbase"
+    },
+    "scalajs-standalone-bin": {
+      "part": "a",
+      "vendor": "scalajs-standalone-bin_project",
+      "product": "scalajs-standalone-bin"
+    },
+    "cordova-plugin-ionic-webview": {
+      "part": "a",
+      "vendor": "ionicframework",
+      "product": "ionic_web_view"
+    },
+    "react-native-baidu-voice-synthesizer": {
+      "part": "a",
+      "vendor": "react-native-baidu-voice-synthesizer_project",
+      "product": "react-native-baidu-voice-synthesizer"
+    },
+    "airbrake": {
+      "part": "a",
+      "vendor": "airbrake",
+      "product": "airbrake"
+    },
+    "dcdcdcdcdc": {
+      "part": "a",
+      "vendor": "dcdcdcdcdc_project",
+      "product": "dcdcdcdcdc"
+    },
+    "node-sqlite": {
+      "part": "a",
+      "vendor": "node-sqlite_project",
+      "product": "node-sqlite"
+    },
+    "cross-env.js": {
+      "part": "a",
+      "vendor": "cross-env.js_project",
+      "product": "cross-env.js"
+    },
+    "apk-parser": {
+      "part": "a",
+      "vendor": "apk-parser_project",
+      "product": "apk-parser"
+    },
+    "ntfserver": {
+      "part": "a",
+      "vendor": "shutterstock",
+      "product": "ntfserver"
+    },
+    "merge": {
+      "part": "a",
+      "vendor": "merge_project",
+      "product": "merge"
+    },
+    "restify": {
+      "part": "a",
+      "vendor": "restify",
+      "product": "restify"
+    },
+    "prince": {
+      "part": "a",
+      "vendor": "prince_project",
+      "product": "prince"
+    },
+    "ftp-srv": {
+      "part": "a",
+      "vendor": "ftp-srv_project",
+      "product": "ftp-srv"
+    },
+    "pug": {
+      "part": "a",
+      "vendor": "pugjs",
+      "product": "pug"
+    },
+    "markdown-pdf": {
+      "part": "a",
+      "vendor": "markdown-pdf_project",
+      "product": "markdown-pdf"
+    },
+    "node-server-forfront": {
+      "part": "a",
+      "vendor": "node-server-forfront_project",
+      "product": "node-server-forfront"
+    },
+    "iobroker.admin": {
+      "part": "a",
+      "vendor": "iobroker",
+      "product": "iobroker.admin"
+    },
+    "jser-stat": {
+      "part": "a",
+      "vendor": "jser-stat_project",
+      "product": "jser-stat"
+    },
+    "quickserver": {
+      "part": "a",
+      "vendor": "quickserver_project",
+      "product": "quickserver"
+    },
+    "serialize-javascript": {
+      "part": "a",
+      "vendor": "verizon",
+      "product": "serialize-javascript"
+    },
+    "flintcms": {
+      "part": "a",
+      "vendor": "flintcms",
+      "product": "flintcms"
+    },
+    "mariadb": {
+      "part": "a",
+      "vendor": "mariadb",
+      "product": "mariadb"
+    },
+    "geddy": {
+      "part": "a",
+      "vendor": "geddyjs",
+      "product": "geddy"
+    },
+    "serverabc": {
+      "part": "a",
+      "vendor": "serverabc_project",
+      "product": "serverabc"
+    },
+    "nested-object-assign": {
+      "part": "a",
+      "vendor": "getadigital",
+      "product": "nested-object-assign"
+    },
+    "shadowsock": {
+      "part": "a",
+      "vendor": "shadowsock_project",
+      "product": "shadowsock"
+    },
+    "datatables": {
+      "part": "a",
+      "vendor": "sprymedia",
+      "product": "datatables"
+    },
+    "air-sdk": {
+      "part": "a",
+      "vendor": "air-sdk_project",
+      "product": "air-sdk"
+    },
+    "default-deep": {
+      "part": "a",
+      "vendor": "defaults-deep_project",
+      "product": "defaults-deep"
+    },
+    "lessindex": {
+      "part": "a",
+      "vendor": "lessindex_project",
+      "product": "lessindex"
+    },
+    "marked": {
+      "part": "a",
+      "vendor": "nodejs",
+      "product": "node.js"
+    },
+    "iter-http": {
+      "part": "a",
+      "vendor": "iter-http_project",
+      "product": "iter-http"
+    },
+    "umount": {
+      "part": "a",
+      "vendor": "umount_project",
+      "product": "umount"
+    },
+    "dojox": {
+      "part": "a",
+      "vendor": "dojotoolkit",
+      "product": "dojo"
+    },
+    "slashify": {
+      "part": "a",
+      "vendor": "google",
+      "product": "slashify"
+    },
+    "serverwzl": {
+      "part": "a",
+      "vendor": "serverwzl_project",
+      "product": "serverwzl"
+    },
+    "closurecompiler": {
+      "part": "a",
+      "vendor": "closurecompiler_project",
+      "product": "closurecompiler"
+    },
+    "sencisho": {
+      "part": "a",
+      "vendor": "sencisho_project",
+      "product": "sencisho"
+    },
+    "static-html-server": {
+      "part": "a",
+      "vendor": "static-html-server_project",
+      "product": "static-html-server"
+    },
+    "cloudpub-redis": {
+      "part": "a",
+      "vendor": "cloudpub-redis_project",
+      "product": "cloudpub-redis"
+    },
+    "webtorrent": {
+      "part": "a",
+      "vendor": "webtorrent",
+      "product": "webtorrent"
+    },
+    "headless-browser-lite": {
+      "part": "a",
+      "vendor": "headless-browser-lite_project",
+      "product": "headless-browser-lite"
+    },
+    "three": {
+      "part": "a",
+      "vendor": "three_project",
+      "product": "three"
+    },
+    "windows-seleniumjar-mirror": {
+      "part": "a",
+      "vendor": "windows-seleniumjar-mirror_project",
+      "product": "windows-seleniumjar-mirror"
+    },
+    "gaoxiaotingtingting": {
+      "part": "a",
+      "vendor": "gaoxiaotingtingting_project",
+      "product": "gaoxiaotingtingting"
+    },
+    "easyquick": {
+      "part": "a",
+      "vendor": "easyquick_project",
+      "product": "easyquick"
+    },
+    "strapi-plugin-content-type-builder": {
+      "part": "a",
+      "vendor": "strapi",
+      "product": "strapi"
+    },
+    "ember": {
+      "part": "a",
+      "vendor": "emberjs",
+      "product": "ember.js"
+    },
+    "windows-iedriver": {
+      "part": "a",
+      "vendor": "windows-iedriver_project",
+      "product": "windows-iedriver"
+    },
+    "harp": {
+      "part": "a",
+      "vendor": "harpjs",
+      "product": "harp"
+    },
+    "nats": {
+      "part": "a",
+      "vendor": "linuxfoundation",
+      "product": "nats.deno"
+    },
+    "negotiator": {
+      "part": "a",
+      "vendor": "negotiator_project",
+      "product": "negotiator"
+    },
+    "string": {
+      "part": "a",
+      "vendor": "string_project",
+      "product": "string"
+    },
+    "rs-brightcove": {
+      "part": "a",
+      "vendor": "rs-brightcove_project",
+      "product": "rs-brightcove"
+    },
+    "riot-compiler": {
+      "part": "a",
+      "vendor": "riot.js",
+      "product": "riot-compiler"
+    },
+    "cofee-script": {
+      "part": "a",
+      "vendor": "coffescript_project",
+      "product": "coffescript"
+    },
+    "http-live-simulator": {
+      "part": "a",
+      "vendor": "http-live-simulator_project",
+      "product": "http-live-simulator"
+    },
+    "aegir": {
+      "part": "a",
+      "vendor": "aegir_project",
+      "product": "aegir"
+    },
+    "wixtoolset": {
+      "part": "a",
+      "vendor": "node-wixtoolset_project",
+      "product": "node-wixtoolset"
+    },
+    "paypal-ipn": {
+      "part": "a",
+      "vendor": "paypal-ipn_project",
+      "product": "paypal-ipn"
+    },
+    "console-io": {
+      "part": "a",
+      "vendor": "console-io_project",
+      "product": "console-io"
+    },
+    "lemonldap-ng-handler": {
+      "part": "a",
+      "vendor": "lemonldap-ng",
+      "product": "lemonldap\\"
+    },
+    "sds": {
+      "part": "a",
+      "vendor": "sds_project",
+      "product": "sds"
+    },
+    "herbivore": {
+      "part": "a",
+      "vendor": "herbivore_project",
+      "product": "herbivore"
+    },
+    "bcrypt": {
+      "part": "a",
+      "vendor": "node.bcrypt.js_project",
+      "product": "node.bcrypt.js"
+    },
+    "http-signature": {
+      "part": "a",
+      "vendor": "joyent",
+      "product": "http-signature"
+    },
+    "cyberchef": {
+      "part": "a",
+      "vendor": "gchq",
+      "product": "cyberchef"
+    },
+    "dot-prop": {
+      "part": "a",
+      "vendor": "dot-prop_project",
+      "product": "dot-prop"
+    },
+    "next": {
+      "part": "a",
+      "vendor": "zeit",
+      "product": "next.js"
+    },
+    "hoek": {
+      "part": "a",
+      "vendor": "hapijs",
+      "product": "hoek"
+    },
+    "fastify-http-proxy": {
+      "part": "a",
+      "vendor": "fastify-http-proxy_project",
+      "product": "fastify-http-proxy"
+    },
+    "ffmepg": {
+      "part": "a",
+      "vendor": "ffmepg_project",
+      "product": "ffmepg"
+    },
+    "webdrvr": {
+      "part": "a",
+      "vendor": "uxebu",
+      "product": "webdrvr"
+    },
+    "blueimp-file-upload": {
+      "part": "a",
+      "vendor": "jquery_file_upload_project",
+      "product": "jquery_file_upload"
+    },
+    "botbait": {
+      "part": "a",
+      "vendor": "botbait_project",
+      "product": "botbait"
+    },
+    "poco": {
+      "part": "a",
+      "vendor": "macchina",
+      "product": "poco"
+    },
+    "timespan": {
+      "part": "a",
+      "vendor": "timespan_project",
+      "product": "timespan"
+    },
+    "engine.io-client": {
+      "part": "a",
+      "vendor": "socket",
+      "product": "engine.io-client"
+    },
+    "http-proxy": {
+      "part": "a",
+      "vendor": "http-proxy_project",
+      "product": "http-proxy"
+    },
+    "electron": {
+      "part": "a",
+      "vendor": "electronjs",
+      "product": "electron"
+    },
+    "curses": {
+      "part": "a",
+      "vendor": "curses_project",
+      "product": "curses"
+    },
+    "merge-deep": {
+      "part": "a",
+      "vendor": "merge-deep_project",
+      "product": "merge-deep"
+    },
+    "fibjs": {
+      "part": "a",
+      "vendor": "fibjs_project",
+      "product": "fibjs"
+    },
+    "protobufjs": {
+      "part": "a",
+      "vendor": "protobufjs_project",
+      "product": "protobufjs"
+    },
+    "datatables.net": {
+      "part": "a",
+      "vendor": "datatables",
+      "product": "datatables.net"
+    },
+    "node-air-sdk": {
+      "part": "a",
+      "vendor": "node-air-sdk_project",
+      "product": "node-air-sdk"
+    },
+    "uglify-js": {
+      "part": "a",
+      "vendor": "lisperator",
+      "product": "uglifyjs"
+    },
+    "swagger-ui": {
+      "part": "a",
+      "vendor": "smartbear",
+      "product": "swagger_ui"
+    },
+    "botframework-connector": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": "bot_framework_software_development_kit"
+    },
+    "ckeditor": {
+      "part": "a",
+      "vendor": "ckeditor",
+      "product": "ckeditor"
+    },
+    "mime": {
+      "part": "a",
+      "vendor": "mime_project",
+      "product": "mime"
+    },
+    "brace-expansion": {
+      "part": "a",
+      "vendor": "brace_expansion_project",
+      "product": "brace_expansion"
+    },
+    "@uppy/companion": {
+      "part": "a",
+      "vendor": "transloadit",
+      "product": "uppy"
+    },
+    "citypredict.whauwiller": {
+      "part": "a",
+      "vendor": "citypredict.whauwiller_project",
+      "product": "citypredict.whauwiller"
+    },
+    "mcstatic": {
+      "part": "a",
+      "vendor": "mcstatic_project",
+      "product": "mcstatic"
+    },
+    "url-parse": {
+      "part": "o",
+      "vendor": "url-parse_project",
+      "product": "url-parse"
+    },
+    "nodewebkit": {
+      "part": "a",
+      "vendor": "nodewebkit_project",
+      "product": "nodewebkit"
+    },
+    "cordova-plugin-inappbrowser": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "cordova_inappbrowser"
+    },
+    "hawk": {
+      "part": "a",
+      "vendor": "hawk_project",
+      "product": "hawk"
+    },
+    "crossenv": {
+      "part": "a",
+      "vendor": "crossenv_project",
+      "product": "crossenv"
+    },
+    "sexstatic": {
+      "part": "a",
+      "vendor": "sexstatic_project",
+      "product": "sexstatic"
+    },
+    "serverwg": {
+      "part": "a",
+      "vendor": "serverwg_project",
+      "product": "serverwg"
+    },
+    "ecstatic": {
+      "part": "a",
+      "vendor": "ecstatic_project",
+      "product": "ecstatic"
+    },
+    "mystem3": {
+      "part": "a",
+      "vendor": "mystem3_project",
+      "product": "mystem3"
+    },
+    "tough-cookie": {
+      "part": "a",
+      "vendor": "salesforce",
+      "product": "tough-cookie"
+    },
+    "macaddress": {
+      "part": "a",
+      "vendor": "node-macaddress_project",
+      "product": "node-macaddress"
+    },
+    "tar-fs": {
+      "part": "a",
+      "vendor": "tar-fs_project",
+      "product": "tar-fs"
+    },
+    "html-pages": {
+      "part": "a",
+      "vendor": "html-pages_project",
+      "product": "html-pages"
+    },
+    "getcityapi.yoehoehne": {
+      "part": "a",
+      "vendor": "getcityapi.yoehoehne_project",
+      "product": "getcityapi.yoehoehne"
+    },
+    "inert": {
+      "part": "a",
+      "vendor": "hapi",
+      "product": "inert"
+    },
+    "highlight.js": {
+      "part": "a",
+      "vendor": "highlightjs",
+      "product": "highlight.js"
+    },
+    "mongoose": {
+      "part": "a",
+      "vendor": "mongoosejs",
+      "product": "mongoose"
+    },
+    "@novnc/novnc": {
+      "part": "a",
+      "vendor": "novnc",
+      "product": "novnc"
+    },
+    "send": {
+      "part": "a",
+      "vendor": "joyent",
+      "product": "node.js"
+    },
+    "embedza": {
+      "part": "a",
+      "vendor": "embedza_project",
+      "product": "embedza"
+    },
+    "windows-cpu": {
+      "part": "a",
+      "vendor": "windows-cpu_project",
+      "product": "windows-cpu"
+    },
+    "ssb-db": {
+      "part": "a",
+      "vendor": "scuttlebutt",
+      "product": "ssb-db"
+    },
+    "ewgaddis.lab6": {
+      "part": "a",
+      "vendor": "ewgaddis.lab6_project",
+      "product": "ewgaddis.lab6"
+    },
+    "cryptiles": {
+      "part": "a",
+      "vendor": "cryptiles_project",
+      "product": "cryptiles"
+    },
+    "sqliter": {
+      "part": "a",
+      "vendor": "sqliter_project",
+      "product": "sqliter"
+    },
+    "libsbmlsim": {
+      "part": "a",
+      "vendor": "libsbmlsim_project",
+      "product": "libsbmlsim"
+    },
+    "crud-file-server": {
+      "part": "a",
+      "vendor": "crud-file-server_project",
+      "product": "crud-file-server"
+    },
+    "proxy.js": {
+      "part": "a",
+      "vendor": "proxy.js_project",
+      "product": "proxy.js"
+    },
+    "statics-server": {
+      "part": "a",
+      "vendor": "statics-server_project",
+      "product": "statics-server"
+    },
+    "smb": {
+      "part": "a",
+      "vendor": "smb_project",
+      "product": "smb"
+    },
+    "url-regex": {
+      "part": "a",
+      "vendor": "url-regex_project",
+      "product": "url-regex"
+    },
+    "serverxxx": {
+      "part": "a",
+      "vendor": "serverxxx_project",
+      "product": "serverxxx"
+    },
+    "mqtt": {
+      "part": "a",
+      "vendor": "mqtt.js_project",
+      "product": "mqtt.js"
+    },
+    "simplehttpserver": {
+      "part": "a",
+      "vendor": "simplehttpserver_project",
+      "product": "simplehttpserver"
+    },
+    "apex-publish-static-files": {
+      "part": "a",
+      "vendor": "apex-publish-static-files_project",
+      "product": "apex-publish-static-files"
+    },
+    "babelcli": {
+      "part": "a",
+      "vendor": "babelcli_project",
+      "product": "babelcli"
+    },
+    "yzt": {
+      "part": "a",
+      "vendor": "yzt_project",
+      "product": "yzt"
+    },
+    "22lixian": {
+      "part": "a",
+      "vendor": "22lixian_project",
+      "product": "22lixian"
+    },
+    "gfe-sass": {
+      "part": "a",
+      "vendor": "gfe-sass_project",
+      "product": "gfe-sass"
+    },
+    "openframe-ascii-image": {
+      "part": "a",
+      "vendor": "openframe-ascii-image_project",
+      "product": "openframe-ascii-image"
+    },
+    "haxe-dev": {
+      "part": "a",
+      "vendor": "haxe",
+      "product": "haxe-dev"
+    },
+    "scratch-vm": {
+      "part": "a",
+      "vendor": "mit",
+      "product": "scratch-vm"
+    },
+    "pandora-doomsday": {
+      "part": "a",
+      "vendor": "pandora-doomsday_project",
+      "product": "pandora-doomsday"
+    },
+    "sails": {
+      "part": "a",
+      "vendor": "sailsjs",
+      "product": "sails"
+    },
+    "geoip-lite-country": {
+      "part": "a",
+      "vendor": "geoip-lite-country_project",
+      "product": "geoip-lite-country"
+    },
+    "httpsync": {
+      "part": "a",
+      "vendor": "httpsync_project",
+      "product": "httpsync"
+    },
+    "roslib-socketio": {
+      "part": "a",
+      "vendor": "robotwebtools",
+      "product": "roslibjs"
+    },
+    "libsbml": {
+      "part": "a",
+      "vendor": "libsbml_project",
+      "product": "libsbml"
+    },
+    "elliptic": {
+      "part": "a",
+      "vendor": "elliptic_project",
+      "product": "elliptic"
+    },
+    "simditor": {
+      "part": "a",
+      "vendor": "mycolorway",
+      "product": "simditor"
+    },
+    "auth0-js": {
+      "part": "a",
+      "vendor": "auth0",
+      "product": "auth0.js"
+    },
+    "knightjs": {
+      "part": "a",
+      "vendor": "knight_project",
+      "product": "knight"
+    },
+    "unzipper": {
+      "part": "a",
+      "vendor": "unzipper_project",
+      "product": "unzipper"
+    },
+    "cryo": {
+      "part": "o",
+      "vendor": "cryo_project",
+      "product": "cryo"
+    },
+    "earlybird": {
+      "part": "a",
+      "vendor": "earlybird_project",
+      "product": "earlybird"
+    },
+    "semver": {
+      "part": "a",
+      "vendor": "nodejs",
+      "product": "node.js"
+    },
+    "nw-with-arm": {
+      "part": "a",
+      "vendor": "nw-with-arm_project",
+      "product": "nw-with-arm"
+    },
+    "nodebb": {
+      "part": "a",
+      "vendor": "nodebb",
+      "product": "nodebb"
+    },
+    "@fraction/oasis": {
+      "part": "a",
+      "vendor": "fraction",
+      "product": "oasis"
+    },
+    "phantomjs-cheniu": {
+      "part": "a",
+      "vendor": "phantomjs-cheniu_project",
+      "product": "phantomjs-cheniu"
+    },
+    "devcert-sanscache": {
+      "part": "a",
+      "vendor": "devcert-sanscache_project",
+      "product": "devcert-sanscache"
+    },
+    "dalek-browser-ie-canary": {
+      "part": "a",
+      "vendor": "dalekjs",
+      "product": "dalekjs"
+    },
+    "no-case": {
+      "part": "a",
+      "vendor": "no-case_project",
+      "product": "no-case"
+    },
+    "selenium-wrapper": {
+      "part": "a",
+      "vendor": "selenium-wrapper_project",
+      "product": "selenium-wrapper"
+    },
+    "passport-azure-ad": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": "azure_active_directory_passport"
+    },
+    "@node-red/runtime": {
+      "part": "a",
+      "vendor": "nodered",
+      "product": "node-red"
+    },
+    "nw": {
+      "part": "a",
+      "vendor": "nwjs",
+      "product": "nw"
+    },
+    "tinymce": {
+      "part": "a",
+      "vendor": "tiny",
+      "product": "tinymce"
+    },
+    "opencv.js": {
+      "part": "a",
+      "vendor": "opencv.js_project",
+      "product": "opencv.js"
+    },
+    "lodash.defaultsdeep": {
+      "part": "a",
+      "vendor": "lodash",
+      "product": "lodash"
+    },
+    "unicode": {
+      "part": "a",
+      "vendor": "unicode_project",
+      "product": "unicode"
+    },
+    "jquery-validation": {
+      "part": "a",
+      "vendor": "netapp",
+      "product": "snapcenter"
+    },
+    "shave": {
+      "part": "a",
+      "vendor": "dollarshaveclub",
+      "product": "shave"
+    },
+    "deeply": {
+      "part": "a",
+      "vendor": "deeply_project",
+      "product": "deeply"
+    },
+    "haxe3": {
+      "part": "a",
+      "vendor": "haxe",
+      "product": "haxe"
+    },
+    "liuyaserver": {
+      "part": "a",
+      "vendor": "liuyaserver_project",
+      "product": "liuyaserver"
+    },
+    "serverhuwenhui": {
+      "part": "a",
+      "vendor": "serverhuwenhui_project",
+      "product": "serverhuwenhui"
+    },
+    "fbr-client": {
+      "part": "a",
+      "vendor": "webrtc-experiment",
+      "product": "fbr-client"
+    },
+    "mysqljs": {
+      "part": "a",
+      "vendor": "mysqljs_project",
+      "product": "mysqljs"
+    },
+    "lodahs": {
+      "part": "a",
+      "vendor": "lodahs_project",
+      "product": "lodahs"
+    },
+    "electron-packager": {
+      "part": "a",
+      "vendor": "electron-packager_project",
+      "product": "electron-packager"
+    },
+    "bracket-template": {
+      "part": "a",
+      "vendor": "bracket-template_project",
+      "product": "bracket-template"
+    },
+    "plotly.js": {
+      "part": "a",
+      "vendor": "plotly",
+      "product": "plotly.js"
+    },
+    "install-g-test": {
+      "part": "a",
+      "vendor": "install-g-test_project",
+      "product": "install-g-test"
+    },
+    "fastify": {
+      "part": "a",
+      "vendor": "fastify",
+      "product": "fastify"
+    },
+    "wasdk": {
+      "part": "a",
+      "vendor": "wasdk_project",
+      "product": "wasdk"
+    },
+    "bittorrent-dht": {
+      "part": "a",
+      "vendor": "webtorrent",
+      "product": "bittorrent-dht"
+    },
+    "bcoin": {
+      "part": "a",
+      "vendor": "bcoin",
+      "product": "bcoin"
+    },
+    "node-thulac": {
+      "part": "a",
+      "vendor": "geohey",
+      "product": "node-thulac"
+    },
+    "alto-saxophone": {
+      "part": "a",
+      "vendor": "alto-saxophone_project",
+      "product": "alto-saxophone"
+    },
+    "mssql-node": {
+      "part": "a",
+      "vendor": "mssql-node_project",
+      "product": "mssql-node"
+    },
+    "set-value": {
+      "part": "a",
+      "vendor": "set-value_project",
+      "product": "set-value"
+    },
+    "keycloak-connect": {
+      "part": "a",
+      "vendor": "keycloak",
+      "product": "keycloak-nodejs-auth-utils"
+    },
+    "shell-quote": {
+      "part": "a",
+      "vendor": "shell-quote_project",
+      "product": "shell-quote"
+    },
+    "html-janitor": {
+      "part": "a",
+      "vendor": "html-janitor_project",
+      "product": "html-janitor"
+    },
+    "tinyserver2": {
+      "part": "a",
+      "vendor": "tinyserver2_project",
+      "product": "tinyserver2"
+    },
+    "node-uuid": {
+      "part": "a",
+      "vendor": "node-uuid_project",
+      "product": "node-uuid"
+    },
+    "626": {
+      "part": "a",
+      "vendor": "626_project",
+      "product": "626"
+    },
+    "waterline-sequel": {
+      "part": "a",
+      "vendor": "balderdash",
+      "product": "waterline-sequel"
+    },
+    "mongo-express": {
+      "part": "a",
+      "vendor": "mongo-express_project",
+      "product": "mongo-express"
+    },
+    "angular-expressions": {
+      "part": "a",
+      "vendor": "peerigon",
+      "product": "angular-expressions"
+    },
+    "jpv": {
+      "part": "a",
+      "vendor": "json_pattern_validator_project",
+      "product": "json_pattern_validator"
+    },
+    "coffescript": {
+      "part": "a",
+      "vendor": "coffescript_project",
+      "product": "coffescript"
+    },
+    "hekto": {
+      "part": "a",
+      "vendor": "hekto_project",
+      "product": "hekto"
+    },
+    "editor.md": {
+      "part": "a",
+      "vendor": "ipandao",
+      "product": "editor.md"
+    },
+    "redis-srvr": {
+      "part": "a",
+      "vendor": "redis-srvr_project",
+      "product": "redis-srvr"
+    },
+    "dompurify": {
+      "part": "a",
+      "vendor": "cure53",
+      "product": "dompurify"
+    },
+    "aedes": {
+      "part": "a",
+      "vendor": "aedes_project",
+      "product": "aedes"
+    },
+    "ikst": {
+      "part": "a",
+      "vendor": "ikst_project",
+      "product": "ikst"
+    },
+    "urijs": {
+      "part": "a",
+      "vendor": "urijs_project",
+      "product": "urijs"
+    },
+    "serveryaozeyan": {
+      "part": "a",
+      "vendor": "serveryaozeyan_project",
+      "product": "serveryaozeyan"
+    },
+    "wangguojing123": {
+      "part": "a",
+      "vendor": "wanggoujing123_project",
+      "product": "wanggoujing123"
+    },
+    "pytservce": {
+      "part": "a",
+      "vendor": "pytservce_project",
+      "product": "pytservce"
+    },
+    "resourcehacker": {
+      "part": "a",
+      "vendor": "resourcehacker_project",
+      "product": "resourcehacker"
+    },
+    "cached-path-relative": {
+      "part": "a",
+      "vendor": "cached-path-relative_project",
+      "product": "cached-path-relative"
+    },
+    "mystem-wrapper": {
+      "part": "a",
+      "vendor": "mystem-wrapper_project",
+      "product": "mystem-wrapper"
+    },
+    "dmmcquay.lab6": {
+      "part": "a",
+      "vendor": "dmmcquay.lab6_project",
+      "product": "dmmcquay.lab6"
+    },
+    "dijit": {
+      "part": "a",
+      "vendor": "openjsf",
+      "product": "dijit"
+    },
+    "limdu": {
+      "part": "a",
+      "vendor": "limdu_project",
+      "product": "limdu"
+    },
+    "static-resource-server": {
+      "part": "a",
+      "vendor": "static-resource-server_project",
+      "product": "static-resource-server"
+    },
+    "lab6.brit95": {
+      "part": "a",
+      "vendor": "lab6.brit95_project",
+      "product": "lab6.brit95"
+    },
+    "chromedriver": {
+      "part": "a",
+      "vendor": "chromedriver_project",
+      "product": "chromedriver"
+    },
+    "cypserver": {
+      "part": "a",
+      "vendor": "cypserver_project",
+      "product": "cypserver"
+    },
+    "adm-zip": {
+      "part": "a",
+      "vendor": "adm-zip_project",
+      "product": "adm-zip"
+    },
+    "eslint-utils": {
+      "part": "a",
+      "vendor": "eslint-utils_project",
+      "product": "eslint-utils"
+    },
+    "scratch-svg-renderer": {
+      "part": "a",
+      "vendor": "mit",
+      "product": "scratch-svg-renderer"
+    },
+    "serve46": {
+      "part": "a",
+      "vendor": "serve46_project",
+      "product": "serve46"
+    },
+    "validator": {
+      "part": "a",
+      "vendor": "nodejs",
+      "product": "node.js"
+    },
+    "11xiaoli": {
+      "part": "a",
+      "vendor": "11xiaoli_project",
+      "product": "11xiaoli"
+    },
+    "iedriver": {
+      "part": "a",
+      "vendor": "iedriver_project",
+      "product": "iedriver"
+    },
+    "grunt-ccompiler": {
+      "part": "a",
+      "vendor": "grunt-ccompiler_project",
+      "product": "grunt-ccompiler"
+    },
+    "serialize-to-js": {
+      "part": "a",
+      "vendor": "serialize-to-js_project",
+      "product": "serialize-to-js"
+    },
+    "jointjs": {
+      "part": "a",
+      "vendor": "jointjs",
+      "product": "jointjs"
+    },
+    "uws": {
+      "part": "a",
+      "vendor": "uws_project",
+      "product": "uws"
+    },
+    "serverzyy": {
+      "part": "a",
+      "vendor": "serverzyy_project",
+      "product": "serverzyy"
+    },
+    "gitbook": {
+      "part": "a",
+      "vendor": "gitbook",
+      "product": "gitbook"
+    },
+    "nodefabric": {
+      "part": "a",
+      "vendor": "nodefabric_project",
+      "product": "nodefabric"
+    },
+    "node-fabric": {
+      "part": "a",
+      "vendor": "node-fabric_project",
+      "product": "node-fabric"
+    },
+    "iter-server": {
+      "part": "a",
+      "vendor": "iter-server_project",
+      "product": "iter-server"
+    },
+    "simplemde": {
+      "part": "a",
+      "vendor": "sparksuite",
+      "product": "simplemde"
+    },
+    "lab6drewfusbyu": {
+      "part": "a",
+      "vendor": "lab6drewfusbyu_project",
+      "product": "lab6drewfusbyu"
+    },
+    "anywhere": {
+      "part": "a",
+      "vendor": "sencha",
+      "product": "connect"
+    },
+    "mqtt-packet": {
+      "part": "a",
+      "vendor": "mqtt-packet_project",
+      "product": "mqtt-packet"
+    },
+    "express-jwt": {
+      "part": "a",
+      "vendor": "auth0",
+      "product": "express-jwt"
+    },
+    "arrayfire-js": {
+      "part": "a",
+      "vendor": "arrayfire-js_project",
+      "product": "arrayfire-js"
+    },
+    "glance": {
+      "part": "a",
+      "vendor": "glance_project",
+      "product": "glance"
+    },
+    "scala-bin": {
+      "part": "a",
+      "vendor": "scala-bin_project",
+      "product": "scala-bin"
+    },
+    "@graphql-tools/git-loader": {
+      "part": "a",
+      "vendor": "the-guild",
+      "product": "graphql-tools"
+    },
+    "extend": {
+      "part": "a",
+      "vendor": "extend_project",
+      "product": "extend"
+    },
+    "galenframework-cli": {
+      "part": "a",
+      "vendor": "galenframework",
+      "product": "galenframework-cli"
+    },
+    "uekw1511server": {
+      "part": "a",
+      "vendor": "uekw1511server_project",
+      "product": "uekw1511server"
+    },
+    "dalek-browser-chrome": {
+      "part": "a",
+      "vendor": "dalekjs",
+      "product": "dalekjs"
+    },
+    "ipip": {
+      "part": "a",
+      "vendor": "ipip_project",
+      "product": "ipip"
+    },
+    "gaoxuyan": {
+      "part": "a",
+      "vendor": "gaoxuyan_project",
+      "product": "gaoxuyan"
+    },
+    "qinserve": {
+      "part": "a",
+      "vendor": "qinserve_project",
+      "product": "qinserve"
+    },
+    "docsify": {
+      "part": "a",
+      "vendor": "docsifyjs",
+      "product": "docsify"
+    },
+    "dgard8.lab6": {
+      "part": "a",
+      "vendor": "dgard8.lab6_project",
+      "product": "dgard8.lab6"
+    },
+    "grunt-webdriver-qunit": {
+      "part": "a",
+      "vendor": "grunt-webdriver-qunit_project",
+      "product": "grunt-webdriver-qunit"
+    },
+    "clang-extra": {
+      "part": "a",
+      "vendor": "clang-extra_project",
+      "product": "clang-extra"
+    },
+    "node-jose": {
+      "part": "a",
+      "vendor": "cisco",
+      "product": "node-jose"
+    },
+    "grunt-gh-pages": {
+      "part": "a",
+      "vendor": "grunt-gh-pages_project",
+      "product": "grunt-gh-pages"
+    },
+    "peiserver": {
+      "part": "a",
+      "vendor": "peiserver_project",
+      "product": "peiserver"
+    },
+    "gomeplus-h5-proxy": {
+      "part": "a",
+      "vendor": "gomeplus-h5-proxy_project",
+      "product": "gomeplus-h5-proxy"
+    },
+    "nodemailer.js": {
+      "part": "a",
+      "vendor": "nodemailer.js_project",
+      "product": "nodemailer.js"
+    },
+    "goserv": {
+      "part": "a",
+      "vendor": "goserv_project",
+      "product": "goserv"
+    },
+    "min-http-server": {
+      "part": "a",
+      "vendor": "min-http-server_project",
+      "product": "min-http-server"
+    },
+    "takeapeek": {
+      "part": "a",
+      "vendor": "takeapeek_project",
+      "product": "takeapeek"
+    },
+    "enserver": {
+      "part": "a",
+      "vendor": "enserver_project",
+      "product": "enserver"
+    },
+    "libnotify": {
+      "part": "a",
+      "vendor": "libnotify_project",
+      "product": "libnotify"
+    },
+    "call": {
+      "part": "a",
+      "vendor": "call_project",
+      "product": "call"
+    },
+    "@knight-lab/timelinejs": {
+      "part": "a",
+      "vendor": "northwestern",
+      "product": "timelinejs"
+    },
+    "pk-app-wonderbox": {
+      "part": "a",
+      "vendor": "pk-app-wonderbox_project",
+      "product": "pk-app-wonderbox"
+    },
+    "aerospike": {
+      "part": "a",
+      "vendor": "aerospike",
+      "product": "aerospike"
+    },
+    "ansi2html": {
+      "part": "a",
+      "vendor": "ansi2html_project",
+      "product": "ansi2html"
+    },
+    "jvminstall": {
+      "part": "a",
+      "vendor": "jvminstall_project",
+      "product": "jvminstall"
+    },
+    "jquery": {
+      "part": "a",
+      "vendor": "jquery",
+      "product": "jquery"
+    },
+    "mixin-deep": {
+      "part": "a",
+      "vendor": "mixin-deep_project",
+      "product": "mixin-deep"
+    },
+    "mustache": {
+      "part": "a",
+      "vendor": "mustache.js_project",
+      "product": "mustache.js"
+    },
+    "mfrs": {
+      "part": "a",
+      "vendor": "mfrs_project",
+      "product": "mfrs"
+    },
+    "npm": {
+      "part": "a",
+      "vendor": "cli_project",
+      "product": "cli"
+    },
+    "ms": {
+      "part": "a",
+      "vendor": "nodejs",
+      "product": "node.js"
+    },
+    "myserver.alexcthomas18": {
+      "part": "a",
+      "vendor": "myserver.alexcthomas18_project",
+      "product": "myserver.alexcthomas18"
+    },
+    "apk-parser3": {
+      "part": "a",
+      "vendor": "apk-parser3_project",
+      "product": "apk-parser3"
+    },
+    "tar": {
+      "part": "a",
+      "vendor": "nodejs",
+      "product": "node.js"
+    },
+    "localhost-now": {
+      "part": "a",
+      "vendor": "localhost-now_project",
+      "product": "localhost-now"
+    },
+    "parsejson": {
+      "part": "a",
+      "vendor": "parsejson_project",
+      "product": "parsejson"
+    },
+    "axios": {
+      "part": "a",
+      "vendor": "axios",
+      "product": "axios"
+    },
+    "bitty": {
+      "part": "a",
+      "vendor": "bitty_project",
+      "product": "bitty"
+    },
+    "imageoptim": {
+      "part": "a",
+      "vendor": "imageoptim_project",
+      "product": "imageoptim"
+    },
+    "wffserve": {
+      "part": "a",
+      "vendor": "wffserve_project",
+      "product": "wffserve"
+    },
+    "decamelize": {
+      "part": "a",
+      "vendor": "decamelize_project",
+      "product": "decamelize"
+    },
+    "nodemssql": {
+      "part": "a",
+      "vendor": "nodemssql_project",
+      "product": "nodemssql"
+    },
+    "safe-eval": {
+      "part": "a",
+      "vendor": "safe-eval_project",
+      "product": "safe-eval"
+    },
+    "async-git": {
+      "part": "a",
+      "vendor": "async-git_project",
+      "product": "async-git"
+    },
+    "nodebb-plugin-blog-comments": {
+      "part": "a",
+      "vendor": "nodebb",
+      "product": "blog_comments"
+    },
+    "msrcrypto": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": "research_javascript_cryptography_library"
+    },
+    "macaca-chromedriver-zxa": {
+      "part": "a",
+      "vendor": "macaca-chromedriver-zxa_project",
+      "product": "macaca-chromedriver-zxa"
+    },
+    "node-notifier": {
+      "part": "a",
+      "vendor": "node-notifier_project",
+      "product": "node-notifier"
+    },
+    "whispercast": {
+      "part": "a",
+      "vendor": "whispercast_project",
+      "product": "whispercast"
+    },
+    "myprolyz": {
+      "part": "a",
+      "vendor": "myprolyz_project",
+      "product": "myprolyz"
+    },
+    "wind-mvc": {
+      "part": "a",
+      "vendor": "wind-mvc_project",
+      "product": "wind-mvc"
+    },
+    "converse.js": {
+      "part": "a",
+      "vendor": "conversejs",
+      "product": "converse.js"
+    },
+    "caolilinode": {
+      "part": "a",
+      "vendor": "caolilinode_project",
+      "product": "caolilinode"
+    },
+    "native-opencv": {
+      "part": "a",
+      "vendor": "native-opencv_project",
+      "product": "native-opencv"
+    },
+    "seeftl": {
+      "part": "a",
+      "vendor": "seeftl_project",
+      "product": "seeftl"
+    },
+    "minimist": {
+      "part": "a",
+      "vendor": "substack",
+      "product": "minimist"
+    },
+    "csv-parse": {
+      "part": "a",
+      "vendor": "csv-parse_project",
+      "product": "csv-parse"
+    },
+    "pug-code-gen": {
+      "part": "a",
+      "vendor": "pugjs",
+      "product": "pug"
+    },
+    "selenium-download": {
+      "part": "a",
+      "vendor": "groupon",
+      "product": "selenium-download"
+    },
+    "tmock": {
+      "part": "a",
+      "vendor": "tmock_project",
+      "product": "tmock"
+    },
+    "dotty": {
+      "part": "a",
+      "vendor": "dotty_project",
+      "product": "dotty"
+    },
+    "section2.madisonjbrooks12": {
+      "part": "a",
+      "vendor": "section2.madisonjbrooks12_project",
+      "product": "section2.madisonjbrooks12"
+    },
+    "censorify.tanisjr": {
+      "part": "a",
+      "vendor": "censorify.tanisjr_project",
+      "product": "censorify.tanisjr"
+    },
+    "morris.js": {
+      "part": "a",
+      "vendor": "morris.js_project",
+      "product": "morris.js"
+    },
+    "merge-object": {
+      "part": "a",
+      "vendor": "merge-object_project",
+      "product": "merge-object"
+    },
+    "react-dom": {
+      "part": "a",
+      "vendor": "facebook",
+      "product": "react"
+    },
+    "defaults-deep": {
+      "part": "a",
+      "vendor": "defaults-deep_project",
+      "product": "defaults-deep"
+    },
+    "uri-js": {
+      "part": "a",
+      "vendor": "uri-js_project",
+      "product": "uri-js"
+    },
+    "hostr": {
+      "part": "a",
+      "vendor": "hostr_project",
+      "product": "hostr"
+    },
+    "st": {
+      "part": "a",
+      "vendor": "nodejs",
+      "product": "node.js"
+    },
+    "mongose": {
+      "part": "a",
+      "vendor": "mongose_project",
+      "product": "mongose"
+    },
+    "socket.io-file": {
+      "part": "a",
+      "vendor": "socket.io-file_project",
+      "product": "socket.io-file"
+    },
+    "kill-port": {
+      "part": "a",
+      "vendor": "kill-port_project",
+      "product": "kill-port"
+    },
+    "xd-testing": {
+      "part": "a",
+      "vendor": "xd-testing_project",
+      "product": "xd-testing"
+    },
+    "nodesass": {
+      "part": "a",
+      "vendor": "nodesass_project",
+      "product": "nodesass"
+    },
+    "websocket-extensions": {
+      "part": "a",
+      "vendor": "websocket-extensions_project",
+      "product": "websocket-extensions"
+    },
+    "windows-build-tools": {
+      "part": "a",
+      "vendor": "windows-build-tools_project",
+      "product": "windows-build-tools"
+    },
+    "weather.swlyons": {
+      "part": "a",
+      "vendor": "weather.swlyons_project",
+      "product": "weather.swlyons"
+    },
+    "ts-process-promises": {
+      "part": "a",
+      "vendor": "ts-process-promises_project",
+      "product": "ts-process-promises"
+    },
+    "iobroker.js-controller": {
+      "part": "a",
+      "vendor": "iobroker",
+      "product": "iobroker.js-controller"
+    },
+    "yarn": {
+      "part": "a",
+      "vendor": "yarnpkg",
+      "product": "yarn"
+    },
+    "nunjucks": {
+      "part": "a",
+      "vendor": "mozilla",
+      "product": "nunjucks"
+    },
+    "syntax-error": {
+      "part": "a",
+      "vendor": "joyent",
+      "product": "node.js"
+    },
+    "tomita": {
+      "part": "a",
+      "vendor": "tomita_project",
+      "product": "tomita"
+    },
+    "yyooopack": {
+      "part": "a",
+      "vendor": "yyooopack_project",
+      "product": "yyooopack"
+    },
+    "decompress": {
+      "part": "a",
+      "vendor": "decompress_project",
+      "product": "decompress"
+    },
+    "jsonwebtoken": {
+      "part": "a",
+      "vendor": "auth0",
+      "product": "jsonwebtoken"
+    },
+    "growl": {
+      "part": "a",
+      "vendor": "growl_project",
+      "product": "growl"
+    },
+    "nes": {
+      "part": "a",
+      "vendor": "hapijs",
+      "product": "nes"
+    },
+    "ibm_db": {
+      "part": "a",
+      "vendor": "ibm",
+      "product": "ibm_db"
+    },
+    "windows-seleniumjar": {
+      "part": "a",
+      "vendor": "windows-seleniumjar_project",
+      "product": "windows-seleniumjar"
+    },
+    "utahcityfinder": {
+      "part": "a",
+      "vendor": "utahcityfinder_project",
+      "product": "utahcityfinder"
+    },
+    "auth0-lock": {
+      "part": "a",
+      "vendor": "auth0",
+      "product": "lock"
+    },
+    "fabric-js": {
+      "part": "a",
+      "vendor": "fabric-js_project",
+      "product": "fabric-js"
+    },
+    "kind-of": {
+      "part": "a",
+      "vendor": "kind-of_project",
+      "product": "kind-of"
+    },
+    "ipip-coffee": {
+      "part": "a",
+      "vendor": "ipip",
+      "product": "ipip-coffee"
+    },
+    "selenium-portal": {
+      "part": "a",
+      "vendor": "selenium-portal_project",
+      "product": "selenium-portal"
+    },
+    "static-eval": {
+      "part": "a",
+      "vendor": "static-eval_project",
+      "product": "static-eval"
+    },
+    "logkitty": {
+      "part": "a",
+      "vendor": "logkitty_project",
+      "product": "logkitty"
+    },
+    "ethereumjs-vm": {
+      "part": "a",
+      "vendor": "ethereumjs-vm_project",
+      "product": "ethereumjs-vm"
+    },
+    "taffy": {
+      "part": "a",
+      "vendor": "taffydb",
+      "product": "taffy"
+    },
+    "susu-sum": {
+      "part": "a",
+      "vendor": "susu-sum_project",
+      "product": "susu-sum"
+    },
+    "curlrequest": {
+      "part": "a",
+      "vendor": "curlrequest_project",
+      "product": "curlrequest"
+    },
+    "robot-js": {
+      "part": "a",
+      "vendor": "getrobot",
+      "product": "robot-js"
+    },
+    "crumb": {
+      "part": "a",
+      "vendor": "hapijs",
+      "product": "crumb"
+    },
+    "bl": {
+      "part": "a",
+      "vendor": "bufferlist_project",
+      "product": "bufferlist"
+    },
+    "serve": {
+      "part": "a",
+      "vendor": "zeit",
+      "product": "serve"
+    },
+    "find-my-way": {
+      "part": "a",
+      "vendor": "find-my-way_project",
+      "product": "find-my-way"
+    },
+    "pym.js": {
+      "part": "a",
+      "vendor": "npr",
+      "product": "pym.js"
+    },
+    "chatbyvista": {
+      "part": "a",
+      "vendor": "chatbyvista_project",
+      "product": "chatbyvista"
+    },
+    "cordova-android": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "cordova"
+    },
+    "simple-server": {
+      "part": "a",
+      "vendor": "sencha",
+      "product": "connect"
+    },
+    "commentapp.stetsonwood": {
+      "part": "a",
+      "vendor": "commentapp.stetsonwood_project",
+      "product": "commentapp.stetsonwood"
+    },
+    "handlebars": {
+      "part": "a",
+      "vendor": "handlebars.js_project",
+      "product": "handlebars.js"
+    },
+    "ritp": {
+      "part": "a",
+      "vendor": "ritp_project",
+      "product": "ritp"
+    },
+    "@actions/http-client": {
+      "part": "a",
+      "vendor": "http-client_project",
+      "product": "http-client"
+    },
+    "@actions/core": {
+      "part": "a",
+      "vendor": "toolkit_project",
+      "product": "toolkit"
+    },
+    "sqlserver": {
+      "part": "a",
+      "vendor": "sqlserver_project",
+      "product": "sqlserver"
+    },
+    "metascraper": {
+      "part": "a",
+      "vendor": "metascraper_project",
+      "product": "metascraper"
+    },
+    "html-pdf": {
+      "part": "a",
+      "vendor": "html-pdf_project",
+      "product": "html-pdf"
+    },
+    "360class.jansenhm": {
+      "part": "a",
+      "vendor": "360class.jansenhm_project",
+      "product": "360class.jansenhm"
+    },
+    "jquery-ui": {
+      "part": "a",
+      "vendor": "jquery",
+      "product": "jquery_ui"
+    },
+    "fsk-server": {
+      "part": "a",
+      "vendor": "fsk-server_project",
+      "product": "fsk-server"
+    },
+    "strapi": {
+      "part": "a",
+      "vendor": "strapi",
+      "product": "strapi"
+    },
+    "node-red": {
+      "part": "a",
+      "vendor": "nodered",
+      "product": "node-red"
+    },
+    "bson": {
+      "part": "a",
+      "vendor": "mongodb",
+      "product": "js-bson"
+    },
+    "pooledwebsocket": {
+      "part": "a",
+      "vendor": "pooledwebsocket_project",
+      "product": "pooledwebsocket"
+    },
+    "hubl-server": {
+      "part": "a",
+      "vendor": "hubspot",
+      "product": "hubl-server"
+    },
+    "insight-api": {
+      "part": "a",
+      "vendor": "insight.bitpay",
+      "product": "insight-api"
+    },
+    "atom-node-module-installer": {
+      "part": "a",
+      "vendor": "atom-node-module-installer_project",
+      "product": "atom-node-module-installer"
+    },
+    "shit-server": {
+      "part": "a",
+      "vendor": "shit-server_project",
+      "product": "shit-server"
+    },
+    "node-serialize": {
+      "part": "a",
+      "vendor": "node-serialize_project",
+      "product": "node-serialize"
+    },
+    "byucslabsix": {
+      "part": "a",
+      "vendor": "byucslabsix_project",
+      "product": "byucslabsix"
+    },
+    "serc.js": {
+      "part": "a",
+      "vendor": "serc.js_project",
+      "product": "serc.js"
+    },
+    "tkinter": {
+      "part": "a",
+      "vendor": "tkinter_package",
+      "product": "tkinter"
+    },
+    "express-fileupload": {
+      "part": "a",
+      "vendor": "express-fileupload_project",
+      "product": "express-fileupload"
+    },
+    "tomita-parser": {
+      "part": "a",
+      "vendor": "yandex",
+      "product": "tomita-parser"
+    },
+    "puppeteer": {
+      "part": "a",
+      "vendor": "google",
+      "product": "chrome"
+    },
+    "npm-test-sqlite3-trunk": {
+      "part": "a",
+      "vendor": "mapbox",
+      "product": "npm-test-sqlite3-trunk"
+    },
+    "pdf-image": {
+      "part": "a",
+      "vendor": "pdf-image_project",
+      "product": "pdf-image"
+    },
+    "http_static_simple": {
+      "part": "a",
+      "vendor": "http_static_simple_project",
+      "product": "http_static_simple"
+    },
+    "fileview": {
+      "part": "a",
+      "vendor": "itwork",
+      "product": "fileview"
+    },
+    "summit": {
+      "part": "a",
+      "vendor": "summit_project",
+      "product": "summit"
+    },
+    "bkjs-wand": {
+      "part": "a",
+      "vendor": "bkjs-wand_project",
+      "product": "bkjs-wand"
+    },
+    "yapi-vendor": {
+      "part": "a",
+      "vendor": "ymfe",
+      "product": "yapi"
+    },
+    "infraserver": {
+      "part": "a",
+      "vendor": "infraserver_project",
+      "product": "infraserver"
+    },
+    "@ensdomains/ens": {
+      "part": "a",
+      "vendor": "ens.domains",
+      "product": "ethereum_name_service"
+    },
+    "dasafio": {
+      "part": "a",
+      "vendor": "dasafio_project",
+      "product": "dasafio"
+    },
+    "rollup-plugin-server": {
+      "part": "a",
+      "vendor": "rollup-plugin-server_project",
+      "product": "rollup-plugin-server"
+    },
+    "slpjs": {
+      "part": "a",
+      "vendor": "simpleledger",
+      "product": "slpjs"
+    },
+    "appium-chromedriver": {
+      "part": "a",
+      "vendor": "appium",
+      "product": "appium-chromedriver"
+    },
+    "aws-lambda-multipart-parser": {
+      "part": "a",
+      "vendor": "aws-lambda-multipart-parser_project",
+      "product": "aws-lambda-multipart-parser"
+    },
+    "cyber-js": {
+      "part": "a",
+      "vendor": "cyber-js_project",
+      "product": "cyber-js"
+    },
+    "slug": {
+      "part": "a",
+      "vendor": "slug_project",
+      "product": "slug"
+    },
+    "i18n-node-angular": {
+      "part": "a",
+      "vendor": "i18n-node-angular_project",
+      "product": "i18n-node-angular"
+    },
+    "knockout": {
+      "part": "a",
+      "vendor": "knockoutjs",
+      "product": "knockout"
+    },
+    "webdriver-launcher": {
+      "part": "a",
+      "vendor": "webdriver-launcher_project",
+      "product": "webdriver-launcher"
+    },
+    "prismjs": {
+      "part": "a",
+      "vendor": "prismjs",
+      "product": "prism"
+    },
+    "qbs": {
+      "part": "a",
+      "vendor": "qbs_project",
+      "product": "qbs"
+    },
+    "randomatic": {
+      "part": "a",
+      "vendor": "randomatic_project",
+      "product": "randomatic"
+    },
+    "tianma-static": {
+      "part": "a",
+      "vendor": "tianma-static_project",
+      "product": "tianma-static"
+    },
+    "xtalk": {
+      "part": "a",
+      "vendor": "xtalk_project",
+      "product": "xtalk"
+    },
+    "sequelize": {
+      "part": "a",
+      "vendor": "sequelizejs",
+      "product": "sequelize"
+    },
+    "aws-lambda": {
+      "part": "a",
+      "vendor": "amazon",
+      "product": "aws-lambda"
+    },
+    "tiny-json-http": {
+      "part": "a",
+      "vendor": "tiny-json-http_project",
+      "product": "tiny-json-http"
+    },
+    "webrtc-native": {
+      "part": "a",
+      "vendor": "webrtc",
+      "product": "webrtc-native"
+    },
+    "bower": {
+      "part": "a",
+      "vendor": "bower",
+      "product": "bower"
+    },
+    "coffe-script": {
+      "part": "a",
+      "vendor": "coffescript_project",
+      "product": "coffescript"
+    },
+    "sails-hook-sockets": {
+      "part": "a",
+      "vendor": "sailsjs",
+      "product": "sails"
+    },
+    "knex": {
+      "part": "a",
+      "vendor": "knexjs",
+      "product": "knex"
+    },
+    "samlify": {
+      "part": "a",
+      "vendor": "samlify_project",
+      "product": "samlify"
+    },
+    "sly07": {
+      "part": "a",
+      "vendor": "sly07_project",
+      "product": "sly07"
+    },
+    "hapi-auth-jwt2": {
+      "part": "a",
+      "vendor": "dwyl",
+      "product": "hapi-auth-jwt2"
+    },
+    "exceljs": {
+      "part": "a",
+      "vendor": "exceljs_project",
+      "product": "exceljs"
+    },
+    "mquery": {
+      "part": "a",
+      "vendor": "mquery_project",
+      "product": "mquery"
+    },
+    "phantom-html-to-pdf": {
+      "part": "a",
+      "vendor": "jsreport",
+      "product": "phantom-html-to-pdf"
+    },
+    "gitlabhook": {
+      "part": "a",
+      "vendor": "gitlabhook_project",
+      "product": "gitlabhook"
+    },
+    "nodeaaaaa": {
+      "part": "a",
+      "vendor": "nodeaaaaa_project",
+      "product": "nodeaaaaa"
+    },
+    "baryton-saxophone": {
+      "part": "a",
+      "vendor": "baryton-saxophone_project",
+      "product": "baryton-saxophone"
+    },
+    "jshamcrest": {
+      "part": "a",
+      "vendor": "jshamcrest_project",
+      "product": "jshamcrest"
+    },
+    "mpath": {
+      "part": "a",
+      "vendor": "mpath_project",
+      "product": "mpath"
+    },
+    "@risingstack/protect": {
+      "part": "a",
+      "vendor": "risingstack",
+      "product": "protect"
+    },
+    "cookie-signature": {
+      "part": "a",
+      "vendor": "cookie-signature_project",
+      "product": "cookie-signature"
+    },
+    "go-ipfs-dep": {
+      "part": "a",
+      "vendor": "ipfs",
+      "product": "go-ipfs-dep"
+    },
+    "serve-index": {
+      "part": "a",
+      "vendor": "nodejs",
+      "product": "node.js"
+    },
+    "js-yaml": {
+      "part": "a",
+      "vendor": "js-yaml_project",
+      "product": "js-yaml"
+    },
+    "calmquist.static-server": {
+      "part": "a",
+      "vendor": "calmquist.static-server_project",
+      "product": "calmquist.static-server"
+    },
+    "deep-extend": {
+      "part": "a",
+      "vendor": "deep_extend_project",
+      "product": "deep_extend"
+    },
+    "massif": {
+      "part": "a",
+      "vendor": "massif_project",
+      "product": "massif"
+    },
+    "jansenstuffpleasework": {
+      "part": "a",
+      "vendor": "jansenstuffpleasework_project",
+      "product": "jansenstuffpleasework"
+    },
+    "socket.io": {
+      "part": "a",
+      "vendor": "socket",
+      "product": "socket.io"
+    },
+    "haxeshim": {
+      "part": "a",
+      "vendor": "haxeshim_project",
+      "product": "haxeshim"
+    },
+    "mystem": {
+      "part": "a",
+      "vendor": "mystem_project",
+      "product": "mystem"
+    },
+    "request": {
+      "part": "a",
+      "vendor": "request_project",
+      "product": "request"
+    },
+    "debug": {
+      "part": "a",
+      "vendor": "debug_project",
+      "product": "debug"
+    },
+    "lodash-es": {
+      "part": "a",
+      "vendor": "lodash",
+      "product": "lodash"
+    },
+    "object-path": {
+      "part": "a",
+      "vendor": "object-path_project",
+      "product": "object-path"
+    },
+    "node-red-dashboard": {
+      "part": "a",
+      "vendor": "nodered",
+      "product": "node-red-dashboard"
+    },
+    "i18next": {
+      "part": "a",
+      "vendor": "i18next",
+      "product": "i18next"
+    },
+    "secure-compare": {
+      "part": "a",
+      "vendor": "secure-compare_project",
+      "product": "secure-compare"
+    },
+    "mockserve": {
+      "part": "a",
+      "vendor": "mockserve_project",
+      "product": "mockserve"
+    },
+    "unicorn-list": {
+      "part": "a",
+      "vendor": "unicorn-list_project",
+      "product": "unicorn-list"
+    },
+    "fis-parser-sass-bin": {
+      "part": "a",
+      "vendor": "fis-parser-sass-bin_project",
+      "product": "fis-parser-sass-bin"
+    },
+    "looppake": {
+      "part": "a",
+      "vendor": "looppake_project",
+      "product": "looppake"
+    },
+    "node-tkinter": {
+      "part": "a",
+      "vendor": "node-tkinter_project",
+      "product": "node-tkinter"
+    },
+    "hapi": {
+      "part": "a",
+      "vendor": "adobe",
+      "product": "adobe_air_sdk"
+    },
+    "uap-core": {
+      "part": "a",
+      "vendor": "uaparser",
+      "product": "user_agent_parser-core"
+    },
+    "hellojs": {
+      "part": "a",
+      "vendor": "hello.js_project",
+      "product": "hello.js"
+    },
+    "wintiwebdev": {
+      "part": "a",
+      "vendor": "wintiwebdev_project",
+      "product": "wintiwebdev"
+    },
+    "nodecaffe": {
+      "part": "a",
+      "vendor": "nodecaffe_project",
+      "product": "nodecaffe"
+    },
+    "highcharts": {
+      "part": "a",
+      "vendor": "highcharts",
+      "product": "highcharts"
+    },
+    "mfrserver": {
+      "part": "a",
+      "vendor": "mfrserver_project",
+      "product": "mfrserver"
+    },
+    "pennyworth": {
+      "part": "a",
+      "vendor": "pennyworth_project",
+      "product": "pennyworth"
+    },
+    "tencent-server": {
+      "part": "a",
+      "vendor": "tencent-server_project",
+      "product": "tencent-server"
+    },
+    "desafio": {
+      "part": "a",
+      "vendor": "desafio_project",
+      "product": "desafio"
+    },
+    "fstream": {
+      "part": "a",
+      "vendor": "fstream_project",
+      "product": "fstream"
+    },
+    "igniteui": {
+      "part": "a",
+      "vendor": "infragistics",
+      "product": "igniteui"
+    },
+    "mosca": {
+      "part": "a",
+      "vendor": "mosca_project",
+      "product": "mosca"
+    },
+    "jn_jj_server": {
+      "part": "a",
+      "vendor": "jn_jj_server_project",
+      "product": "jn_jj_server"
+    },
+    "haxe": {
+      "part": "a",
+      "vendor": "haxe",
+      "product": "haxe"
+    },
+    "yui": {
+      "part": "a",
+      "vendor": "moodle",
+      "product": "moodle"
+    },
+    "lodash.mergewith": {
+      "part": "a",
+      "vendor": "lodash",
+      "product": "lodash"
+    },
+    "shenliru": {
+      "part": "a",
+      "vendor": "shenliru_project",
+      "product": "shenliru"
+    },
+    "fresh": {
+      "part": "a",
+      "vendor": "fresh_project",
+      "product": "fresh"
+    },
+    "windows-latestchromedriver": {
+      "part": "a",
+      "vendor": "windows-latestchromedriver_project",
+      "product": "windows-latestchromedriver"
+    },
+    "node-opensl": {
+      "part": "a",
+      "vendor": "node-opensl_project",
+      "product": "node-opensl"
+    },
+    "jadedown": {
+      "part": "a",
+      "vendor": "jadedown_project",
+      "product": "jadedown"
+    },
+    "node.extend": {
+      "part": "a",
+      "vendor": "dreamerslab",
+      "product": "node.extend"
+    },
+    "pm2-kafka": {
+      "part": "a",
+      "vendor": "pm2-kafka_project",
+      "product": "pm2-kafka"
+    },
+    "reecerver": {
+      "part": "a",
+      "vendor": "reecerver_project",
+      "product": "reecerver"
+    },
+    "arcanist": {
+      "part": "a",
+      "vendor": "hujiang",
+      "product": "arcanist"
+    },
+    "superagent": {
+      "part": "a",
+      "vendor": "superagent_project",
+      "product": "superagent"
+    },
+    "total.js": {
+      "part": "a",
+      "vendor": "totaljs",
+      "product": "total.js"
+    },
+    "gsap": {
+      "part": "a",
+      "vendor": "greensock",
+      "product": "greensock_animation_platform"
+    },
+    "intsol-package": {
+      "part": "a",
+      "vendor": "intsol-package_project",
+      "product": "intsol-package"
+    },
+    "connect": {
+      "part": "a",
+      "vendor": "sencha",
+      "product": "connect"
+    },
+    "libnmap": {
+      "part": "a",
+      "vendor": "libnmap_project",
+      "product": "libnmap"
+    },
+    "operadriver": {
+      "part": "a",
+      "vendor": "cnpmjs",
+      "product": "operadriver"
+    },
+    "keystone": {
+      "part": "a",
+      "vendor": "keystonejs",
+      "product": "keystone"
+    },
+    "prebuild-lwip": {
+      "part": "a",
+      "vendor": "prebuild-lwip_project",
+      "product": "prebuild-lwip"
+    },
+    "systeminformation": {
+      "part": "a",
+      "vendor": "systeminformation",
+      "product": "systeminformation"
+    },
+    "backbone": {
+      "part": "a",
+      "vendor": "backbone_project",
+      "product": "backbone"
+    },
+    "ssri": {
+      "part": "a",
+      "vendor": "ssri_project",
+      "product": "ssri"
+    },
+    "d3.js": {
+      "part": "a",
+      "vendor": "d3.js_project",
+      "product": "d3.js"
+    }
+  },
+  "nuget": {
+    "MessagePack.ImmutableCollection": {
+      "part": "a",
+      "vendor": "messagepack",
+      "product": "messagepack"
+    },
+    "Microsoft.AspNetCore.App": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": ".net_core"
+    },
+    "System.Security.Cryptography.Xml": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": ".net_core"
+    },
+    "MessagePack.UnityShims": {
+      "part": "a",
+      "vendor": "messagepack",
+      "product": "messagepack"
+    },
+    "Microsoft.NETCore.UniversalWindowsPlatform": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": ".net_core"
+    },
+    "recurly-api-client": {
+      "part": "a",
+      "vendor": "recurly",
+      "product": "recurly_client_.net"
+    },
+    "CefSharp.Wpf.HwndHost": {
+      "part": "a",
+      "vendor": "google",
+      "product": "chrome"
+    },
+    "DotNetZip": {
+      "part": "a",
+      "vendor": "dotnetzip.semverd_project",
+      "product": "dotnetzip.semverd"
+    },
+    "MetadataExtractor": {
+      "part": "a",
+      "vendor": "metadataextractor_project",
+      "product": "metadataextractor"
+    },
+    "Sustainsys.Saml2": {
+      "part": "a",
+      "vendor": "simplesamlphp",
+      "product": "saml2"
+    },
+    "CefSharp.WinForms": {
+      "part": "a",
+      "vendor": "google",
+      "product": "chrome"
+    },
+    "HaemmerElectronics.SeppPenner.WindowsHello": {
+      "part": "a",
+      "vendor": "windowshello_project",
+      "product": "windowshello"
+    },
+    "bootstrap": {
+      "part": "a",
+      "vendor": "getbootstrap",
+      "product": "bootstrap"
+    },
+    "Microsoft.Data.OData": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": "microsoft.data.odata"
+    },
+    "bootstrap.sass": {
+      "part": "a",
+      "vendor": "f5",
+      "product": "big-ip_access_policy_manager"
+    },
+    "YamlDotNet.Signed": {
+      "part": "a",
+      "vendor": "yamldotnet_project",
+      "product": "yamldotnet"
+    },
+    "Microsoft.AspNetCore.All": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": ".net_core"
+    },
+    "Bootstrap.Less": {
+      "part": "a",
+      "vendor": "f5",
+      "product": "big-ip_access_policy_manager"
+    },
+    "YamlDotNet": {
+      "part": "a",
+      "vendor": "yamldotnet_project",
+      "product": "yamldotnet"
+    },
+    "MessagePack.ReactiveProperty": {
+      "part": "a",
+      "vendor": "messagepack",
+      "product": "messagepack"
+    },
+    "Microsoft.AspNetCore.Server.Kestrel.Core": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": "asp.net_core"
+    },
+    "microsoft.identitymodel.clients.activedirectory": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": "active_directory_authentication_library"
+    },
+    "Microsoft.AspNetCore.HttpOverrides": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": "asp.net_core"
+    },
+    "log4net": {
+      "part": "a",
+      "vendor": "apache",
+      "product": "log4net"
+    },
+    "MadsKristensen.AspNetCore.Miniblog": {
+      "part": "a",
+      "vendor": "miniblog.core_project",
+      "product": "miniblog.core"
+    },
+    "ServiceStack": {
+      "part": "a",
+      "vendor": "servicestack",
+      "product": "servicestack"
+    },
+    "Auth0.AuthenticationApi": {
+      "part": "a",
+      "vendor": "auth0",
+      "product": "auth0.net"
+    },
+    "CLEditor": {
+      "part": "a",
+      "vendor": "premiumsoftware",
+      "product": "cleditor"
+    },
+    "OPCFoundation.NetStandard.Opc.Ua": {
+      "part": "a",
+      "vendor": "opcfoundation",
+      "product": "ua-.net-legacy"
+    },
+    "MessagePack": {
+      "part": "a",
+      "vendor": "messagepack",
+      "product": "messagepack"
+    },
+    "DotNetNuke.Core": {
+      "part": "a",
+      "vendor": "dnnsoftware",
+      "product": "dotnetnuke"
+    },
+    "Microsoft.AspNetCore.Identity": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": "asp.net_core"
+    },
+    "System.Management.Automation": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": "powershell_core"
+    },
+    "HtmlSanitizer": {
+      "part": "a",
+      "vendor": "htmlsanitizer_project",
+      "product": "htmlsanitizer"
+    },
+    "Auth0-WCF-Service-JWT": {
+      "part": "a",
+      "vendor": "auth0",
+      "product": "auth0-wcf-service-jwt"
+    },
+    "Microsoft.ChakraCore": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": "chakracore"
+    },
+    "Microsoft.AspNetCore.Mvc": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": ".net_framework"
+    },
+    "System.IO.Pipelines": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": ".net_core"
+    },
+    "i18n": {
+      "part": "a",
+      "vendor": "i18n_project",
+      "product": "i18n"
+    },
+    "UmbracoForms": {
+      "part": "a",
+      "vendor": "umbraco",
+      "product": "umbracoforms"
+    },
+    "sharpcompress": {
+      "part": "a",
+      "vendor": "sharpcompress_project",
+      "product": "sharpcompress"
+    },
+    "CefSharp.Common": {
+      "part": "a",
+      "vendor": "google",
+      "product": "chrome"
+    },
+    "CefSharp.Wpf": {
+      "part": "a",
+      "vendor": "google",
+      "product": "chrome"
+    },
+    "Microsoft.AspNetCore.Mvc.Core": {
+      "part": "a",
+      "vendor": "microsoft",
+      "product": ".net_framework"
+    }
+  }
+}
