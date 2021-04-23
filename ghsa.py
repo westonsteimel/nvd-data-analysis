@@ -49,6 +49,8 @@ for advisory_file in advisory_files:
                     package_metadata = copy.deepcopy(current_package_metadata[lookup_key])
                     assert package_metadata == current_package_metadata[lookup_key]
 
+                    if 'cpe_configurations' not in package_metadata:
+                        package_metadata['cpe_configurations'] = [] 
                 else:
                     package_metadata = {
                         'name': name,
@@ -101,7 +103,14 @@ for advisory_file in advisory_files:
                                         target_software = cpe_components[10]
 
                                         if (part == 'o' and vendor == 'fedoraproject' and product == 'fedora') \
-                                            or (part == 'o' and vendor == 'debian' and product == 'debian_linux'):
+                                            or (part == 'o' and vendor == 'debian' and product == 'debian_linux') \
+                                            or (part == 'a' and vendor == 'opensuse' and product == 'backports_sle') \
+                                            or (part == 'o' and vendor == 'opensuse' and product == 'leap') \
+                                            or (part == 'o' and vendor == 'canonical' and product == 'ubuntu_linux'):
+                                            or (part == 'o' and vendor == 'oracle' and product == 'solaris') \
+                                            or (part == 'o' and vendor == 'redhat' and product.startswith('enterprise_linux')) \
+                                            or (vendor == 'redhat' and product == 'openstack' and product not in name.lower()):
+
                                             continue
 
                                         cpe_key = f'{part}:{vendor}:{product}:{target_software}'
