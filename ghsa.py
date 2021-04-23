@@ -9,13 +9,13 @@ import copy
 current_package_metadata = {}
 updated_package_metadata = {}
 data_path = '/home/weston/github/westonsteimel/vuln-list-main'
-severity='critical'
+severity=None
 advisory_files = glob.glob(f'{data_path}/ghsa/**/*.json', recursive=True)
 package_metadata_files = glob.glob(f'/home/weston/github/westonsteimel/package-metadata/**/*.toml')
 
 for metadata_file in package_metadata_files:
     with open(metadata_file, 'r+') as f:
-        print(metadata_file)
+        #print(metadata_file)
         metadata = toml.load(f)
         ecosystem = metadata['ecosystem'].lower()
         name = metadata['name'].lower()
@@ -24,111 +24,114 @@ for metadata_file in package_metadata_files:
 
 for advisory_file in advisory_files:
     with open(advisory_file, 'r+') as f:
-        print(advisory_file)
+        #print(advisory_file)
         advisory = json.load(f)
 
         if severity:
             if advisory.get('Severity').lower() != severity:
                 continue
 
-            package_info = advisory.get('Package')
+        package_info = advisory.get('Package')
 
-            if not package_info:
-                continue
+        if not package_info:
+            continue
 
-            ecosystem = package_info['Ecosystem'].lower()
+        ecosystem = package_info['Ecosystem'].lower()
 
-            if ecosystem == 'pip':
-                ecosystem = 'pypi'
+        if ecosystem == 'pip':
+            ecosystem = 'pypi'
 
-            name = package_info['Name']
-            lookup_key = f'{ecosystem}:{name.lower()}'
+        name = package_info['Name']
+        lookup_key = f'{ecosystem}:{name.lower()}'
 
-            if lookup_key not in updated_package_metadata:
-                if lookup_key in current_package_metadata:
-                    package_metadata = copy.deepcopy(current_package_metadata[lookup_key])
-                    assert package_metadata == current_package_metadata[lookup_key]
+        if lookup_key not in updated_package_metadata:
+            if lookup_key in current_package_metadata:
+                package_metadata = copy.deepcopy(current_package_metadata[lookup_key])
+                assert package_metadata == current_package_metadata[lookup_key]
 
-                    if 'cpe_configurations' not in package_metadata:
-                        package_metadata['cpe_configurations'] = [] 
-                else:
-                    package_metadata = {
-                        'name': name,
-                        'ecosystem': ecosystem,
-                        'cpe_configurations': []
-                    }
-
-                package_metadata['cpe_mapping'] = {}
+                if 'cpe_configurations' not in package_metadata:
+                    package_metadata['cpe_configurations'] = [] 
             else:
-                package_metadata = updated_package_metadata[lookup_key]
+                package_metadata = {
+                    'name': name,
+                    'ecosystem': ecosystem,
+                    'cpe_configurations': []
+                }
 
-            for cpe_config in package_metadata.get('cpe_configurations', []):
-                part = cpe_config.get('part', 'a')
-                vendor = cpe_config.get('vendor')
-                product = cpe_config.get('product')
-                target_software = cpe_config.get('target_software', '*')
-                cpe_key = f'{part}:{vendor}:{product}:{target_software}'
-                package_metadata['cpe_mapping'][cpe_key] = cpe_config
+            package_metadata['cpe_mapping'] = {}
+        else:
+            package_metadata = updated_package_metadata[lookup_key]
 
-            for ref in advisory.get('Advisory', {}).get('References', []):
-                url = ref.get('Url')
+        for cpe_config in package_metadata.get('cpe_configurations', []):
+            part = cpe_config.get('part', 'a')
+            vendor = cpe_config.get('vendor')
+            product = cpe_config.get('product')
+            target_software = cpe_config.get('target_software', '*')
+            cpe_key = f'{part}:{vendor}:{product}:{target_software}'
+            package_metadata['cpe_mapping'][cpe_key] = cpe_config
 
-                if url.startswith('https://nvd.nist.gov/vuln/detail/'):
-                    cve = url.split('/')[-1]
-                    cve_components = cve.split('-')
+        for ref in advisory.get('Advisory', {}).get('References', []):
+            url = ref.get('Url')
 
-                    if len(cve_components) != 3:
-                        print(f'CVE {cve} in file {advisory_file} had more than 3 components.')
-                        continue
+            if url.startswith('https://nvd.nist.gov/vuln/detail/'):
+                cve = url.split('/')[-1]
+                cve_components = cve.split('-')
 
-                    cve_dir = cve_components[1]
-                    cve_path = f'{data_path}/nvd/{cve_dir}/{cve}.json'
+                if len(cve_components) != 3:
+                    print(f'CVE {cve} in file {advisory_file} had more than 3 components.')
+                    continue
 
-                    if os.path.exists(cve_path):
-                        with open(cve_path, 'r+') as cve_file:
-                            cve_info = json.load(cve_file)
-                            nodes = cve_info.get('configurations', {}).get('nodes', [])
+                cve_dir = cve_components[1]
+                cve_path = f'{data_path}/nvd/{cve_dir}/{cve}.json'
 
-                            for node in nodes:
-                                matches = node.get('cpe_match', [])
+                if not os.path.exists(cve_path):
+                    print(f'No CVE file found for package {ecosystem}:{name}: {url}')
 
-                                for match in matches:
-                                    uri = match.get('cpe23Uri')
-                                    
-                                    if uri:
-                                        cpe_components = uri.split(':')
-                                        part = cpe_components[2]
-                                        vendor = cpe_components[3]
-                                        product = cpe_components[4]
-                                        target_software = cpe_components[10]
+                if os.path.exists(cve_path):
+                    with open(cve_path, 'r+') as cve_file:
+                        cve_info = json.load(cve_file)
+                        nodes = cve_info.get('configurations', {}).get('nodes', [])
 
-                                        if (part == 'o' and vendor == 'fedoraproject' and product == 'fedora') \
-                                            or (part == 'o' and vendor == 'debian' and product == 'debian_linux') \
-                                            or (part == 'a' and vendor == 'opensuse' and product == 'backports_sle') \
-                                            or (part == 'o' and vendor == 'opensuse' and product == 'leap') \
-                                            or (part == 'o' and vendor == 'canonical' and product == 'ubuntu_linux'):
-                                            or (part == 'o' and vendor == 'oracle' and product == 'solaris') \
-                                            or (part == 'o' and vendor == 'redhat' and product.startswith('enterprise_linux')) \
-                                            or (vendor == 'redhat' and product == 'openstack' and product not in name.lower()):
+                        for node in nodes:
+                            matches = node.get('cpe_match', [])
 
-                                            continue
+                            for match in matches:
+                                uri = match.get('cpe23Uri')
+                                
+                                if uri:
+                                    cpe_components = uri.split(':')
+                                    part = cpe_components[2]
+                                    vendor = cpe_components[3]
+                                    product = cpe_components[4]
+                                    target_software = cpe_components[10]
 
-                                        cpe_key = f'{part}:{vendor}:{product}:{target_software}'
+                                    if (part == 'o' and vendor == 'fedoraproject' and product == 'fedora') \
+                                        or (part == 'o' and vendor == 'debian' and product == 'debian_linux') \
+                                        or (part == 'a' and vendor == 'opensuse' and product == 'backports_sle') \
+                                        or (part == 'o' and vendor == 'opensuse' and product == 'leap') \
+                                        or (part == 'o' and vendor == 'canonical' and product == 'ubuntu_linux') \
+                                        or (part == 'o' and vendor == 'oracle' and product == 'solaris') \
+                                        or (part == 'o' and vendor == 'redhat' and product.startswith('enterprise_linux')) \
+                                        or (vendor == 'redhat' and product == 'openstack' and product not in name.lower()):
 
-                                        if cpe_key not in package_metadata['cpe_mapping']:
-                                            cpe = {
-                                                'vendor': vendor,
-                                                'product': product, 
-                                            }
+                                        continue
 
-                                            if part != 'a':
-                                                cpe['part'] = part
+                                    cpe_key = f'{part}:{vendor}:{product}:{target_software}'
 
-                                            if target_software != '*':
-                                                cpe['target_software'] = target_software
+                                    if cpe_key not in package_metadata['cpe_mapping']:
+                                        cpe = {
+                                            'vendor': vendor,
+                                            'product': product, 
+                                        }
 
-                                            package_metadata['cpe_mapping'][cpe_key] = cpe
-                                            package_metadata['cpe_configurations'].append(cpe)
+                                        if part != 'a':
+                                            cpe['part'] = part
+
+                                        if target_software != '*':
+                                            cpe['target_software'] = target_software
+
+                                        package_metadata['cpe_mapping'][cpe_key] = cpe
+                                        package_metadata['cpe_configurations'].append(cpe)
 
             updated_package_metadata[lookup_key] = package_metadata
 
