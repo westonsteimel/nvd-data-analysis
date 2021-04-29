@@ -109,9 +109,11 @@ for advisory_file in advisory_files:
                                         or (part == 'o' and vendor == 'debian' and product == 'debian_linux') \
                                         or (part == 'a' and vendor == 'opensuse' and product == 'backports_sle') \
                                         or (part == 'o' and vendor == 'opensuse' and product == 'leap') \
+                                        or (part == 'o' and vendor == 'opensuse' and product == 'opensuse') \
                                         or (part == 'o' and vendor == 'canonical' and product == 'ubuntu_linux') \
                                         or (part == 'o' and vendor == 'oracle' and product == 'solaris') \
                                         or (part == 'o' and vendor == 'redhat' and product.startswith('enterprise_linux')) \
+                                        or (part == 'o' and vendor == 'novell' and product == "suse_linux_enterprise_server") \
                                         or (vendor == 'redhat' and product == 'openstack' and product not in name.lower()):
 
                                         continue
