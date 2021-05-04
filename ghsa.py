@@ -105,6 +105,11 @@ for advisory_file in advisory_files:
                                     product = cpe_components[4]
                                     target_software = cpe_components[10]
 
+                                    if ecosystem == 'rubygems' \
+                                        and vendor == 'rest-client_project' and product == 'rest-client' and name != 'rest-client':
+                                        
+                                        continue
+
                                     if (part == 'o' and vendor == 'fedoraproject' and product == 'fedora') \
                                         or (part == 'o' and vendor == 'debian' and product == 'debian_linux') \
                                         or (part == 'a' and vendor == 'opensuse' and product == 'backports_sle') \
