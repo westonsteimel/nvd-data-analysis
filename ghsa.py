@@ -11,7 +11,7 @@ updated_package_metadata = {}
 data_path = '/home/weston/github/westonsteimel/vuln-list-main'
 severity=None
 advisory_files = glob.glob(f'{data_path}/ghsa/**/*.json', recursive=True)
-package_metadata_files = glob.glob(f'/home/weston/github/westonsteimel/package-metadata/**/*.toml')
+package_metadata_files = glob.glob(f'/home/weston/github/westonsteimel/package-metadata/**/*.toml', recursive=True)
 
 for metadata_file in package_metadata_files:
     with open(metadata_file, 'r+') as f:
