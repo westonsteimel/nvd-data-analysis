@@ -33,6 +33,11 @@ for advisory_file in advisory_files:
 
         ecosystem = package_slug.split('/')[0].lower()
 
+        if ecosystem == "packagist":
+            ecosystem = "composer"
+        elif ecosystem == "gem":
+            ecosystem = "rubygems"
+
         name = package_slug.split('/')[1]
         lookup_key = f'{ecosystem}:{name.lower()}'
 
