@@ -35,7 +35,7 @@ for advisory_file in advisory_files:
         #print(advisory_file)
         advisory = yaml.safe_load(f)
         
-        package_slug = advisory.get('PackageSlug')
+        package_slug = advisory.get('package_slug')
 
         if not package_slug:
             continue
@@ -76,7 +76,7 @@ for advisory_file in advisory_files:
             cpe_key = f'{part}:{vendor}:{product}:{target_software}'
             package_metadata['cpe_mapping'][cpe_key] = cpe_config
 
-        cve = advisory['Identifier']
+        cve = advisory['identifier']
         cve_components = cve.split('-')
 
         if len(cve_components) != 3:
@@ -84,7 +84,7 @@ for advisory_file in advisory_files:
             continue
 
         cve_dir = cve_components[1]
-        cve_path = f'{nvd_data_path}/nvd/{cve_dir}/{cve}.json'
+        cve_path = f'{nvd_data_path}/{cve_dir}/{cve}.json'
 
         if not os.path.exists(cve_path):
             print(f'No CVE file found for package {ecosystem}:{name}: {cve}')
