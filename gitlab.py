@@ -5,11 +5,20 @@ import requests
 import os
 import os.path
 import copy
+import tarfile
+import yaml
 
 current_package_metadata = {}
 updated_package_metadata = {}
-data_path = '/home/weston/github/westonsteimel/vuln-list-main'
-advisory_files = glob.glob(f'{data_path}/glad/**/CVE-*.json', recursive=True)
+
+nvd_data_path = "/home/weston/github/westonsteimel/vuln-list-main/nvd"
+data_path = '/tmp/gitlab/community-advisories/'
+os.makedirs(data_path, exist_ok=True)
+url = "https://gitlab.com/gitlab-org/advisories-community/-/archive/main/advisories-community-main.tar.gz"
+response = requests.get(url, stream=True)
+file = tarfile.open(fileobj=response.raw, mode="r|gz")
+file.extractall(path=data_path)
+advisory_files = glob.glob(f'{data_path}/advisories-community-main/**/CVE-*.yml', recursive=True)
 package_metadata_files = glob.glob(f'/home/weston/github/westonsteimel/package-metadata/**/*.toml', recursive=True)
 
 for metadata_file in package_metadata_files:
@@ -24,7 +33,7 @@ for metadata_file in package_metadata_files:
 for advisory_file in advisory_files:
     with open(advisory_file, 'r+') as f:
         #print(advisory_file)
-        advisory = json.load(f)
+        advisory = yaml.safe_load(f)
         
         package_slug = advisory.get('PackageSlug')
 
@@ -75,7 +84,7 @@ for advisory_file in advisory_files:
             continue
 
         cve_dir = cve_components[1]
-        cve_path = f'{data_path}/nvd/{cve_dir}/{cve}.json'
+        cve_path = f'{nvd_data_path}/nvd/{cve_dir}/{cve}.json'
 
         if not os.path.exists(cve_path):
             print(f'No CVE file found for package {ecosystem}:{name}: {cve}')
