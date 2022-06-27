@@ -50,10 +50,18 @@ for item in official_cpe_list:
                 del all_cpes[name]
 
 cpe_prefixes = {}
+same_vendor_product_count = 0
 
 for cpe in all_cpes.keys():
     components = cpe.split(':')
     prefix = ':'.join(components[3:5])
+
+    s = prefix.split(':')
+
+    if prefix not in cpe_prefixes:
+        if s[0] == s[1]:
+            same_vendor_product_count += 1
+            #print(prefix)
 
     cpe_prefixes[prefix] = True
 
@@ -67,6 +75,7 @@ print(f'Official Entries Total: {len(cpe_23_dict)}')
 print(f'Missing official entry: {len(cpes_with_no_official_entry)}')
 print(f'All: {len(sorted_all)}')
 print(f'Unique CPE prefixes: {len(sorted_prefixes)}')
+print(f'Product and vendor are equal {same_vendor_product_count}')
 
 with open('data/cpe/cpes_with_no_official_entry.json', 'w+') as f:
     json.dump(cpes_with_no_official_entry, f, indent=2)
